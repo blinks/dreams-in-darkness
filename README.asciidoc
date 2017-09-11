@@ -1,0 +1,185 @@
+= Battle Mage
+Adam Blinkinsop
+
+== Introduction
+- Dispatch, double-blind, kriegspiel.
+- Drinking from a convocation goblet.
+- Income, rituals, and resources.
+- Strength and conditions like Mouse Guard and Torchbearer.
+- Time and timestamps.
+- The map.
+- Orders and standing orders.
+
+== Orders
+
+*When you march,* commit forces to a direction or destination on the map and
+they'll try to get there.  Dispatch will tell you if you run into anything
+unexpected, and when you reach your destination.  It takes six hours to cross
+an area of open terrain.  Most difficult terrain takes twice as long to cross.
+
+*When you send out a messenger,* provide the exact message you wish to send,
+the person you wish to recieve it, and the place you expect them to be.  The
+messenger will move at twice normal marching speed until they reach the
+destination, and then attempt to find that person to deliver the message.
+Messengers can get lost or intercepted, be careful.
+
+*When you rest your forces in a safe place,* commit your forces for six hours
+and recover them from Tired.  Spend a Cup for each force or they gain Hungry.
+
+*When you forage a healthy area for resources,* commit one force for three
+hours and give it a condition.  Dispatch will draw income for you and describe
+how you got it.  Dispatch will also mark the area as depleted (foraging will
+fail) for days equal to the last-discarded card's rank.
+
+== Rituals
+When you invoke a ritual you have learned, commit your mage for up to six hours
+and spend wands:
+
+.Ritual Costs
+|===
+|Hours |1  |2 |3 |4 |5 |6
+|Wands |13 |8 |5 |3 |2 |1
+|===
+
+Dispatch might ask a few clarifying questions, and will tell you what happens
+at the end of the invokation time.
+
+=== 0. The Fool
+Confuse movement through an area until the next sunrise.  Anything attempting
+to move in the chosen area will have their destination randomly determined by
+Dispatch.  Messengers will get lost, armies rerouted, and so on.
+
+=== I. The Magician
+Tell Dispatch what you sacrifice, and they will draw a card.  They will give
+you new resources equal to the lesser of the card draw or the amount you
+sacrificed.  If Dispatch draws Major Arcana, you will learn a new ritual.
+
+=== II. The High Priestess
+Receive a vision.  Dispatch will tell you something interesting and useful
+about the current situation, and might ask you a question or two.  Answer them.
+
+=== III. The Empress
+Dispatch will draw two cards and ask which one you want.  You'll get the
+resources or ritual on your chosen card immediately, while everyone else will
+freely receive the resources or ritual on the other card as additional income
+at sunrise.
+
+=== IV. The Emperor
+Until the next sunset, you control your armies perfectly.  If you engage with
+an enemy in that time, Dispatch will tell you their orders.  If you reply
+promptly with new orders, they will replace your standing orders for that
+engagement.
+
+=== V. The Hierophant
+Ask one question from the following list.  Dispatch will answer truthfully.
+
+- Where's my safest path to X?
+- Which enemy is most vulnerable to me?
+- Which enemy is the biggest threat?
+- What should I be on the lookout for?
+- What's X's true position?
+
+=== VI. The Lovers
+Choose another mage.  If they accept, you will be able to communicate directly
+with them and they with you until the next sunrise.  Otherwise, take a
+condition.
+
+=== VII. The Chariot
+Choose any amount of nearby people.  All of them can move twice as quickly
+until the next sunset.
+
+=== VIII. Strength
+Choose any amount of nearby combatants.  All of them fight twice as hard
+(doubling their strength) until the next sunset.  Remember your standing
+orders, you may need to change them for this time.
+
+=== IX. The Hermit
+Choose an area on the map.  Dispatch will tell you what's there, in detail,
+including one point of interest.
+
+=== X. [Wheel of] Fortune
+Dispatch will secretly draw a card and provide you a boon.  You may or may not
+learn of that boon immediately:
+
+- Major Arcana: The ritual will be invoked immediately, at no cost; Dispatch
+  may ask questions to determine how.
+- Wands: The next time you invoke a ritual, it may be invoked immediately, at
+  no cost.  Otherwise, you hold onto this option.  You cannot gain multiple.
+- Cups: Everyone traveling with you restores from any one condition.
+- Swords: This card's value will be added to your next engagement.
+- Coins: You will get income twice next sunrise.
+
+=== XI. Justice
+Choose another nearby mage.  If their force is stronger than yours, all their
+forces will gain a condition.  Otherwise, all _your_ forces will gain a
+condition.
+
+=== XII. The Hanged Man
+Gain immunity to all ritual effects until the next sunrise.  Dispatch will tell
+you if any rituals were avoided, what they were, and who invoked them.
+
+=== XIII. Death
+Everyone in a nearby area gains a condition.
+
+=== XIV. Temperance
+Balance out your resources.  The thing you have most of will convert into what
+you have least of until they balance.  In the case of a tie, you decide.
+
+=== XV. The Devil
+Summon a monster and give it a task.  It is not subtle.  Dispatch will control
+it until the task is complete, and then it will be freed.  At that time,
+Dispatch will draw to determine its fate:
+
+- Major Arcana: The monster remains, allied to nobody, destructive to all.
+- Otherwise: The monster is pulled back to where it came.
+
+If Dispatch cannot interpret your task, or if they think it's impossible or too
+vague, the ritual will fail.  Your time and resources are still spent.
+
+=== XVI. The Tower
+Destroy a nearby constructed work, as if by explosives.
+
+=== XVII. The Star
+Everyone you choose may recover from the wounded condition.
+
+=== XVIII. The Moon
+Everyone you choose becomes invisible until the next sunrise.  Tell Dispatch if
+you want to avoid engagement.  Invisibility is lost when you draw blood.
+
+=== XIX. The Sun
+Everyone you choose may recover from the demoralized condition and become
+fresh, if they have no other conditions marked.
+
+=== XX. Judgement
+Raise the recently-dead in your area to fight as 2-strength forces.  Any living
+forces (including your own) gain a condition when interacting with dead forces.
+Dead forces that take the wounded condition are destroyed.  Mark other
+conditions, but they have no effect on the dead force's strength.
+
+=== XXI. The World
+Choose people and a destination.  Everyone that allows it will be teleported to
+that destination when the ritual completes.  Dispatch will not tell them the
+destination when asking if they allow it, you must do that.  Or not.
+
+Your loyal forces will always allow it.
+
+== Dispatch
+You've got a bunch of triggers that you need to track in the background.
+
+=== Sunrise
+
+*Forces that didn't rest* gain Tired.
+
+*Draw income for each mage* and tell them what it is -- mages have foresight.
+The ritual or resources on it will head towards them at twice normal marching
+speed.  They can get lost or intercepted.
+
+=== Encounters
+
+*When two mages are in the same area,* tell each of them about the other.  If
+the area is open terrain, also describe the forces each commands.
+
+*When two or more armies meet in battle,* consult each commander's standing
+orders to determine what forces to commit.  All committed forces gain a
+condition.  The force(s) in minority gain another.  Report the battle to all
+nearby mages.
