@@ -42,7 +42,7 @@ and spend wands:
 |===
 
 Dispatch might ask a few clarifying questions, and will tell you what happens
-at the end of the invokation time.
+at the end of the invocation time.
 
 === 0. The Fool
 Confuse movement through an area until the next sunrise.  Anything attempting
