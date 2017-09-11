@@ -1,14 +1,81 @@
-= Battle Mage
+= Battle Mages
 Adam Blinkinsop
 
 == Introduction
-- Dispatch, double-blind, kriegspiel.
-- Drinking from a convocation goblet.
-- Income, rituals, and resources.
-- Strength and conditions like Mouse Guard and Torchbearer.
-- Time and timestamps.
-- The map.
-- Orders and standing orders.
+Battle Mages is a double-blind free kriegspiel.
+
+- Double-blind: Alice can't see what Charles is doing, nor vice-versa.
+- Free: Alice and Charles can give whatever orders they see fit.
+- Kriegspiel: Alice and Charles are at war, and someone will win the game.
+
+This makes it a cross between a role-playing game and a wargame, and in fact,
+the kriegspiel is where role-playing games came from.
+
+One player acts as *Dispatch*, who manages the state of the world.  Everything
+that everyone does will go to Dispatch first, so it's an essential role to
+fill, if occasionally exhausting.
+
+The rest of the players control *Battle Mages* in a middle-ages continental
+conflict.  Mages have a convocation goblet, limited foresight, and the ability
+to invoke rituals to cause great magical effects.  They also should probably be
+raising armies.
+
+A *Convocation Goblet* is one of a set of ancient relics passed down for
+centuries.  When you drink from one, your spirit attends a meeting with all the
+other mages that drank at that time.  Law dictates that mages always drink from
+the goblet at sunset after an eclipse, to maintain decency and order among
+those who control goblets.
+
+At sunrise each day, Dispatch will *draw income from a tarot deck* for each
+mage.  Draws will determine what resources or rituals become available for
+them, but they must travel out to the mage if not at home.  Resources match the
+four tarot suits (wands, cups, swords, and coins), and rituals are found in the
+major arcana.
+
+- Wands: The more wands you spend, the faster you can invoke a given ritual.
+- Cups: Feed your forces when they get hungry.
+- Swords: Raise new forces and support existing ones.
+- Coins: Pay your forces when they ask why they're even doing this.
+
+Each force starts out as *7-strength*, which drops as they take conditions.
+When a force takes an unnamed condition, mark the top-most unmarked one.
+
+- Fresh: +1 strength if no other conditions marked.
+- Hungry and Thirsty: -1 strength until you spend a cup.
+- Angry: -1 strength until you rest and spend a coin.
+- Exhausted: -1 strength until you rest.
+- Injured: -1 strength until you rest and spend a cup.
+- Dead: as it says on the tin.
+
+TODO: *The map as voronoi diagram for area/edge movement, and initial generation.*
+
+The game begins at sunrise on day 1, with time divided into hourly chunks:
+
+- sunrise, sunrise+1, ..., sunrise+5
+- noon, noon+1, ..., noon+5
+- sunset, sunset+1, ..., sunset+5
+- midnight, midnight+1, ..., midnight+5
+
+When you tell Dispatch what you want to do, put a timestamp in the message for
+what game time you're talking about.  That is, when Dispatch sends Alice her
+income for the day, she can send back orders for sunrise or any later time.
+For example:
+
+> Sunrise: march for Charlie at Silver Ford.
+> Send a message to Rebecca at Archangel's Rest: "We're coming."
+
+== The Initial Convocation
+When the game starts, there has just been an eclipse.  Mages drink from their
+goblets at sunset, so everyone has the opportunity to discuss -- in public --
+whatever they like.
+
+Dispatch draws income three times for each mage to get their initial resources
+and rituals, privately known before the convocation.  Dispatch also assigns
+teams and initial locations for each mage.  Finally, mages each start with
+three forces.  They should be named.
+
+Immediately after the convocation (sunset+1), players may send orders or wait
+'til sunrise.
 
 == Orders
 
@@ -23,13 +90,16 @@ messenger will move at twice normal marching speed until they reach the
 destination, and then attempt to find that person to deliver the message.
 Messengers can get lost or intercepted, be careful.
 
-*When you rest your forces in a safe place,* commit your forces for six hours
-and recover them from Tired.  Spend a Cup for each force or they gain Hungry.
+*When you rest your forces in a safe place,* commit your forces for six hours.
+You may also recover from conditions that require rest.
 
 *When you forage a healthy area for resources,* commit one force for three
 hours and give it a condition.  Dispatch will draw income for you and describe
 how you got it.  Dispatch will also mark the area as depleted (foraging will
 fail) for days equal to the last-discarded card's rank.
+
+*When you drink from your convocation goblet,* Dispatch will tell you who else
+is attending the meeting, and you may all communicate freely for that hour.
 
 == Rituals
 When you invoke a ritual you have learned, commit your mage for up to six hours
@@ -168,7 +238,7 @@ You've got a bunch of triggers that you need to track in the background.
 
 === Sunrise
 
-*Forces that didn't rest* gain Tired.
+*Forces that didn't rest* gain Exhausted.
 
 *Draw income for each mage* and tell them what it is -- mages have foresight.
 The ritual or resources on it will head towards them at twice normal marching
