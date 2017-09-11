@@ -1,6 +1,8 @@
 = Battle Mages
 Adam Blinkinsop
 
+[TOC]
+
 == Introduction
 Battle Mages is a double-blind free kriegspiel.
 
@@ -11,6 +13,7 @@ Battle Mages is a double-blind free kriegspiel.
 This makes it a cross between a role-playing game and a wargame, and in fact,
 the kriegspiel is where role-playing games came from.
 
+=== Battle Mages and Dispatch
 One player acts as *Dispatch*, who manages the state of the world.  Everything
 that everyone does will go to Dispatch first, so it's an essential role to
 fill, if occasionally exhausting.
@@ -26,6 +29,7 @@ other mages that drank at that time.  Law dictates that mages always drink from
 the goblet at sunset after an eclipse, to maintain decency and order among
 those who control goblets.
 
+=== The Tarot Deck
 At sunrise each day, Dispatch will *draw income from a tarot deck* for each
 mage.  Draws will determine what resources or rituals become available for
 them, but they must travel out to the mage if not at home.  Resources match the
@@ -37,6 +41,10 @@ major arcana.
 - Swords: Raise new forces and support existing ones.
 - Coins: Pay your forces when they ask why they're even doing this.
 
+However, action resolution is deterministic.  There's enough chaos in the
+hidden information, no need to add more with dice or cards.
+
+=== Forces
 Each force starts out as *7-strength*, which drops as they take conditions.
 When a force takes an unnamed condition, mark the top-most unmarked one.
 
@@ -47,8 +55,10 @@ When a force takes an unnamed condition, mark the top-most unmarked one.
 - Injured: -1 strength until you rest and spend a cup.
 - Dead: as it says on the tin.
 
+=== The Map
 TODO: *The map as voronoi diagram for area/edge movement, and initial generation.*
 
+=== Time and Timestamps
 The game begins at sunrise on day 1, with time divided into hourly chunks:
 
 - sunrise, sunrise+1, ..., sunrise+5
@@ -61,7 +71,7 @@ what game time you're talking about.  That is, when Dispatch sends Alice her
 income for the day, she can send back orders for sunrise or any later time.
 For example:
 
-> Sunrise: march for Charlie at Silver Ford.
+> Sunrise: We march for Charlie at Silver Ford.
 > Send a message to Rebecca at Archangel's Rest: "We're coming."
 
 == The Initial Convocation
