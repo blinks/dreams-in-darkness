@@ -77,7 +77,18 @@ When a force takes an unnamed condition, mark the top-most unmarked one.
 
 image::map.png[One of many possible maps.]
 
-TODO: *The map as voronoi diagram for area/edge movement, and initial generation.*
+Mages war over areas of various sizes and shapes.  Each area contains points of
+interest and borders into other areas.  Borders could each be roads, or rivers,
+or mountains.  Areas hold one primary terrain type, like open grassland,
+forests, or marshes.
+
+Smaller areas should be given more difficult terrain, as marching time depends
+primarily on the number of areas crossed, not the measured distance between
+locations.  In general, stuff exists in an area, not at a specific coordinate.
+Stuff can also exist on the border between two areas, or where several meet, or
+at a specific point of interest.
+
+North is always up on the map, to reduce confusion.
 
 === Time and Timestamps
 The game begins at sunrise on day 1, with time divided into hourly chunks:
