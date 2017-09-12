@@ -103,6 +103,7 @@ goblets just before sunrise, so everyone will have the opportunity to discuss
 -- in public -- whatever they like.
 
 During the convocation, several metagame things must be decided:
+
 - How should players communicate?  (It will be simpler for Dispatch if this is
   the same for all players.)
 - How quickly should players respond?  (Both Dispatch and the mages should
