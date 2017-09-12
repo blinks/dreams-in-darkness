@@ -141,11 +141,28 @@ Immediately after the convocation (sunrise), players may send their first
 orders.
 
 == Orders
+Dispatch will send out messages to note when they're accepting orders, at which
+point you have until the agreed-upon time to respond.  (If you wait too long,
+the game can just fall apart -- just let people know if you'll be delayed and
+you can all work it out like responsible battle mages.)
+
+Orders must be as clear as possible so Dispatch doesn't have to ask any
+clarifying questions.  They should start with what time you give them, so
+Dispatch can figure out when they apply.  You can give delayed orders, if it
+makes sense.  You can order yourself and everyone with you separately, but
+don't split up forces -- it's too much work to manage.  For clarity, you should
+probably name your forces so it's easy to refer to them.
+
+Some common things you might want to do (and how Dispatch will resolve them)
+are below.
 
 *When you march,* commit forces to a direction or destination on the map and
 they'll try to get there.  Dispatch will tell you if you run into anything
 unexpected, and when you reach your destination.  It takes six hours to cross
 an area of open terrain.  Most difficult terrain takes twice as long to cross.
+
+> Noon. Ghost Division, march North to the Well. The Blackguard and myself will
+> march West to the next area.
 
 *When you send out a messenger,* provide the exact message you wish to send,
 the person you wish to recieve it, and the place you expect them to be.  The
@@ -153,16 +170,27 @@ messenger will move at twice normal marching speed until they reach the
 destination, and then attempt to find that person to deliver the message.
 Messengers can get lost or intercepted, be careful.
 
+> Sunset. To Magus Sverre, at the Well: "Attackers from the Northeast and
+> Northwest.  Hold it 'til we get there."
+
 *When you rest your forces in a safe place,* commit your forces for six hours.
 You may also recover from conditions that require rest.
+
+> Sunset. We all rest here and recover as much as possible. (Dispatch will
+> spend resources as necessary.)
 
 *When you forage a healthy area for resources,* commit one force for three
 hours and give it a condition.  Dispatch will draw income for you and describe
 how you got it.  Dispatch will also mark the area as depleted (foraging will
 fail) for days equal to the last-discarded card's rank.
 
+> Sunrise. Knights of the Well and I march North. Rangers forage here, then
+> march North to join us.
+
 *When you drink from your convocation goblet,* Dispatch will tell you who else
 is attending the meeting, and you may all communicate freely for that hour.
+
+> Midnight+1: Drink from the goblet.
 
 == Rituals
 When you invoke a ritual you have learned, commit your mage for up to six hours
