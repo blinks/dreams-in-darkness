@@ -73,6 +73,10 @@ When a force takes an unnamed condition, mark the top-most unmarked one.
 - Injured: -1 strength until you rest and spend a cup.
 - Dead: as it says on the tin.
 
+Engagement is a simple hidden bid, where all bid forces take a condition, but
+the player(s) who didn't bid the most take _another_ condition.  Your bid is
+called your "standing orders", and by default, you'll bid all available forces.
+
 === The Map
 
 image::map.png[One of many possible maps.]
