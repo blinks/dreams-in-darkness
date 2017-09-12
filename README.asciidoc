@@ -1,6 +1,5 @@
 = Battle Mages
 Adam Blinkinsop
-
 [TOC]
 
 == Introduction
@@ -344,6 +343,7 @@ For example, your log might look like this:
     - Sverre's message reaches Gary: "Attack the Well."
 
 === Sunrise
+Sunrise is the tick of the clock that pushes the game forward.
 
 *Forces that didn't rest* gain Exhausted.
 
@@ -351,7 +351,9 @@ For example, your log might look like this:
 The ritual or resources on it will head towards them at twice normal marching
 speed.  They can get lost or intercepted.
 
-=== Encounters
+=== Scouting and Engagement
+Be honest with the players about what's around them.  It's the only information
+they have.
 
 *When two mages are in the same area,* tell each of them about the other.  If
 the area is open terrain, also describe the forces each commands.
