@@ -26,6 +26,9 @@ When you do something that these moves don't cover -- as long as it makes sense
 in the established fiction -- Dispatch isn't going to tell you it's against the
 rules.  Keep that in mind.
 
+> Now that idea has burrowed itself so deep into my head that reading orders is
+> difficult to understand in any other way...
+
 === Battle Mages and Dispatch
 One player acts as *Dispatch*, who manages the state of the world.  Everything
 that everyone does will go to Dispatch first, so it's an essential role to
