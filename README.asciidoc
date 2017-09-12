@@ -192,6 +192,10 @@ is attending the meeting, and you may all communicate freely for that hour.
 
 > Midnight+1: Drink from the goblet.
 
+*When you muster new forces at home,* spend five swords.  If you're not home,
+you can send a message back to give them orders.  Otherwise, they'll stay 'til
+you pick them up.
+
 == Rituals
 When you invoke a ritual you have learned, commit your mage for up to six hours
 and spend wands:
