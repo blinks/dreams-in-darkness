@@ -262,15 +262,14 @@ vague, the ritual will fail.  Your time and resources are still spent.
 Destroy a nearby constructed work, as if by explosives.
 
 === XVII. The Star
-Everyone you choose may recover from the wounded condition.
+Everyone you choose may recover from the Wounded condition.
 
 === XVIII. The Moon
 Everyone you choose becomes invisible until the next sunrise.  Tell Dispatch if
 you want to avoid engagement.  Invisibility is lost when you draw blood.
 
 === XIX. The Sun
-Everyone you choose may recover from the demoralized condition and become
-fresh, if they have no other conditions marked.
+Everyone you choose may recover from the Angry condition.
 
 === XX. Judgement
 Raise the recently-dead in your area to fight as 2-strength forces.  Any living
