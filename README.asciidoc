@@ -190,11 +190,13 @@ fail) for days equal to the last-discarded card's rank.
 *When you drink from your convocation goblet,* Dispatch will tell you who else
 is attending the meeting, and you may all communicate freely for that hour.
 
-> Midnight+1: Drink from the goblet.
+> Midnight+1. Drink from the goblet.
 
 *When you muster new forces at home,* spend five swords.  If you're not home,
 you can send a message back to give them orders.  Otherwise, they'll stay 'til
 you pick them up.
+
+> Sunrise. Muster three forces at home, send orders to meet me at the Well.
 
 == Rituals
 When you invoke a ritual you have learned, commit your mage for up to six hours
