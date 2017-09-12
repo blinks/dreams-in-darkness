@@ -330,7 +330,18 @@ destination when asking if they allow it, you must do that.  Or not.
 Your loyal forces will always allow it.
 
 == Dispatch
-You've got a bunch of triggers that you need to track in the background.
+You've got a bunch of triggers that you need to track in the background, and
+players will give you more with almost every order.  It's most useful to
+maintain a log of events, including things you expect to happen in the future
+(like message delivery, arrival times, and so forth).
+
+For example, your log might look like this:
+
+    1 Sunrise
+    - Sage reaches the Well with all forces and begins invoking the Moon.
+    1 Noon
+    - Sage invokes the Moon.
+    - Sverre's message reaches Gary: "Attack the Well."
 
 === Sunrise
 
