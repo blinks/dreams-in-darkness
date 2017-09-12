@@ -13,10 +13,28 @@ Battle Mages is a double-blind free kriegspiel.
 This makes it a cross between a role-playing game and a wargame, and in fact,
 the kriegspiel is where role-playing games came from.
 
+Like a role-playing game, you need to pay attention to what's going on in the
+shared fiction, not all of which can be covered by mechanisms in this book.
+The moves here aren't meant to limit what orders you can give, but as a
+starting point.
+
+Historical kriegspiel games were handled by military officers with enough field
+experience that they could look at a situation and make an informed decision
+about what would happen.  These moves help a Dispatch with less experience do
+the same, and help players understand the range of possible outcomes.
+
+When you do something that these moves don't cover -- as long as it makes sense
+in the established fiction -- Dispatch isn't going to tell you it's against the
+rules.  Keep that in mind.
+
 === Battle Mages and Dispatch
 One player acts as *Dispatch*, who manages the state of the world.  Everything
 that everyone does will go to Dispatch first, so it's an essential role to
 fill, if occasionally exhausting.
+
+Because of the weight on their shoulders, it's important to make messages to
+Dispatch clear and concise.  They'll do their best to coordinate everything, do
+your part to make it as easy as possible.
 
 The rest of the players control *Battle Mages* in a middle-ages continental
 conflict.  Mages have a convocation goblet, limited foresight, and the ability
@@ -75,17 +93,26 @@ For example:
 > Send a message to Rebecca at Archangel's Rest: "We're coming."
 
 == The Initial Convocation
+To start the game, Dispatch shuffles up a Tarot deck and draws income three
+times for each mage.  Mages also recieve three forces, a team assignment, and a
+home area -- they should name their forces, confer with their team, and
+(privately, to Dispatch) describe a point of interest in their home area.
+
 When the game starts, there has just been an eclipse.  Mages drink from their
-goblets at sunset, so everyone has the opportunity to discuss -- in public --
-whatever they like.
+goblets just before sunrise, so everyone will have the opportunity to discuss
+-- in public -- whatever they like.
 
-Dispatch draws income three times for each mage to get their initial resources
-and rituals, privately known before the convocation.  Dispatch also assigns
-teams and initial locations for each mage.  Finally, mages each start with
-three forces.  They should be named.
+During the convocation, several metagame things must be decided:
+- How should players communicate?  (It will be simpler for Dispatch if this is
+  the same for all players.)
+- How quickly should players respond?  (Both Dispatch and the mages should
+  respond promptly, but it's important to set expectations on that, especially
+  when playing across multiple time zones.)
+- How long until the next convocation?  (By default, this should happen when
+  the deck runs out, but it's good to confirm.)
 
-Immediately after the convocation (sunset+1), players may send orders or wait
-'til sunrise.
+Immediately after the convocation (sunrise), players may send their first
+orders.
 
 == Orders
 
