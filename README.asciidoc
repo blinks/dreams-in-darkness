@@ -74,6 +74,9 @@ When a force takes an unnamed condition, mark the top-most unmarked one.
 - Dead: as it says on the tin.
 
 === The Map
+
+image::map.png[One of many possible maps.]
+
 TODO: *The map as voronoi diagram for area/edge movement, and initial generation.*
 
 === Time and Timestamps
