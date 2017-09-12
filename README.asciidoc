@@ -47,6 +47,13 @@ other mages that drank at that time.  Law dictates that mages always drink from
 the goblet at sunset after an eclipse, to maintain decency and order among
 those who control goblets.
 
+Otherwise, *communication is extremely limited.*  Unless you're in the same
+area or in the convocation, you should not communicate directly with other
+players about the game.  In managing this, the cut-off is when the results come
+back from Dispatch.  If you're in the same area at sunrise, and then give
+orders to march away, you can still communicate until Dispatch gives results
+for sunrise+1.
+
 === The Tarot Deck
 At sunrise each day, Dispatch will *draw income from a tarot deck* for each
 mage.  Draws will determine what resources or rituals become available for
