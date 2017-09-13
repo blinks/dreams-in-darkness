@@ -1,6 +1,8 @@
 = Battle Mages
-Adam Blinkinsop
-[TOC]
+Adam Blinkinsop <github.com/blinks>
+v0.1
+:toc:
+:homepage: https://blinks.github.io/battle-mage/
 
 == Introduction
 Battle Mages is a double-blind free kriegspiel.
