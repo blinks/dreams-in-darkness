@@ -75,3 +75,32 @@ exactly what they will do.
 
 == The Conduit
 TODO
+
+== The Cards
+Drawn cards provide for chaotic changes in a sometimes static world.
+
+=== Major Arcana
+Relics in the world that can invoke powerful rituals.
+
+The Fool:: Sow confusion until the next sunrise.
+The Magician:: Transmute an object.
+The High Priestess:: Receive a vision of the world.
+The Empress:: Birth something terrible.
+The Emperor:: Exert control over another for a critical moment.
+The Hierophant:: Receive advice.
+The Lovers:: Connect to another until the next sunrise.
+The Chariot:: Travel quickly until the next sunset.
+Strength:: Gain supernatural power until the next sunset.
+The Hermit:: Scry on a distant location.
+Wheel of Fortune:: Ask fate for a boon.
+Justice:: Weigh yourself and another on the scales.
+The Hanged Man:: See clearly until the new moon.
+Death:: Force a transition.
+Temperance:: Give up something you have in excess to gain something you lack.
+The Devil:: Call on monstrous powers beyond your ken for aid.
+The Tower:: Destroy something.
+The Star:: Restore something mortal.
+The Moon:: You walk unseen until the next sunrise, or until you draw blood.
+The Sun:: Gain the loyalty of all who see you, until the next sunset.
+Judgement:: Raise the dead to do your bidding.
+The World:: Step leagues in an instant.
