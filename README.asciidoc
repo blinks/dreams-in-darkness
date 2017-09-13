@@ -87,7 +87,7 @@ The Magician:: Transmute an object.
 The High Priestess:: Receive a vision of the world.
 The Empress:: Birth something terrible.
 The Emperor:: Exert control over another for a critical moment.
-The Hierophant:: Receive advice.
+The Hierophant:: Ask for specific advice and recieve it.
 The Lovers:: Connect to another until the next sunrise.
 The Chariot:: Travel quickly until the next sunset.
 Strength:: Gain supernatural power until the next sunset.
