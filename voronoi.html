@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Voronoi Map Generator</title>
+  </head>
+  <body>
+    <svg width='1000' height='1000'></svg>
+
+  <script src='https://d3js.org/d3.v4.min.js'></script>
+  <script>
+var svg = d3.select('svg'),
+  width = +svg.attr('width'),
+  height = +svg.attr('height'),
+  sites = d3.range(22).map(function(d) {
+    return [Math.random() * width, Math.random() * height];
+  }),
+  voronoi = d3.voronoi().extent([[0, 0], [width, height]]),
+  diagram = voronoi(sites), polygons = diagram.polygons(); 
+ 
+// Draw the polygons
+polygons.map(function(i) {
+  svg.append('path')
+    .attr('d', 'M' + i.join('L') + 'Z')
+    .attr('stroke', 'gray')
+    .attr('stroke-width', '1')
+    .attr('fill', 'white');
+});
+  </script>
+  </body>
+</html>
