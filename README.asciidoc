@@ -1,7 +1,7 @@
 = Battle Mages
 Adam Blinkinsop <github.com/blinks>
-v0.1
-:toc:
+v0.1: First draft.
+:toc: right
 :homepage: https://blinks.github.io/battle-mage/
 
 == Introduction
