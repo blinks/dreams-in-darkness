@@ -33,9 +33,10 @@ Cultists contact you by melting gold and dipping in a finger.  Choose their name
 
 Barriers to your return:
 
-- Your tomb was lost under Starfall Marsh and must be found again.
+- Your tomb was lost under Starfall Marsh and must be found again, but the air
+  is poisonous all throughout those lands.
 - Your work was burnt, but pages still survive in the ruins of the Eternal
-  City; they must be gathered.
+  City. They must be gathered, but ghouls wander the streets.
 - Your name is lost to the ages, but is whispered by hot steel in flesh.  It
   must be spoken in daylight at the tallest peak of the Broken Teeth.
 
@@ -50,12 +51,12 @@ Cultists contact you by rolling their eyes so far back they disappear.
 
 Barriers to your return:
 
-- The meadows at Archangel's Rest are still remembered fondly.  It must be
-  cleansed.
+- The meadows at Archangel's Rest are remembered fondly.  They must be
+  cleansed, but She still watches over it.
 - The empire's royal bloodline is unbroken.  It must be cut down at the Red
-  City.
+  City, but the old legions still stand.
 - Acolytes still learn of your failure at the Monastery of the Rook.  It must
-  be destroyed.
+  be destroyed, but the path is difficult.
 
 == Visions of Play
 Pick playbooks and answer their questions.  Where places are mentioned, add
