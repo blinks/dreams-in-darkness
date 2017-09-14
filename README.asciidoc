@@ -89,7 +89,7 @@ The High Priestess:: Receive a vision of the world.
 The Empress:: Birth something terrible.
 The Emperor:: Exert control over another for a critical moment.
 The Hierophant:: Ask for specific advice and recieve it.
-The Lovers:: Connect to another until the next sunrise.
+The Lovers:: You have a moment alone with someone you know.
 The Chariot:: Travel quickly until the next sunset.
 Strength:: Gain supernatural power until the next sunset.
 The Hermit:: Scry on a distant location.
@@ -161,7 +161,7 @@ King:: TODO
 
 Ace:: TODO
 2:: TODO
-3:: TODO
+3:: The cult grows and works together.
 4:: TODO
 5:: TODO
 6:: TODO
