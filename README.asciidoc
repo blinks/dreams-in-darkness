@@ -9,8 +9,6 @@ _Dreams_ is a play-by-mail game for a facilitator (the *conduit*) and up to six 
 
 To play, everyone needs a copy of the map, and the conduit also needs a shuffled Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.
 
-The bloody membrane between worlds is thin between the ancients, you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.
-
 == Ancients
 
 === Voidbound
@@ -36,6 +34,8 @@ Barriers:: The Ladies Templar, who hid your five relics across the lands; they w
 
 == Visions of Play
 Pick playbooks and one of their barriers -- never the same barrier as another player, though you may share books.  Write another ancient's name in the blank and share it with them.  Where places are mentioned, add them to the map and show the others where they are.  You have no cultists yet.
+
+The bloody membrane between worlds is thin between the ancients, you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.
 
 The conduit will contact you when a cultist does.  They'll tell you something about the world above and ask for a task.  Always state the vision you send, and the intention.  Sometimes you'll have difficulty knowing where to start: the Conduit is bound to tell you the truth (as far as they know it), and might suggest a course of action.
 
