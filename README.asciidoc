@@ -18,21 +18,21 @@ An elder alien horror from the stars.
 
 Cultists:: Yrrratha, Korthath, X'parthak.
 
-Barriers:: The vast distance of space, traversable only by the portal once closed to ________.  The unrecognizable physics of this world, shaped once by ________ with a powerful eldritch word.  The signal to come, which only a relic of ________ could send.
+Barriers:: The vast distance of space, traversable only by the portal once closed to (another).  The unrecognizable physics of this world, shaped once by (another) with a powerful eldritch word.  The signal to come, which only a relic of (another) could send.
 
 === Forgotten Mage
 Trapped in your tomb long ago by ancient magics.
 
 Cultists:: Antharia, Parthos the Mad, Gray Yiyinona.
 
-Barriers:: The three crystals that power your prison, and resonate with energy wanted by ________.  The labyrinthian caverns above your tomb, which hold artifacts of ________.  Your name, lost in the pages of ________'s forbidden tome.
+Barriers:: The three crystals that power your prison, and resonate with energy wanted by (another).  The labyrinthian caverns above your tomb, which hold artifacts of (another).  Your name, lost in the pages of (another)'s forbidden tome.
 
 === Dead God
 Dreaming of the world above, you sleep deep within it.
 
 Cultists:: Sister Agatha the White, Brother Marcos the Red, Mother.
 
-Barriers:: The Ladies Templar, who hid your five relics across the lands; they were sought by followers of ________ for dark things.  The Book of Lost Souls, which followers of ________ recorded your most powerful rituals in.  Your divine hammer, which destroyed ________ ages ago and holds runes that drive those who read them mad.
+Barriers:: The Ladies Templar, who hid your five relics across the lands; they were sought by followers of (another) for dark things.  The Book of Lost Souls, which followers of (another) recorded your most powerful rituals in.  Your divine hammer, which destroyed (another) ages ago and holds runes that drive those who read them mad.
 
 == Visions of Play
 Pick playbooks and one of their barriers -- never the same barrier as another player, though you may share books.  Write another ancient's name in the blank and share it with them.  Where places are mentioned, add them to the map and show the others where they are.  You have no cultists yet.
