@@ -11,26 +11,41 @@ To play, everyone needs a copy of the map, and the conduit also needs a shuffled
 
 == Ancients
 
-=== Voidbound
+=== Nix, Voidbound
 An elder alien horror from the stars.
 
-Cultists:: Yrrratha, Korthath, X'parthak.
+Cultists:: Yrrratha, Korthath, X'parthak.  (Nihilists.)
 
 Barriers:: The vast distance of space, traversable only by the Black Gates once closed to (another).  The unrecognizable physics of this world, shaped once by (another) with a powerful eldritch word spoken in the Circle of the Star.  The signal to come, which only a relic of (another) could transmit from the Obsidian Spire.
 
-=== Forgotten Mage
+=== Arcturus, Forgotten Mage
 Trapped in your tomb long ago by ancient magics.
 
-Cultists:: Antharia, Parthos the Mad, Gray Yiyinona.
+Cultists:: Antharia, Parthos the Mad, Gray Yiyinona. (Curious power-seeking wizards.)
 
 Barriers:: The three crystals embedded in Roderick's gravestone that power your prison, and resonate with energy wanted by (another).  The labyrinthian caverns above your tomb, which hold artifacts of (another).  Your name, lost in the pages of (another)'s forbidden tome.
 
-=== Dead God
+=== Agon, Dead God of War
 Dreaming of the world above, you sleep deep within it.
 
-Cultists:: Sister Agatha the White, Brother Marcos the Red, Mother.
+Cultists:: Sister Agatha the White, Brother Marcos the Red, Mother. (Looking for glory.)
 
 Barriers:: The Ladies Templar, who hid your five relics across the lands; they were sought by followers of (another) for dark things.  The Book of Lost Souls, which followers of (another) recorded your most powerful rituals in.  Your divine hammer, which destroyed (another) ages ago and holds runes that drive those who read them mad.
+
+=== Lady of Shadow
+Weak from an ancient defeat, almost forgotten in the world above.
+
+Cultists:: Nameless.  (Assassins, hoards of them.)
+
+=== Hivemind of Drakon
+Parasitic and slow-moving, you're slowly infecting the world, one cultist at a time.
+
+Cultists:: Powerful world figures.  (Now puppets to your subconscious.)
+
+=== The Three Fates
+Someday, you'll sing the song that ends the world.  All in its proper time.
+
+Cultists:: Lena the Chantress, Bard, Marantha of Tal.  (Singers and storytellers.)
 
 == Visions of Play
 Pick playbooks and one of their barriers -- never the same barrier as another player, though you may share books.  Write another ancient's name in the blank and share it with them.  Where places are mentioned, add them to the map and show the others where they are.  You have no cultists yet.
@@ -38,7 +53,6 @@ Pick playbooks and one of their barriers -- never the same barrier as another pl
 Also add these locations to the map:
 
 - The Last City.
-- Lake Arcturus.
 - Dagger Fields.
 - The Desert.
 - Two mountain ranges, name them. (Broken Teeth, The Axe, Grey Ridge)
