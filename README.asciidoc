@@ -5,80 +5,62 @@ v0.2: Dreaming.
 :homepage: https://blinks.github.io/battle-mage/
 
 == Introduction
-_Dreams_ is a play-by-mail game for a facilitator (the *conduit*) and up to
-six other players (the *ancients*).  It's a secrets-filled role-playing game
-with strict ideas about time and space.
+_Dreams_ is a play-by-mail game for a facilitator (the *conduit*) and up to six other players (the *ancients*).  It's a secrets-filled role-playing game with strict ideas about time and space.
 
-To play, everyone needs a copy of the map, and the conduit also needs a
-shuffled Tarot deck for seeding the world with chaos.  You don't need to be
-sitting in the same room, or even in the same side of the planet -- as long as
-you can communicate somehow, you can play.
+To play, everyone needs a copy of the map, and the conduit also needs a shuffled Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.
 
-The bloody membrane between worlds is thin between the ancients, you may
-contact them directly whenever you like. The mortal realm is further removed.
-You will receive messages only when a mortal makes an effort to contact you,
-and send them only to mortals attuned to you who are asleep and dreaming.
+The bloody membrane between worlds is thin between the ancients, you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.
 
 == Ancients
 
-=== The Alchemist
-Your Philosopher’s Stone didn’t work the way you thought it would, and now
-you’re stuck ... somewhere.
+=== Voidbound
+An elder alien horror from the stars.
 
-Cultists contact you by melting gold and dipping in a finger.  Choose their names:
+Cultists:: Yrrratha, Korthath, X'parthak.
 
-- Child of Gold
-- Daughter of Silver
-- Son of Iron
+Barriers:: The vast distance of space, traversable only by the portal once closed to ________.  The unrecognizable physics of this world, shaped once by ________ with a powerful eldritch word.  The signal to come, which only a relic of ________ could send.
 
-Barriers to your return:
+=== Forgotten Mage
+Trapped in your tomb long ago by ancient magics.
 
-- Your tomb was lost under Starfall Marsh and must be found again, but the air
-  is poisonous all throughout those lands.
-- Your work was burnt, but pages still survive in the ruins of the Eternal
-  City. They must be gathered, but ghouls wander the streets.
-- Your name is lost to the ages, but is whispered by hot steel in flesh.  It
-  must be spoken in daylight at the tallest peak of the Broken Teeth.
+Cultists:: Antharia, Parthos the Mad, Gray Yiyinona.
 
-=== Yed-id of the Infinite Void Or Whatever
-Like, you know?
+Barriers:: The three crystals that power your prison, and resonate with energy wanted by ________.  The labyrinthian caverns above your tomb, which hold artifacts of ________.  Your name, lost in the pages of ________'s forbidden tome.
 
-Cultists contact you by rolling their eyes so far back they disappear.
+=== Dead God
+Dreaming of the world above, you sleep deep within it.
 
-- Apathasia
-- Vorgon the Peeved
-- Hofun
+Cultists:: Sister Agatha the White, Brother Marcos the Red, Mother.
 
-Barriers to your return:
-
-- The meadows at Archangel's Rest are remembered fondly.  They must be
-  cleansed, but She still watches over it.
-- The empire's royal bloodline is unbroken.  It must be cut down at the Red
-  City, but the old legions still stand.
-- Acolytes still learn of your failure at the Monastery of the Rook.  It must
-  be destroyed, but the path is difficult.
+Barriers:: The Ladies Templar, who hid your five relics across the lands; they were sought by followers of ________ for dark things.  The Book of Lost Souls, which followers of ________ recorded your most powerful rituals in.  Your divine hammer, which destroyed ________ ages ago and holds runes that drive those who read them mad.
 
 == Visions of Play
-Pick playbooks and answer their questions.  Where places are mentioned, add
-them to the map and show the others where they are.  The conduit will draw each
-ancient three cards from the Tarot and tell you what they mean.
+Pick playbooks and one of their barriers -- never the same barrier as another player, though you may share books.  Write another ancient's name in the blank and share it with them.  Where places are mentioned, add them to the map and show the others where they are.  You have no cultists yet.
 
-The conduit will contact you when a cultist does.  They'll tell you something
-about the world above and ask for a task.  Always state the vision you send,
-and the intention.
+The conduit will contact you when a cultist does.  They'll tell you something about the world above and ask for a task.  Always state the vision you send, and the intention.  Sometimes you'll have difficulty knowing where to start: the Conduit is bound to tell you the truth (as far as they know it), and might suggest a course of action.
 
-You may send your cultists any visions you like. Explicit orders they will
-follow exactly. You may be sure of what they will do, but will not take
-advantage of the cultist's instincts in the moment. Vague orders they will
-interpret as best they can. They will always act in your best interest as they
-see it and will adapt to the situation they are in, but you will not be sure
-exactly what they will do.
+You may send your cultists any visions you like. Explicit orders they will follow exactly. You may be sure of what they will do, but will not take advantage of the cultist's instincts in the moment. Vague orders they will interpret as best they can. They will always act in your best interest as they see it and will adapt to the situation they are in, but you will not be sure exactly what they will do.  Don't bother with contingency plans -- cultists can't remember that much.
 
 == The Conduit
-TODO
+
+Your job is to set the pace.  Choose a player who hasn't been contacted in a while and figure out what's going on with their followers.  Once you have an interesting situation in mind, draw from the Tarot deck and use it to color your ideas of how it turns out.  If you drew major arcana, figure out how to bring that power to the surface.  Contact the player with the situation from the cultists perspective, and await a response.  Responses come only when the cultist is dreaming -- and might take a while.  Life goes on above.
+
+=== Principles
+
+- *Speak through the cultists.*
+- *Bind them together, don't make them friends.*
+- *Encourage secrets, don't reveal them lightly.*
+- *Add place names, use them.*
+- *Suggest the next task.*
+- *Let the horror hang in the air.*
+- *Sometimes, ask another player.*
 
 == The Cards
-Drawn cards provide for chaotic changes in a sometimes static world.
+Drawn cards provide for chaotic changes in a sometimes static world.  Every card you draw should color your understanding of the situation.  Did you think that battle was a simple matter of force?  Draw *The Tower* and see it all come crashing down.  Some cards have other important effects:
+
+*Major arcana* surface new artifacts of great power.  While the powers are specific, the shape the artifact takes should be suggested by the player -- ask them.
+
+*Court cards* (Page, Knight, Queen, King) are new cultists.  Someone is always searching for the ancients, and sometimes they succeed.
 
 === Major Arcana
 Relics in the world that can invoke powerful rituals.
@@ -105,71 +87,3 @@ The Moon:: You walk unseen until the next sunrise, or until you draw blood.
 The Sun:: Gain the loyalty of all who see you, until the next sunset.
 Judgement:: Raise the dead to do your bidding.
 The World:: Step leagues in an instant.
-
-=== Wands
-
-Ace:: TODO
-2:: TODO
-3:: TODO
-4:: TODO
-5:: TODO
-6:: TODO
-7:: TODO
-8:: TODO
-9:: TODO
-10:: TODO
-Page:: TODO
-Knight:: TODO
-Queen:: TODO
-King:: TODO
-
-=== Cups
-
-Ace:: TODO
-2:: TODO
-3:: TODO
-4:: TODO
-5:: TODO
-6:: TODO
-7:: TODO
-8:: TODO
-9:: TODO
-10:: TODO
-Page:: TODO
-Knight:: TODO
-Queen:: TODO
-King:: TODO
-
-=== Swords
-
-Ace:: TODO
-2:: TODO
-3:: TODO
-4:: TODO
-5:: TODO
-6:: TODO
-7:: TODO
-8:: TODO
-9:: TODO
-10:: TODO
-Page:: TODO
-Knight:: TODO
-Queen:: TODO
-King:: TODO
-
-=== Pentacles
-
-Ace:: TODO
-2:: TODO
-3:: The cult grows and works together.
-4:: TODO
-5:: TODO
-6:: TODO
-7:: TODO
-8:: TODO
-9:: TODO
-10:: TODO
-Page:: TODO
-Knight:: TODO
-Queen:: TODO
-King:: TODO
