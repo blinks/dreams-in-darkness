@@ -9,6 +9,7 @@ _Dreams_ is a play-by-mail game for a facilitator (the *conduit*) and up to six 
 
 To play, everyone needs a copy of the map, and the conduit also needs a shuffled Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.
 
+
 == Ancients
 
 === Nix, Voidbound
@@ -27,6 +28,8 @@ Barriers:: The three crystals embedded in Roderick's gravestone that power your 
 
 === Agon, Dead God of War
 Dreaming of the world above, you sleep deep within it.
+
+> My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us. -- Ammurapi
 
 Cultists:: Sister Agatha the White, Brother Marcos the Red, Mother. (Looking for glory.)
 
