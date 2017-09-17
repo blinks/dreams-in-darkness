@@ -13,21 +13,33 @@ To play, everyone needs a copy of the map, and the conduit also needs a shuffled
 == Ancients
 
 === Nix, Voidbound
-> It all began, old Ammi said, with the meteorite. -- H.P. Lovecraft, _The Colour out of Space._
+[verse, H.P. Lovecraft, The Colour out of Space.]
+It all began, old Ammi said, with the meteorite.
 
 Cultists:: Yrrratha, Korthath, X'parthak.  (Nihilists.)
 
 Barriers:: The vast distance of space, traversable only by the Black Gates once closed to (another).  The unrecognizable physics of this world, shaped once by (another) with a powerful eldritch word spoken in the Circle of the Star.  The signal to come, which only a relic of (another) could transmit from the Obsidian Spire.
 
 === Arcturus, Forgotten Mage
-> And she laid the three stones around the altar, words of power chanted all around.  The moment arrived, his eyes opened, and she brought down the dagger. -- Lost Book of Gideon, chapter 8, verse 5.
+[verse, Gideon's Lost Book, Chapter 8, verse 5]
+She laid the three stones below the altar,
+words of power chanted through her.
+The moment arrived, his eyes opened,
+and she brought down the dagger.
 
 Cultists:: Antharia, Parthos the Mad, Gray Yiyinona. (Curious power-seeking wizards.)
 
 Barriers:: The three crystals embedded in Roderick's gravestone that power your prison, and resonate with energy wanted by (another).  The labyrinthian caverns above your tomb, which hold artifacts of (another).  Your name, lost in the pages of (another)'s forbidden tome.
 
 === Agon, Dead God of War
-> My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us. -- Ammurapi
+[verse, Ammurapi]
+My father behold, the enemy's ships came;
+my cities were burned, and they did evil things in my country.
+Does not my father know that all my troops and chariots are in the Land of Hatti,
+and all my ships are in the Land of Lukka? ...
+Thus, the country is abandoned to itself.
+May my father know it:
+the seven ships of the enemy that came here inflicted much damage upon us.
 
 Cultists:: Sister Agatha the White, Brother Marcos the Red, Mother. (Looking for glory.)
 
