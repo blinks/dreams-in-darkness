@@ -24,7 +24,7 @@ To keep everything going, it's helpful to set expectations: how often will you b
 == Ancients
 
 === Nix, Voidbound
-[verse, H.P. Lovecraft, The Colour out of Space.]
+[quote, H.P. Lovecraft, The Colour out of Space.]
 It all began, old Ammi said, with the meteorite.
 
 Cultists:: Yrrratha, Korthath, X'parthak.  (Nihilists.)
