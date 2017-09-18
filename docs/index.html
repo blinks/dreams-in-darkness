@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 1.5.6.1">
 <meta name="author" content="Adam Blinkinsop">
-<title>Battle Mages</title>
+<title>Dreams in Darkness</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /* Asciidoctor default stylesheet | MIT License | http://asciidoctor.org */
@@ -426,727 +426,400 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 .show-for-print{display:inherit!important}}
 </style>
 </head>
-<body class="article toc2 toc-right">
+<body class="article toc2 toc-left">
 <div id="header">
-<h1>Battle Mages</h1>
+<h1>Dreams in Darkness</h1>
 <div class="details">
 <span id="author" class="author">Adam Blinkinsop</span><br>
 <span id="email" class="email">github.com/blinks</span><br>
-<span id="revnumber">version 0.1</span>
-<br><span id="revremark">First draft.</span>
+<span id="revnumber">version 0.2</span>
+<br><span id="revremark">Dreaming.</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
 <ul class="sectlevel1">
 <li><a href="#_introduction">Introduction</a>
 <ul class="sectlevel2">
-<li><a href="#_battle_mages_and_dispatch">Battle Mages and Dispatch</a></li>
-<li><a href="#_the_tarot_deck">The Tarot Deck</a></li>
-<li><a href="#_forces">Forces</a></li>
-<li><a href="#_the_map">The Map</a></li>
-<li><a href="#_time_and_timestamps">Time and Timestamps</a></li>
+<li><a href="#_the_social_contract">The Social Contract</a></li>
 </ul>
 </li>
-<li><a href="#_the_initial_convocation">The Initial Convocation</a></li>
-<li><a href="#_orders">Orders</a></li>
-<li><a href="#_rituals">Rituals</a>
+<li><a href="#_ancients">Ancients</a>
 <ul class="sectlevel2">
-<li><a href="#_0_the_fool">0. The Fool</a></li>
-<li><a href="#_i_the_magician">I. The Magician</a></li>
-<li><a href="#_ii_the_high_priestess">II. The High Priestess</a></li>
-<li><a href="#_iii_the_empress">III. The Empress</a></li>
-<li><a href="#_iv_the_emperor">IV. The Emperor</a></li>
-<li><a href="#_v_the_hierophant">V. The Hierophant</a></li>
-<li><a href="#_vi_the_lovers">VI. The Lovers</a></li>
-<li><a href="#_vii_the_chariot">VII. The Chariot</a></li>
-<li><a href="#_viii_strength">VIII. Strength</a></li>
-<li><a href="#_ix_the_hermit">IX. The Hermit</a></li>
-<li><a href="#_x_wheel_of_fortune">X. [Wheel of] Fortune</a></li>
-<li><a href="#_xi_justice">XI. Justice</a></li>
-<li><a href="#_xii_the_hanged_man">XII. The Hanged Man</a></li>
-<li><a href="#_xiii_death">XIII. Death</a></li>
-<li><a href="#_xiv_temperance">XIV. Temperance</a></li>
-<li><a href="#_xv_the_devil">XV. The Devil</a></li>
-<li><a href="#_xvi_the_tower">XVI. The Tower</a></li>
-<li><a href="#_xvii_the_star">XVII. The Star</a></li>
-<li><a href="#_xviii_the_moon">XVIII. The Moon</a></li>
-<li><a href="#_xix_the_sun">XIX. The Sun</a></li>
-<li><a href="#_xx_judgement">XX. Judgement</a></li>
-<li><a href="#_xxi_the_world">XXI. The World</a></li>
+<li><a href="#_nix_voidbound">Nix, Voidbound</a></li>
+<li><a href="#_arcturus_forgotten_mage">Arcturus, Forgotten Mage</a></li>
+<li><a href="#_agon_dead_god_of_war">Agon, Dead God of War</a></li>
+<li><a href="#_lady_of_shadow">Lady of Shadow</a></li>
+<li><a href="#_hivemind_of_drakon">Hivemind of Drakon</a></li>
+<li><a href="#_the_three_fates">The Three Fates</a></li>
 </ul>
 </li>
-<li><a href="#_dispatch">Dispatch</a>
+<li><a href="#_visions_of_play">Visions of Play</a></li>
+<li><a href="#_the_conduit">The Conduit</a>
 <ul class="sectlevel2">
-<li><a href="#_sunrise">Sunrise</a></li>
-<li><a href="#_scouting_and_engagement">Scouting and Engagement</a></li>
+<li><a href="#_principles">Principles</a></li>
+</ul>
+</li>
+<li><a href="#_the_cards">The Cards</a>
+<ul class="sectlevel2">
+<li><a href="#_major_arcana">Major Arcana</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 <div id="content">
-<div class="sect1">
-<h2 id="_introduction">Introduction</h2>
+<div id="preamble">
 <div class="sectionbody">
-<div class="paragraph">
-<p>Battle Mages is a double-blind free kriegspiel.</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Double-blind: Alice can&#8217;t see what Charles is doing, nor vice-versa.</p>
-</li>
-<li>
-<p>Free: Alice and Charles can give whatever orders they see fit.</p>
-</li>
-<li>
-<p>Kriegspiel: Alice and Charles are at war, and someone will win the game.</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>This makes it a cross between a role-playing game and a wargame, and in fact,
-the kriegspiel is where role-playing games came from.</p>
-</div>
-<div class="paragraph">
-<p>Like a role-playing game, you need to pay attention to what&#8217;s going on in the
-shared fiction, not all of which can be covered by mechanisms in this book.
-The moves here aren&#8217;t meant to limit what orders you can give, but as a
-starting point.</p>
-</div>
-<div class="paragraph">
-<p>Historical kriegspiel games were handled by military officers with enough field
-experience that they could look at a situation and make an informed decision
-about what would happen.  These moves help a Dispatch with less experience do
-the same, and help players understand the range of possible outcomes.</p>
-</div>
-<div class="paragraph">
-<p>When you do something that these moves don&#8217;t cover&#8201;&#8212;&#8201;as long as it makes sense
-in the established fiction&#8201;&#8212;&#8201;Dispatch isn&#8217;t going to tell you it&#8217;s against the
-rules.  Keep that in mind.</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>Now that idea has burrowed itself so deep into my head that reading orders is
-difficult to understand in any other way&#8230;&#8203;</p>
-</div>
-</blockquote>
-</div>
-<div class="sect2">
-<h3 id="_battle_mages_and_dispatch">Battle Mages and Dispatch</h3>
-<div class="paragraph">
-<p>One player acts as <strong>Dispatch</strong>, who manages the state of the world.  Everything
-that everyone does will go to Dispatch first, so it&#8217;s an essential role to
-fill, if occasionally exhausting.</p>
-</div>
-<div class="paragraph">
-<p>Because of the weight on their shoulders, it&#8217;s important to make messages to
-Dispatch clear and concise.  They&#8217;ll do their best to coordinate everything, do
-your part to make it as easy as possible.</p>
-</div>
-<div class="paragraph">
-<p>The rest of the players control <strong>Battle Mages</strong> in a middle-ages continental
-conflict.  Mages have a convocation goblet, limited foresight, and the ability
-to invoke rituals to cause great magical effects.  They also should probably be
-raising armies.</p>
-</div>
-<div class="paragraph">
-<p>A <strong>Convocation Goblet</strong> is one of a set of ancient relics passed down for
-centuries.  When you drink from one, your spirit attends a meeting with all the
-other mages that drank at that time.  Law dictates that mages always drink from
-the goblet at sunset after an eclipse, to maintain decency and order among
-those who control goblets.</p>
-</div>
-<div class="paragraph">
-<p>Otherwise, <strong>communication is extremely limited.</strong>  Unless you&#8217;re in the same
-area or in the convocation, you should not communicate directly with other
-players about the game.  In managing this, the cut-off is when the results come
-back from Dispatch.  If you&#8217;re in the same area at sunrise, and then give
-orders to march away, you can still communicate until Dispatch gives results
-for sunrise+1.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_the_tarot_deck">The Tarot Deck</h3>
-<div class="paragraph">
-<p>At sunrise each day, Dispatch will <strong>draw income from a tarot deck</strong> for each
-mage.  Draws will determine what resources or rituals become available for
-them, but they must travel out to the mage if not at home.  Resources match the
-four tarot suits (wands, cups, swords, and coins), and rituals are found in the
-major arcana.</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Wands: The more wands you spend, the faster you can invoke a given ritual.</p>
-</li>
-<li>
-<p>Cups: Feed your forces when they get hungry.</p>
-</li>
-<li>
-<p>Swords: Raise new forces and support existing ones.</p>
-</li>
-<li>
-<p>Coins: Pay your forces when they ask why they&#8217;re even doing this.</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>However, action resolution is deterministic.  There&#8217;s enough chaos in the
-hidden information, no need to add more with dice or cards.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_forces">Forces</h3>
-<div class="paragraph">
-<p>Each force starts out as <strong>7-strength</strong>, which drops as they take conditions.
-When a force takes an unnamed condition, mark the top-most unmarked one.</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Fresh: +1 strength if no other conditions marked.</p>
-</li>
-<li>
-<p>Hungry and Thirsty: -1 strength until you spend a cup.</p>
-</li>
-<li>
-<p>Angry: -1 strength until you rest and spend a coin.</p>
-</li>
-<li>
-<p>Exhausted: -1 strength until you rest.</p>
-</li>
-<li>
-<p>Injured: -1 strength until you rest and spend a cup.</p>
-</li>
-<li>
-<p>Dead: as it says on the tin.</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>Engagement is a simple hidden bid, where all bid forces take a condition, but
-the player(s) who didn&#8217;t bid the most take <em>another</em> condition.  Your bid is
-called your "standing orders", and by default, you&#8217;ll bid all available forces.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_the_map">The Map</h3>
-<div class="imageblock">
-<div class="content">
-<img src="map.png" alt="One of many possible maps.">
-</div>
-</div>
-<div class="paragraph">
-<p>Mages war over areas of various sizes and shapes.  Each area contains points of
-interest and borders into other areas.  Borders could each be roads, or rivers,
-or mountains.  Areas hold one primary terrain type, like open grassland,
-forests, or marshes.</p>
-</div>
-<div class="paragraph">
-<p>Smaller areas should be given more difficult terrain, as marching time depends
-primarily on the number of areas crossed, not the measured distance between
-locations.  In general, stuff exists in an area, not at a specific coordinate.
-Stuff can also exist on the border between two areas, or where several meet, or
-at a specific point of interest.</p>
-</div>
-<div class="paragraph">
-<p>North is always up on the map, to reduce confusion.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_time_and_timestamps">Time and Timestamps</h3>
-<div class="paragraph">
-<p>The game begins at sunrise on day 1, with time divided into hourly chunks:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>sunrise, sunrise+1, &#8230;&#8203;, sunrise+5</p>
-</li>
-<li>
-<p>noon, noon+1, &#8230;&#8203;, noon+5</p>
-</li>
-<li>
-<p>sunset, sunset+1, &#8230;&#8203;, sunset+5</p>
-</li>
-<li>
-<p>midnight, midnight+1, &#8230;&#8203;, midnight+5</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>When you tell Dispatch what you want to do, put a timestamp in the message for
-what game time you&#8217;re talking about.  That is, when Dispatch sends Alice her
-income for the day, she can send back orders for sunrise or any later time.
-For example:</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>Sunrise: We march for Charlie at Silver Ford.
-Send a message to Rebecca at Archangel&#8217;s Rest: "We&#8217;re coming."</p>
-</div>
-</blockquote>
+<div class="verseblock">
+<pre class="content">The system only dreams in total darkness
+Why are you hiding from me?
+We’re in a different kind of thing now
+All night you’re talking to God</pre>
+<div class="attribution">
+&#8212; The National<br>
+<cite>The System Only Dreams in Total Darkness</cite>
 </div>
 </div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="_the_initial_convocation">The Initial Convocation</h2>
+<h2 id="_introduction">Introduction</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>To start the game, Dispatch shuffles up a Tarot deck and draws income three
-times for each mage.  Mages also recieve three forces, a team assignment, and a
-home area&#8201;&#8212;&#8201;they should name their forces, confer with their team, and
-(privately, to Dispatch) describe a point of interest in their home area.</p>
+<p><em>Dreams</em> is a play-by-mail game for a facilitator (the <strong>conduit</strong>) and up to six other players (the <strong>ancients</strong>).  It&#8217;s a secrets-filled role-playing game with strict ideas about time and space.</p>
 </div>
 <div class="paragraph">
-<p>When the game starts, there has just been an eclipse.  Mages drink from their
-goblets just before sunrise, so everyone will have the opportunity to discuss&#8201;&#8212;&#8201;in public&#8201;&#8212;&#8201;whatever they like.</p>
-</div>
-<div class="paragraph">
-<p>During the convocation, several metagame things must be decided:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>How should players communicate?  (It will be simpler for Dispatch if this is
-the same for all players.)</p>
-</li>
-<li>
-<p>How quickly should players respond?  (Both Dispatch and the mages should
-respond promptly, but it&#8217;s important to set expectations on that, especially
-when playing across multiple time zones.)</p>
-</li>
-<li>
-<p>How long until the next convocation?  (By default, this should happen when
-the deck runs out, but it&#8217;s good to confirm.)</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>Immediately after the convocation (sunrise), players may send their first
-orders.</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_orders">Orders</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>Dispatch will send out messages to note when they&#8217;re accepting orders, at which
-point you have until the agreed-upon time to respond.  (If you wait too long,
-the game can just fall apart&#8201;&#8212;&#8201;just let people know if you&#8217;ll be delayed and
-you can all work it out like responsible battle mages.)</p>
-</div>
-<div class="paragraph">
-<p>Orders must be as clear as possible so Dispatch doesn&#8217;t have to ask any
-clarifying questions.  They should start with what time you give them, so
-Dispatch can figure out when they apply.  You can give delayed orders, if it
-makes sense.  You can order yourself and everyone with you separately, but
-don&#8217;t split up forces&#8201;&#8212;&#8201;it&#8217;s too much work to manage.  For clarity, you should
-probably name your forces so it&#8217;s easy to refer to them.</p>
-</div>
-<div class="paragraph">
-<p>Some common things you might want to do (and how Dispatch will resolve them)
-are below.</p>
-</div>
-<div class="paragraph">
-<p><strong>When you march,</strong> commit forces to a direction or destination on the map and
-they&#8217;ll try to get there.  Dispatch will tell you if you run into anything
-unexpected, and when you reach your destination.  It takes six hours to cross
-an area of open terrain.  Most difficult terrain takes twice as long to cross.</p>
+<p>To play, everyone needs a copy of the map, and the conduit also needs a shuffled Tarot deck for seeding the world with chaos.  You don&#8217;t need to be sitting in the same room, or even in the same side of the planet&#8201;&#8212;&#8201;as long as you can communicate somehow, you can play.</p>
 </div>
 <div class="quoteblock">
 <blockquote>
-<div class="paragraph">
-<p>Noon. Ghost Division, march North to the Well. The Blackguard and myself will
-march West to the next area.</p>
-</div>
+The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
 </blockquote>
-</div>
-<div class="paragraph">
-<p><strong>When you send out a messenger,</strong> provide the exact message you wish to send,
-the person you wish to recieve it, and the place you expect them to be.  The
-messenger will move at twice normal marching speed until they reach the
-destination, and then attempt to find that person to deliver the message.
-Messengers can get lost or intercepted, be careful.</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>Sunset. To Magus Sverre, at the Well: "Attackers from the Northeast and
-Northwest.  Hold it 'til we get there."</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p><strong>When you rest your forces in a safe place,</strong> commit your forces for six hours.
-You may also recover from conditions that require rest.</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>Sunset. We all rest here and recover as much as possible. (Dispatch will
-spend resources as necessary.)</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p><strong>When you forage a healthy area for resources,</strong> commit one force for three
-hours and give it a condition.  Dispatch will draw income for you and describe
-how you got it.  Dispatch will also mark the area as depleted (foraging will
-fail) for days equal to the last-discarded card&#8217;s rank.</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>Sunrise. Knights of the Well and I march North. Rangers forage here, then
-march North to join us.</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p><strong>When you drink from your convocation goblet,</strong> Dispatch will tell you who else
-is attending the meeting, and you may all communicate freely for that hour.</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>Midnight+1. Drink from the goblet.</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p><strong>When you muster new forces at home,</strong> spend five swords.  If you&#8217;re not home,
-you can send a message back to give them orders.  Otherwise, they&#8217;ll stay 'til
-you pick them up.</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>Sunrise. Muster three forces at home, send orders to meet me at the Well.</p>
-</div>
-</blockquote>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_rituals">Rituals</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>When you invoke a ritual you have learned, commit your mage for up to six hours
-and spend wands:</p>
-</div>
-<table class="tableblock frame-all grid-all spread">
-<caption class="title">Table 1. Ritual Costs</caption>
-<colgroup>
-<col style="width: 14.2857%;">
-<col style="width: 14.2857%;">
-<col style="width: 14.2857%;">
-<col style="width: 14.2857%;">
-<col style="width: 14.2857%;">
-<col style="width: 14.2857%;">
-<col style="width: 14.2858%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Hours</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">1</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">2</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">3</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">4</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">5</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">6</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Wands</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">13</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">8</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">5</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">3</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">2</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">1</p></td>
-</tr>
-</tbody>
-</table>
-<div class="paragraph">
-<p>Dispatch might ask a few clarifying questions, and will tell you what happens
-at the end of the invocation time.</p>
-</div>
-<div class="sect2">
-<h3 id="_0_the_fool">0. The Fool</h3>
-<div class="paragraph">
-<p>Confuse movement through an area until the next sunrise.  Anything attempting
-to move in the chosen area will have their destination randomly determined by
-Dispatch.  Messengers will get lost, armies rerouted, and so on.</p>
+<div class="attribution">
+&#8212; A.E. Waite<br>
+<cite>The Pictorial Key to the Tarot (1910)</cite>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_i_the_magician">I. The Magician</h3>
+<h3 id="_the_social_contract">The Social Contract</h3>
 <div class="paragraph">
-<p>Tell Dispatch what you sacrifice, and they will draw a card.  They will give
-you new resources equal to the lesser of the card draw or the amount you
-sacrificed.  If Dispatch draws Major Arcana, you will learn a new ritual.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_ii_the_high_priestess">II. The High Priestess</h3>
-<div class="paragraph">
-<p>Receive a vision.  Dispatch will tell you something interesting and useful
-about the current situation, and might ask you a question or two.  Answer them.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_iii_the_empress">III. The Empress</h3>
-<div class="paragraph">
-<p>Dispatch will draw two cards and ask which one you want.  You&#8217;ll get the
-resources or ritual on your chosen card immediately, while everyone else will
-freely receive the resources or ritual on the other card as additional income
-at sunrise.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_iv_the_emperor">IV. The Emperor</h3>
-<div class="paragraph">
-<p>Until the next sunset, you control your armies perfectly.  If you engage with
-an enemy in that time, Dispatch will tell you their orders.  If you reply
-promptly with new orders, they will replace your standing orders for that
-engagement.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_v_the_hierophant">V. The Hierophant</h3>
-<div class="paragraph">
-<p>Ask one question from the following list.  Dispatch will answer truthfully.</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Where&#8217;s my safest path to X?</p>
-</li>
-<li>
-<p>Which enemy is most vulnerable to me?</p>
-</li>
-<li>
-<p>Which enemy is the biggest threat?</p>
-</li>
-<li>
-<p>What should I be on the lookout for?</p>
-</li>
-<li>
-<p>What&#8217;s X&#8217;s true position?</p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_vi_the_lovers">VI. The Lovers</h3>
-<div class="paragraph">
-<p>Choose another mage.  If they accept, you will be able to communicate directly
-with them and they with you until the next sunrise.  Otherwise, take a
-condition.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_vii_the_chariot">VII. The Chariot</h3>
-<div class="paragraph">
-<p>Choose any amount of nearby people.  All of them can move twice as quickly
-until the next sunset.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_viii_strength">VIII. Strength</h3>
-<div class="paragraph">
-<p>Choose any amount of nearby combatants.  All of them fight twice as hard
-(doubling their strength) until the next sunset.  Remember your standing
-orders, you may need to change them for this time.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_ix_the_hermit">IX. The Hermit</h3>
-<div class="paragraph">
-<p>Choose an area on the map.  Dispatch will tell you what&#8217;s there, in detail,
-including one point of interest.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_x_wheel_of_fortune">X. [Wheel of] Fortune</h3>
-<div class="paragraph">
-<p>Dispatch will secretly draw a card and provide you a boon.  You may or may not
-learn of that boon immediately:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Major Arcana: The ritual will be invoked immediately, at no cost; Dispatch
-may ask questions to determine how.</p>
-</li>
-<li>
-<p>Wands: The next time you invoke a ritual, it may be invoked immediately, at
-no cost.  Otherwise, you hold onto this option.  You cannot gain multiple.</p>
-</li>
-<li>
-<p>Cups: Everyone traveling with you restores from any one condition.</p>
-</li>
-<li>
-<p>Swords: This card&#8217;s value will be added to your next engagement.</p>
-</li>
-<li>
-<p>Coins: You will get income twice next sunrise.</p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_xi_justice">XI. Justice</h3>
-<div class="paragraph">
-<p>Choose another nearby mage.  If their force is stronger than yours, all their
-forces will gain a condition.  Otherwise, all <em>your</em> forces will gain a
-condition.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_xii_the_hanged_man">XII. The Hanged Man</h3>
-<div class="paragraph">
-<p>Gain immunity to all ritual effects until the next sunrise.  Dispatch will tell
-you if any rituals were avoided, what they were, and who invoked them.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_xiii_death">XIII. Death</h3>
-<div class="paragraph">
-<p>Everyone in a nearby area gains a condition.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_xiv_temperance">XIV. Temperance</h3>
-<div class="paragraph">
-<p>Balance out your resources.  The thing you have most of will convert into what
-you have least of until they balance.  In the case of a tie, you decide.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_xv_the_devil">XV. The Devil</h3>
-<div class="paragraph">
-<p>Summon a monster and give it a task.  It is not subtle.  Dispatch will control
-it until the task is complete, and then it will be freed.  At that time,
-Dispatch will draw to determine its fate:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Major Arcana: The monster remains, allied to nobody, destructive to all.</p>
-</li>
-<li>
-<p>Otherwise: The monster is pulled back to where it came.</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>If Dispatch cannot interpret your task, or if they think it&#8217;s impossible or too
-vague, the ritual will fail.  Your time and resources are still spent.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_xvi_the_tower">XVI. The Tower</h3>
-<div class="paragraph">
-<p>Destroy a nearby constructed work, as if by explosives.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_xvii_the_star">XVII. The Star</h3>
-<div class="paragraph">
-<p>Everyone you choose may recover from the Wounded condition.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_xviii_the_moon">XVIII. The Moon</h3>
-<div class="paragraph">
-<p>Everyone you choose becomes invisible until the next sunrise.  Tell Dispatch if
-you want to avoid engagement.  Invisibility is lost when you draw blood.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_xix_the_sun">XIX. The Sun</h3>
-<div class="paragraph">
-<p>Everyone you choose may recover from the Angry condition.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_xx_judgement">XX. Judgement</h3>
-<div class="paragraph">
-<p>Raise the recently-dead in your area to fight as 2-strength forces.  Any living
-forces (including your own) gain a condition when interacting with dead forces.
-Dead forces that take the wounded condition are destroyed.  Mark other
-conditions, but they have no effect on the dead force&#8217;s strength.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_xxi_the_world">XXI. The World</h3>
-<div class="paragraph">
-<p>Choose people and a destination.  Everyone that allows it will be teleported to
-that destination when the ritual completes.  Dispatch will not tell them the
-destination when asking if they allow it, you must do that.  Or not.</p>
-</div>
-<div class="paragraph">
-<p>Your loyal forces will always allow it.</p>
+<p>To keep everything going, it&#8217;s helpful to set expectations: how often will you be contacting players?  How long is acceptable for their response?  What will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another&#8201;&#8212;&#8201;or even a direct sequel.  Revisit the social contract.</p>
 </div>
 </div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="_dispatch">Dispatch</h2>
+<h2 id="_ancients">Ancients</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_nix_voidbound">Nix, Voidbound</h3>
+<div class="quoteblock">
+<blockquote>
+It all began, old Ammi said, with the meteorite.
+</blockquote>
+<div class="attribution">
+&#8212; H.P. Lovecraft<br>
+<cite>The Colour out of Space.</cite>
+</div>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Cultists</dt>
+<dd>
+<p>Yrrratha, Korthath, X&#8217;parthak.  (Nihilists.)</p>
+</dd>
+<dt class="hdlist1">Barriers</dt>
+<dd>
+<p>The vast distance of space, traversable only by the Black Gates once closed to (another).  The unrecognizable physics of this world, shaped once by (another) with a powerful eldritch word spoken in the Circle of the Star.  The signal to come, which only a relic of (another) could transmit from the Obsidian Spire.</p>
+</dd>
+</dl>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_arcturus_forgotten_mage">Arcturus, Forgotten Mage</h3>
+<div class="verseblock">
+<pre class="content">She laid the three stones below the altar,
+words of power chanted through her.
+The moment arrived, his eyes opened,
+and she brought down the dagger.</pre>
+<div class="attribution">
+&#8212; The Lost Book of Gideon<br>
+<cite>Chapter 8 verse 5</cite>
+</div>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Cultists</dt>
+<dd>
+<p>Antharia, Parthos the Mad, Gray Yiyinona. (Curious power-seeking wizards.)</p>
+</dd>
+<dt class="hdlist1">Barriers</dt>
+<dd>
+<p>The three crystals embedded in Roderick&#8217;s gravestone that power your prison, and resonate with energy wanted by (another).  The labyrinthian caverns above your tomb, which hold artifacts of (another).  Your name, lost in the pages of (another)'s forbidden tome.</p>
+</dd>
+</dl>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_agon_dead_god_of_war">Agon, Dead God of War</h3>
+<div class="quoteblock">
+<blockquote>
+My father behold, the enemy&#8217;s ships came; my cities were burned, and they did evil things in my country.
+</blockquote>
+<div class="attribution">
+&#8212; Ammurapi
+</div>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Cultists</dt>
+<dd>
+<p>Sister Agatha the White, Brother Marcos the Red, Mother. (Looking for glory.)</p>
+</dd>
+<dt class="hdlist1">Barriers</dt>
+<dd>
+<p>The Ladies Templar, who hid your five relics across the lands; they were sought by followers of (another) for dark things.  The Lost Book of Gideon, which followers of (another) recorded your most powerful rituals in.  Your divine hammer, which destroyed (another) ages ago and holds runes that drive those who read them mad.</p>
+</dd>
+</dl>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lady_of_shadow">Lady of Shadow</h3>
+<div class="paragraph">
+<p>Weak from an ancient defeat, almost forgotten in the world above.</p>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Cultists</dt>
+<dd>
+<p>Nameless.  (Assassins, hoards of them.)</p>
+</dd>
+</dl>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_hivemind_of_drakon">Hivemind of Drakon</h3>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Now that idea has burrowed itself so deep into my head that reading orders is difficult to understand in any other way&#8230;&#8203;</p>
+</div>
+</blockquote>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Cultists</dt>
+<dd>
+<p>Powerful world figures.  (Now puppets to your subconscious.)</p>
+</dd>
+</dl>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_the_three_fates">The Three Fates</h3>
+<div class="paragraph">
+<p>Someday, you&#8217;ll sing the song that ends the world.  All in its proper time.</p>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Cultists</dt>
+<dd>
+<p>Lena the Chantress, Bard, Marantha of Tal.  (Singers and storytellers.)</p>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_visions_of_play">Visions of Play</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>You&#8217;ve got a bunch of triggers that you need to track in the background, and
-players will give you more with almost every order.  It&#8217;s most useful to
-maintain a log of events, including things you expect to happen in the future
-(like message delivery, arrival times, and so forth).</p>
+<p>Pick playbooks and one of their barriers&#8201;&#8212;&#8201;never the same barrier as another player, though you may share books.  Write another ancient&#8217;s name in the blank and share it with them.  Where places are mentioned, add them to the map and show the others where they are.  You have no cultists yet.</p>
 </div>
 <div class="paragraph">
-<p>For example, your log might look like this:</p>
+<p>Also add these locations to the map:</p>
 </div>
-<div class="literalblock">
-<div class="content">
-<pre>1 Sunrise
-- Sage reaches the Well with all forces and begins invoking the Moon.
-1 Noon
-- Sage invokes the Moon.
-- Sverre's message reaches Gary: "Attack the Well."</pre>
+<div class="ulist">
+<ul>
+<li>
+<p>The Last City.</p>
+</li>
+<li>
+<p>Dagger Fields.</p>
+</li>
+<li>
+<p>The Desert.</p>
+</li>
+<li>
+<p>Two mountain ranges, name them. (Broken Teeth, The Axe, Grey Ridge)</p>
+</li>
+<li>
+<p>Two ruins, name them. (Ikshatha, Croth)</p>
+</li>
+<li>
+<p>Three rivers, name them. (Tears of Asha, River Zzik, Darkwater Creek)</p>
+</li>
+</ul>
 </div>
+<div class="paragraph">
+<p>If any area on the map doesn&#8217;t yet have a name, name it.</p>
+</div>
+<div class="paragraph">
+<p>The bloody membrane between worlds is thin between the ancients, you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.</p>
+</div>
+<div class="paragraph">
+<p>The conduit will contact you when a cultist does.  They&#8217;ll tell you something about the world above and ask for a task.  Always state the vision you send, and the intention.  Sometimes you&#8217;ll have difficulty knowing where to start: the Conduit is bound to tell you the truth (as far as they know it), and might suggest a course of action.</p>
+</div>
+<div class="paragraph">
+<p>You may send your cultists any visions you like. Explicit orders they will follow exactly. You may be sure of what they will do, but will not take advantage of the cultist&#8217;s instincts in the moment. Vague orders they will interpret as best they can. They will always act in your best interest as they see it and will adapt to the situation they are in, but you will not be sure exactly what they will do.  Don&#8217;t bother with contingency plans&#8201;&#8212;&#8201;cultists can&#8217;t remember that much.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_the_conduit">The Conduit</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Your job is to set the pace.  Choose a player who hasn&#8217;t been contacted in a while and figure out what&#8217;s going on with their followers.  Once you have an interesting situation in mind, draw from the Tarot deck and use it to color your ideas of how it turns out.  If you drew major arcana, figure out how to bring that power to the surface.  Contact the player with the situation from the cultists perspective, and await a response.  Responses come only when the cultist is dreaming&#8201;&#8212;&#8201;and might take a while.  Life goes on above.</p>
 </div>
 <div class="sect2">
-<h3 id="_sunrise">Sunrise</h3>
+<h3 id="_principles">Principles</h3>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Speak through the cultists.</strong></p>
+</li>
+<li>
+<p><strong>Bind them together, don&#8217;t make them friends.</strong></p>
+</li>
+<li>
+<p><strong>Encourage secrets, don&#8217;t reveal them lightly.</strong></p>
+</li>
+<li>
+<p><strong>Add place names, use them.</strong></p>
+</li>
+<li>
+<p><strong>Suggest the next task.</strong></p>
+</li>
+<li>
+<p><strong>Let the horror hang in the air.</strong></p>
+</li>
+<li>
+<p><strong>Sometimes, ask another player.</strong></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_the_cards">The Cards</h2>
+<div class="sectionbody">
 <div class="paragraph">
-<p>Sunrise is the tick of the clock that pushes the game forward.</p>
+<p>Drawn cards provide for chaotic changes in a sometimes static world.  Every card you draw should color your understanding of the situation.  Did you think that battle was a simple matter of force?  Draw <strong>The Tower</strong> and see it all come crashing down.  Some cards have other important effects:</p>
 </div>
 <div class="paragraph">
-<p><strong>Forces that didn&#8217;t rest</strong> gain Exhausted.</p>
+<p><strong>Major arcana</strong> surface new artifacts of great power.  While the powers are specific, the shape the artifact takes should be suggested by the player&#8201;&#8212;&#8201;ask them.</p>
 </div>
 <div class="paragraph">
-<p><strong>Draw income for each mage</strong> and tell them what it is&#8201;&#8212;&#8201;mages have foresight.
-The ritual or resources on it will head towards them at twice normal marching
-speed.  They can get lost or intercepted.</p>
-</div>
+<p><strong>Court cards</strong> (Page, Knight, Queen, King) are new cultists.  Someone is always searching for the ancients, and sometimes they succeed.</p>
 </div>
 <div class="sect2">
-<h3 id="_scouting_and_engagement">Scouting and Engagement</h3>
+<h3 id="_major_arcana">Major Arcana</h3>
 <div class="paragraph">
-<p>Be honest with the players about what&#8217;s around them.  It&#8217;s the only information
-they have.</p>
+<p>Relics in the world that can invoke powerful rituals.</p>
 </div>
-<div class="paragraph">
-<p><strong>When two mages are in the same area,</strong> tell each of them about the other.  If
-the area is open terrain, also describe the forces each commands.</p>
-</div>
-<div class="paragraph">
-<p><strong>When two or more armies meet in battle,</strong> consult each commander&#8217;s standing
-orders to determine what forces to commit.  All committed forces gain a
-condition.  The force(s) in minority gain another.  Report the battle to all
-nearby mages.</p>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">The Fool</dt>
+<dd>
+<p>Sow confusion until the next sunrise.</p>
+</dd>
+<dt class="hdlist1">The Magician</dt>
+<dd>
+<p>Transmute an object.</p>
+</dd>
+<dt class="hdlist1">The High Priestess</dt>
+<dd>
+<p>Receive a vision of the world.</p>
+</dd>
+<dt class="hdlist1">The Empress</dt>
+<dd>
+<p>Birth something terrible.</p>
+</dd>
+<dt class="hdlist1">The Emperor</dt>
+<dd>
+<p>Exert control over another for a critical moment.</p>
+</dd>
+<dt class="hdlist1">The Hierophant</dt>
+<dd>
+<p>Ask for specific advice and recieve it.</p>
+</dd>
+<dt class="hdlist1">The Lovers</dt>
+<dd>
+<p>You have a moment alone with someone you know.</p>
+</dd>
+<dt class="hdlist1">The Chariot</dt>
+<dd>
+<p>Travel quickly until the next sunset.</p>
+</dd>
+<dt class="hdlist1">Strength</dt>
+<dd>
+<p>Gain supernatural power until the next sunset.</p>
+</dd>
+<dt class="hdlist1">The Hermit</dt>
+<dd>
+<p>Scry on a distant location.</p>
+</dd>
+<dt class="hdlist1">Wheel of Fortune</dt>
+<dd>
+<p>Ask fate for a boon.</p>
+</dd>
+<dt class="hdlist1">Justice</dt>
+<dd>
+<p>Weigh yourself and another on the scales.</p>
+</dd>
+<dt class="hdlist1">The Hanged Man</dt>
+<dd>
+<p>See clearly until the new moon.</p>
+</dd>
+<dt class="hdlist1">Death</dt>
+<dd>
+<p>Force a transition.</p>
+</dd>
+<dt class="hdlist1">Temperance</dt>
+<dd>
+<p>Give up something you have in excess to gain something you lack.</p>
+</dd>
+<dt class="hdlist1">The Devil</dt>
+<dd>
+<p>Call on monstrous powers beyond your ken for aid.</p>
+</dd>
+<dt class="hdlist1">The Tower</dt>
+<dd>
+<p>Destroy something.</p>
+</dd>
+<dt class="hdlist1">The Star</dt>
+<dd>
+<p>Restore something mortal.</p>
+</dd>
+<dt class="hdlist1">The Moon</dt>
+<dd>
+<p>You walk unseen until the next sunrise, or until you draw blood.</p>
+</dd>
+<dt class="hdlist1">The Sun</dt>
+<dd>
+<p>Gain the loyalty of all who see you, until the next sunset.</p>
+</dd>
+<dt class="hdlist1">Judgement</dt>
+<dd>
+<p>Raise the dead to do your bidding.</p>
+</dd>
+<dt class="hdlist1">The World</dt>
+<dd>
+<p>Step leagues in an instant.</p>
+</dd>
+</dl>
 </div>
 </div>
 </div>
@@ -1154,8 +827,8 @@ nearby mages.</p>
 </div>
 <div id="footer">
 <div id="footer-text">
-Version 0.1<br>
-Last updated 2017-09-13 14:43:34 PDT
+Version 0.2<br>
+Last updated 2017-09-18 10:18:16 PDT
 </div>
 </div>
 </body>
