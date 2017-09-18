@@ -98,6 +98,7 @@ Your job is to set the pace.  Choose a player who hasn't been contacted in a whi
 
 When you message a player:
 
+- Tell them the truth about what happened.
 - Speak from the mouth of the cultist.
 - Push them into the way of another player.
 - Encourage secrets, don't reveal them lightly.
