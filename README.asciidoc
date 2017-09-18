@@ -68,7 +68,8 @@ Cultists:: Nameless.  (Assassins, hoards of them.)
 Cultists:: Powerful world figures.  (Now puppets to your subconscious.)
 
 === The Three Fates
-Someday, you'll sing the song that ends the world.  All in its proper time.
+[quote, Tycho, I Hope You Like Text]
+A smoking orb of nothing will grow above your bed, and from it will emerge a thousand starving crows. As I slip through the widening maw in my new form, you will catch only a glimpse of my radiance before you are incinerated. Then, as tears of bubbling pitch stream down my face, my dark work will begin. I will open one of my six mouths, and I will sing the song that ends the Earth.
 
 Cultists:: Lena the Chantress, Bard, Marantha of Tal.  (Singers and storytellers.)
 
@@ -93,18 +94,16 @@ The conduit will contact you when a cultist does.  They'll tell you something ab
 You may send your cultists any visions you like. Explicit orders they will follow exactly. You may be sure of what they will do, but will not take advantage of the cultist's instincts in the moment. Vague orders they will interpret as best they can. They will always act in your best interest as they see it and will adapt to the situation they are in, but you will not be sure exactly what they will do.  Don't bother with contingency plans -- cultists can't remember that much.
 
 == The Conduit
-
 Your job is to set the pace.  Choose a player who hasn't been contacted in a while and figure out what's going on with their followers.  Once you have an interesting situation in mind, draw from the Tarot deck and use it to color your ideas of how it turns out.  If you drew major arcana, figure out how to bring that power to the surface.  Contact the player with the situation from the cultists perspective, and await a response.  Responses come only when the cultist is dreaming -- and might take a while.  Life goes on above.
 
-=== Principles
+When you message a player:
 
-- *Speak through the cultists.*
-- *Bind them together, don't make them friends.*
-- *Encourage secrets, don't reveal them lightly.*
-- *Add place names, use them.*
-- *Suggest the next task.*
-- *Let the horror hang in the air.*
-- *Sometimes, ask another player.*
+- Speak from the mouth of the cultist.
+- Push them into the way of another player.
+- Encourage secrets, don't reveal them lightly.
+- Use the names you've created.  Make new ones, as needed.
+- Add subtle horrors to the message.
+- Sometimes, ask one player to help detail what happens to another.
 
 === The Draw
 _Dreams_ is about what happens when plans come into conflict.  Before you draw, you should have a critical moment in mind: the knife coming down, eyes searching the forgotten library, the bargaining table.  Let the card color the outcome.  If you look at the card and immediately see a way it applies to the situation, use that.  Otherwise, there's a list of quick ideas to latch onto below, taken from _The Pictorial Key to the Tarot_ (A.E. Waite, 1910).
