@@ -2,7 +2,7 @@
 Adam Blinkinsop <github.com/blinks>
 v0.2: Dreaming.
 :toc: left
-:homepage: https://blinks.github.io/battle-mage/
+:homepage: https://blinks.github.io/dreams-in-darkness/
 
 [verse, The National, The System Only Dreams in Total Darkness]
 The system only dreams in total darkness
@@ -20,6 +20,13 @@ The pathology of the poet says that "the undevout astronomer is mad"; the pathol
 
 === The Social Contract
 To keep everything going, it's helpful to set expectations: how often will you be contacting players?  How long is acceptable for their response?  What will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel.  Revisit the social contract.
+
+=== The Map
+A good map is crucial.  You need to be able to refer to a place or a direction and have everyone understand what you mean.  It doesn't need to be detailed, just provide enough structure that players can say: "the vision goes North over the Broken Teeth" and know what that means.
+
+Sample map generation is available on [this site](https://blinks.github.io/dreams-in-darkness/voronoi.html), but really just marking out a score of variously-sized areas and labeling them and their borders is enough.
+
+Oh, and one more thing: North probably needs to be up, or everyone will get confused.
 
 == Ancients
 
@@ -229,4 +236,5 @@ Judgement::
 The World::
 - "Assured success, recompense, voyage, route, emigration, flight, change of
   place." (Waite, 1910)
-- Find an artifact that *transports you leagues in an instant.*  What does it look like?  How does it work?
+- Find an artifact that *transports you leagues in an instant.*  What does it
+  look like?  How does it work?
