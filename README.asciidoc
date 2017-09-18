@@ -43,14 +43,8 @@ Cultists:: Antharia, Parthos the Mad, Gray Yiyinona. (Curious power-seeking wiza
 Barriers:: The three crystals embedded in Roderick's gravestone that power your prison, and resonate with energy wanted by (another).  The labyrinthian caverns above your tomb, which hold artifacts of (another).  Your name, lost in the pages of (another)'s forbidden tome.
 
 === Agon, Dead God of War
-[verse, Ammurapi]
-My father behold, the enemy's ships came;
-my cities were burned, and they did evil things in my country.
-Does not my father know that all my troops and chariots are in the Land of Hatti,
-and all my ships are in the Land of Lukka? ...
-Thus, the country is abandoned to itself.
-May my father know it:
-the seven ships of the enemy that came here inflicted much damage upon us.
+[quote, Ammurapi]
+My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country.
 
 Cultists:: Sister Agatha the White, Brother Marcos the Red, Mother. (Looking for glory.)
 
