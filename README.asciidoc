@@ -24,7 +24,7 @@ To keep everything going, it's helpful to set expectations: how often will you b
 === The Map
 A good map is crucial.  You need to be able to refer to a place or a direction and have everyone understand what you mean.  It doesn't need to be detailed, just provide enough structure that players can say: "the vision goes North over the Broken Teeth" and know what that means.
 
-Sample map generation is available on this site[https://blinks.github.io/dreams-in-darkness/voronoi.html], but really just marking out a score of variously-sized areas and labeling them and their borders is enough.
+Sample map generation is available on this site:[https://blinks.github.io/dreams-in-darkness/voronoi.html], but really just marking out a score of variously-sized areas and labeling them and their borders is enough.
 
 Oh, and one more thing: North probably needs to be up, or everyone will get confused.
 
