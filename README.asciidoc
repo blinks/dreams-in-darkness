@@ -116,125 +116,125 @@ When these are drawn, a powerful magic artifact is _also_ found in the world.
 
 The Fool::
 - "Folly, mania, extravagance, intoxication, delirium, frenzy." (Waite, 1910)
-- Find an artifact that can be used to *sow confusion until the next sunrise*.
+- An artifact has appeared that can be used to *sow confusion until the next sunrise*.
   What does it look like?  How does it work?
 
 The Magician::
 - "Skill, diplomacy, address, subtlety; sickness, pain, loss, disaster, snares
   of enemies; self-confidence, will." (Waite, 1910)
-- Find an artifact that can be used for *transmutation*.  What does it look
+- An artifact has appeared that can be used for *transmutation*.  What does it look
   like?  How does it work?
 
 The High Priestess::
 - "Secrets, mystery, the future as yet unrevealed, silence, tenacity; mystery,
   wisdom, science." (Waite, 1910)
-- Find an artifact that gives you a *mysterious vision of the world*.  What
+- An artifact has appeared that gives you a *mysterious vision of the world*.  What
   does it look like?  How does it work?
 
 The Empress::
 - "Fruitfulness, action, initiative, length of days; the unknown, clandestine;
   also difficulty, doubt, ignorance." (Waite, 1910)
-- Find an artifact that *births something terrible*.  What does it look like?
+- An artifact has appeared that *births something terrible*.  What does it look like?
   How does it work?
 
 The Emperor::
 - "Stability, power, protection, realization; a great person; aid, reason,
   conviction; also authority and will." (Waite, 1910)
-- Find an artifact that *exerts control over another for a critical moment.*
+- An artifact has appeared that *exerts control over another for a critical moment.*
   What does it look like?  How does it work?
 
 The Hierophant::
 - "Marriage, alliance, captivity, servitude; by another account, mercy and
   goodness; inspiration." (Waite, 1910)
-- Find an artifact that allows you to *ask for specific advice and recieve it.*
+- An artifact has appeared that allows you to *ask for specific advice and recieve it.*
   What does it look like?  How does it work?
 
 The Lovers::
 - "Attraction, love, beauty, trials overcome." (Waite, 1910)
-- Find an artifact that gives you *a moment alone with someone you know.*  What
+- An artifact has appeared that gives you *a moment alone with someone you know.*  What
   does it look like?  How does it work?
 
 The Chariot::
 - "Succour, providence; also war, triumph, presumption, vengeance, trouble." (Waite, 1910)
-- Find an artifact that enables you to *travel quickly until the next sunset.*
+- An artifact has appeared that enables you to *travel quickly until the next sunset.*
   What does it look like?  How does it work?
 
 Strength::
 - "Power, energy, action, courage, magnanimity; also complete success and
   honours." (Waite, 1910)
-- Find an artifact that gives you *supernatural power until the next sunset.*
+- An artifact has appeared that gives you *supernatural power until the next sunset.*
   What does it look like?  How does it work?
 
 The Hermit::
 - "Prudence, circumspection; also and especially treason, dissimulation,
   roguery, corruption." (Waite, 1910)
-- Find an artifact that gives you *vision of a distant location.*  What does it
+- An artifact has appeared that gives you *vision of a distant location.*  What does it
   look like?  How does it work?
 
 Wheel of Fortune::
 - "Destiny, fortune, success, elevation, luck, felicity." (Waite, 1910)
-- Find an artifact that you can *ask for a boon and Fate will respond.*  What
+- An artifact has appeared that you can *ask for a boon and Fate will respond.*  What
   does it look like?  How does it work?
 
 Justice::
 - "Equity, rightness, probity, executive; triumph of the deserving side in
   law." (Waite, 1910)
-- Find an artifact that *weighs yourself and another on the scales of justice.*
+- An artifact has appeared that *weighs yourself and another on the scales of justice.*
   What does it look like?  How does it work?
 
 The Hanged Man::
 - "Wisdom, circumspection, discernment, trials, sacrifice, intuition,
   divination, prophecy." (Waite, 1910)
-- Find an artifact that helps you to *see clearly until the new moon.*  What
+- An artifact has appeared that helps you to *see clearly until the new moon.*  What
   does it look like?  How does it work?
 
 Death::
 - "End, mortality, destruction, corruption." (Waite, 1910)
-- Find an artifact that gives you the power to *bring something to an end.*
+- An artifact has appeared that gives you the power to *bring something to an end.*
   What does it look like?  How does it work?
 
 Temperance::
 - "Economy, moderation, frugality, management, accommodation." (Waite, 1910)
-- Find an artifact that you can *give something you have in excess to gain
+- An artifact has appeared that you can *give something you have in excess to gain
   something you lack.*  What does it look like?  How does it work?
 
 The Devil::
-- "Ravage, violence, vehemence, extraordinary efforts, force, fatality; that
-  which is predestined but is not for this reason evil." (Waite, 1910)
-- Find an artifact with which you can *call for aid from powers you do not
-  understand or control.*  What does it look like?  How does it work?
+- Something that was predicted has come to pass, perhaps a prophecy.  What was
+  it, and who predicted it?
+- An artifact has appeared with which you can *call for aid from powers you do
+  not understand or control.*  What does it look like?  How does it work?
 
 The Tower::
-- What is the worst way this situation could go wrong?
-- What else could be ruined in the process?
-- Find an artifact with which you can *utterly destroy something.*  What does
+- What is the worst way this situation could go wrong, and what else could be
+  ruined in the process?
+- An artifact has appeared with which you can *utterly destroy something.*  What does
   it look like?  How does it work?
 
 The Star::
 - "Loss, theft, privation, abandonment; another reading says -- hope and bright
   prospects." (Waite, 1910)
-- Find an artifact that gives you the power to *restore something mortal at a
+- An artifact has appeared that gives you the power to *restore something mortal at a
   cost.*  What does it look like?  How does it work?
 
 The Moon::
 - "Hidden enemies, danger, calumny, darkness, terror, deception, occult forces,
   error." (Waite, 1910)
-- Find an artifact that lets you *walk unseen until the next sunrise, or until
+- An artifact has appeared that lets you *walk unseen until the next sunrise, or until
   you draw blood.*  What does it look like?  How does it work?
 
 The Sun::
-- "Material happiness, fortunate marriage, contentment." (Waite, 1910)
-- Find an artifact that *gives you the loyalty of all who see you, until the
+- The cultist is content with this outcome.  Why?
+- An artifact has appeared that *gives you the loyalty of all who see you, until the
   next sunset.*  What does it look like?  How does it work?
 
 Judgement::
 - "Change of position, renewal, outcome. Another account specifies total loss
   though lawsuit." (Waite, 1910)
-- Find an artifact that *raises the dead to do your bidding.*  What does it
+- An artifact has appeared that *raises the dead to do your bidding.*  What does it
   look like?  How does it work?
 
 The World::
 - "Assured success, recompense, voyage, route, emigration, flight, change of
   place." (Waite, 1910)
-- Find an artifact that *transports you leagues in an instant.*  What does it
+- An artifact has appeared that *transports you leagues in an instant.*  What does it
   look like?  How does it work?
