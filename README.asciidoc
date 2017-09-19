@@ -50,7 +50,7 @@ A good map is crucial.  You need to be able to refer to a place or a direction a
 - It needs whatever your ancients need to destroy.
 - It needs something different, that you must decide yourselves.
 
-Use the voronoi:[https://blinks.github.io/dreams-in-darkness/voronoi.html] map generator if you need a starting point, but really just marking out a score of variously-sized areas and labeling them and their borders is enough.  As you come up with names, put them on the map too, and let everyone know them.  The map is shared, make sure everyone has an up-to-date copy.
+Use the https://blinks.github.io/dreams-in-darkness/voronoi.html[voronoi] map generator if you need a starting point, but really just marking out a score of variously-sized areas and labeling them and their borders is enough.  As you come up with names, put them on the map too, and let everyone know them.  The map is shared, make sure everyone has an up-to-date copy.
 
 Oh, and one more thing: North probably needs to be up, or everyone will get confused.
 
