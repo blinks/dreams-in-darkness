@@ -13,13 +13,13 @@ All night you’re talking to God
 == Introduction
 _Dreams_ is a play-by-mail game for a facilitator (the *conduit*) and three to six other players (the *ancients*).  It's a secrets-filled role-playing game about what happens when plans come into conflict.
 
-To play, everyone needs a copy of the map, and the conduit also needs a shuffled Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.
-
-[quote, A.E. Waite, The Pictorial Key to the Tarot (1910)]
-The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
+To play, you need a good way to communicate and a shuffled Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.  You'll also need pencils and paper, and a way to share the map after you've drawn it.
 
 === The Social Contract
 To keep everything going, it's helpful to set expectations: how often will you be contacting players?  How long is acceptable for their response?  What will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel.  Revisit the social contract.
+
+[quote, A.E. Waite, The Pictorial Key to the Tarot (1910)]
+The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
 
 == Ancients
 Players are immortal elder things whose power is restrained somehow.  Their only connection to the world is through people who seek them out.  The only way they can communicate to the world is through visions.
