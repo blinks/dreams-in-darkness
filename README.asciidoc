@@ -11,20 +11,22 @@ We’re in a different kind of thing now
 All night you’re talking to God
 
 == Introduction
-_Dreams_ is a play-by-mail game for a facilitator (the *conduit*) and three to six other players (the *ancients*).  It's a secrets-filled role-playing game about what happens when plans come into conflict.
+_Dreams_ is a play-by-mail game for a facilitator (the *Conduit*) and three to six other players (the *Ancients*).  It's a secrets-filled role-playing game about what happens when plans come into conflict.
 
 To play, you need a good way to communicate and a shuffled Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.  You'll also need pencils and paper, and a way to share the map after you've drawn it.
 
 === The Social Contract
-To keep everything going, it's helpful to set expectations: how often will you be contacting players?  How long is acceptable for their response?  What will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel.  Revisit the social contract.
+To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel.  Make sure you revisit the social contract.
 
 [quote, A.E. Waite, The Pictorial Key to the Tarot (1910)]
 The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
 
 == Ancients
-Players are immortal elder things whose power is restrained somehow.  Their only connection to the world is through people who seek them out.  The only way they can communicate to the world is through visions.
+Players are immortal elder beings whose power is restrained somehow.  Their only connection to the world is through people who seek them out.  The only way they can communicate to the world is through visions.
 
-To create an ancient, decide what would happen if they had their way with the world.  What does it look like when an all-powerful elder thing arrives and isn't stopped?  Then, decide what's stopping you (pick a few):
+To create an ancient, decide what would happen if they had their way with the world.  What does it look like when an all-powerful elder thing arrives and isn't stopped?
+
+Decide what's stopping you (pick a few):
 
 - The stars must align.
 - The proper words must be spoken.
@@ -34,7 +36,7 @@ To create an ancient, decide what would happen if they had their way with the wo
 - The tower must fall.
 - The secret society must be eliminated.
 
-[verse, The Lost Book of Gideon, Chapter 8 verse 5]
+[verse, The Lost Book of Gideon]
 She laid the three stones below the altar,
 words of power chanted through her.
 The moment arrived, his eyes opened,
@@ -43,14 +45,16 @@ and she brought down the dagger.
 == Landscape
 A good map is crucial.  You need to be able to refer to a place or a direction and have everyone understand what you mean.  It doesn't need to be detailed, just provide enough structure that players can say: "the vision goes North over the Broken Teeth" and know what that means.
 
-- It needs five cities -- three of them ruins, the last two in conflict.
-- It needs two mountain ranges and a volcano.
-- It needs three rivers and a lake.
-- It needs a desert and a forest.
-- It needs whatever your ancients need to destroy.
-- It needs something different, that you must decide yourselves.
+Your map needs:
 
-Use the https://blinks.github.io/dreams-in-darkness/voronoi.html[voronoi] map generator if you need a starting point, but really just marking out a score of variously-sized areas and labeling them and their borders is enough.  As you come up with names, put them on the map too, and let everyone know them.  The map is shared, make sure everyone has an up-to-date copy.
+- five cities -- three of them ruins, the last two in conflict.
+- two mountain ranges and a volcano.
+- three rivers and a lake.
+- a desert and a forest.
+- whatever your ancients need to destroy.
+- something different, that you must decide yourselves.
+
+Use the https://blinks.github.io/dreams-in-darkness/voronoi.html[voronoi] map generator if you need a starting point, but really just marking out a score of variously-sized areas and labeling them with their borders is enough.  As you come up with names put them on the map too, and let everyone know them.  The map is shared so make sure everyone has an up-to-date copy.
 
 Oh, and one more thing: North probably needs to be up, or everyone will get confused.
 
@@ -58,9 +62,9 @@ Oh, and one more thing: North probably needs to be up, or everyone will get conf
 My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us.
 
 == Visions
-The bloody membrane between worlds is thin between the ancients, you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.
+The bloody membrane between worlds is thin between the ancients; you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.
 
-The conduit will contact you when a cultist does.  They'll tell you something about the world above and ask for a task.  Always state the vision you send, and the intention.  Sometimes you'll have difficulty knowing where to start: the Conduit is bound to tell you the truth (as far as they know it), and might suggest a course of action.
+The conduit will contact you when one of your cultists does.  They'll tell you something about the world above and ask for a task.  Always state the vision you send, and the intention.  Sometimes you'll have difficulty knowing where to start: the Conduit is bound to tell you the truth (as far as they know it), and might suggest a course of action.
 
 You may send your cultists any visions you like. Explicit orders they will follow exactly. You may be sure of what they will do, but will not take advantage of the cultist's instincts in the moment. Vague orders they will interpret as best they can. They will always act in your best interest as they see it and will adapt to the situation they are in, but you will not be sure exactly what they will do.  Don't bother with contingency plans -- cultists can't remember that much, nor can visions make them understood.
 
