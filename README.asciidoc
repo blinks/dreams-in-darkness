@@ -1,6 +1,6 @@
 = Dreams in Darkness
 Adam Blinkinsop <github.com/blinks>
-v0.2: Dreaming.
+v0.3: Prophecy.
 :toc: left
 :homepage: https://blinks.github.io/dreams-in-darkness/
 
