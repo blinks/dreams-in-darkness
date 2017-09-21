@@ -26,15 +26,91 @@ Players are immortal elder beings whose power is restrained somehow.  Their only
 
 To create an ancient, decide what would happen if they had their way with the world.  What does it look like when an all-powerful elder thing arrives and isn't stopped?
 
-Decide what's stopping you (pick a few):
+Choose three prophecies.  When they all come true, nothing is stopping you.
 
-- The stars must align.
-- The proper words must be spoken.
-- The sacrifice must be made.
-- The seal must be broken.
-- The child must be born.
-- The tower must fall.
-- The secret society must be eliminated.
+The wine jug must be emptied::
+You are attuned to *The Fool*, which can be used to *sow confusion until the
+next sunrise*.
+
+The proper words must be spoken::
+You are attuned to *The Magician*, which can be used to *transmute elements.*
+Your cultists are quick (+Mercury).
+
+The seal must be broken::
+You are attuned to *The High Priestess*, which can give you a *mysterious
+vision of the world*
+
+The child must be born::
+You are attuned to *The Empress*, which *births something terrible.*  Your
+cultists are persuasive (+Venus).
+
+The leader must be overthrown::
+You are attuned to *The Emperor*, which *exerts control over another for a
+critical moment.*  Your cultists are lucky (+Jupiter).
+
+The criminal must be given mercy::
+You are attuned to *The Hierophant*, which allows you to *ask for specific
+advice and recieve it.*
+
+The secret society must be eliminated::
+You are attuned to *The Lovers*, which gives you *a moment alone with someone
+you know.*  Your cultists are persuasive (+Venus).
+
+The war must begin::
+You are attuned to *The Chariot*, which enables you to *travel quickly until
+the next sunset.*
+
+The game must be won::
+You are attuned to *Strength*, which gives you *supernatural power until the
+next sunset.*  Your cultists are courageous and steady (+Mars).
+
+The child must be abandoned::
+You are attuned to *The Hermit*, which gives you *vision of a distant
+location.*
+
+The coin must be tossed::
+You are attuned to *Wheel of Fortune*, which you can *ask for a boon: Fate will respond.*
+
+Justice must be done::
+You are attuned to *Justice*, which *weighs yourself and another on the scales
+of justice.*
+
+The trials must be overcome::
+You are attuned to *The Hanged Man*, which helps you to *see clearly until the
+new moon.*
+
+The hero must die::
+You are attuned to *Death*, which gives you the power to *bring something to an
+end.*  Sometimes, the end is only temporary.
+
+The path must be followed::
+You are attuned to *Temperance*, which *takes something you have in excess to
+give you something you lack.*
+
+The sacrifice must be made::
+You are attuned to *The Devil*, with which you can *call for aid from powers
+you do not understand or control.*
+
+The tower must fall::
+You are attuned to *The Tower* which can be used to *utterly destroy
+something.*  Your cultists are courageous and steady (+Mars).
+
+The stars must align::
+You are attuned to *The Star* which can *restore something mortal at a cost.*
+
+The terror must come::
+You are attuned to *The Moon*, which lets you *walk unseen until the next
+sunrise, or until you draw blood.*  Your cultists are secretive (+Moon).
+
+The empire must rise::
+You are attuned to *The Sun*, which *gives you the loyalty of all who see you,
+until the next sunset.*  Your cultists are powerful (+Sun).
+
+The dead must be judged::
+You are attuned to *Judgement*, which *raises the dead to do your bidding.*
+
+The lost must be found::
+You are attuned to *The World*, which *transports you leagues in an instant.*
 
 [verse, The Lost Book of Gideon]
 She laid the three stones below the altar,
@@ -64,15 +140,61 @@ My father behold, the enemy's ships came; my cities were burned, and they did ev
 == Visions
 The bloody membrane between worlds is thin between the ancients; you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.
 
-The conduit will contact you when one of your cultists does.  They'll tell you something about the world above and ask for a task.  Always state the vision you send, and the intention.  Sometimes you'll have difficulty knowing where to start: the Conduit is bound to tell you the truth (as far as they know it), and might suggest a course of action.
+Once the map is built and the prophecies are written, the game proper can begin.
 
-You may send your cultists any visions you like. Explicit orders they will follow exactly. You may be sure of what they will do, but will not take advantage of the cultist's instincts in the moment. Vague orders they will interpret as best they can. They will always act in your best interest as they see it and will adapt to the situation they are in, but you will not be sure exactly what they will do.  Don't bother with contingency plans -- cultists can't remember that much, nor can visions make them understood.
+The conduit will contact you -- awakening your ancient -- when a cultist figures out the proper ritual.  They have no idea what they've uncovered, but your infinite power is overwhelming to any mortal will.  In their trance, they'll tell you something about the world above and ask for a task.  Always state the vision you send, and the intention.  Sometimes you'll have difficulty knowing where to start: the Conduit is bound to tell you the truth (as far as they know it), and might suggest a course of action.
+
+As they sleep, you may send your cultists any visions you like. Explicit orders they will follow exactly, to the best of their ability. You may be sure of what they will do, but will not take advantage of the cultist's instincts in the moment. Vague orders they will attempt to interpret, but not in the evil genie sort of way. They will always act in your best interest as they see it and will adapt to the situation they are in, but you will not be sure exactly what they will do.  Don't bother with contingency plans -- cultists can't remember that much, nor can visions make them understood.
 
 [quote, H.P. Lovecraft, The Colour out of Space.]
 It all began, old Ammi said, with the meteorite.
 
 == The Conduit
-Your job is to set the pace.  Choose a player who hasn't been contacted in a while and figure out what's going on with their followers.  Once you have an interesting situation in mind, draw from the Tarot deck and use it to color your ideas of how it turns out.  If you drew major arcana, figure out how to bring that power to the surface.  Contact the player with the situation from the cultists perspective, and await a response.  Responses come only when the cultist is dreaming -- and might take a while.  Life goes on above.
+You set the pace and describe the world.  You do this by finding _conflicts,_ figuring out the possible results, drawing to inject some chaos, and reporting back to the players.
+
+Before you draw, you should have a critical moment in mind: the knife coming down, eyes searching the forgotten library, the bargaining table.  Let the card color the outcome.
+
+Anytime the outcome is uncertain is a possible critical moment.  This could be a cultist attempting something interesting and risky, or two cultists wanting different things in the same place.  Divide participants into at most three groups: the attackers, the defenders, and the bystanders.  The first two groups are in opposition, and you'll be drawing for the attackers.
+
+Determine the sphere of conflict:
+
+The Sun:: A conflict of raw power or strength.
+Mercury:: A conflict of speed or skill.
+Venus:: A conflict of persuasion.
+The Moon:: A conflict of wisdom, secrets, or magic.
+Mars:: A conflict of courage or constitution.
+Saturn:: A conflict of patience or solitude.
+Jupiter:: A conflict of pure luck.
+
+Weigh both sides on the scales.  Count positive when things are in the attacker's favor and negative if they're in the defender's favor:
+
+- Does a side have more people actively working for it?  Count one for that side.
+- Does a side have the element of surprise?  Count one for it.
+- Does the location help or hurt a side?  Count one for that, too.
+- Does one side's intentions more closely match an ancient's will?  Count one for it.
+
+Then draw:
+
+- If you draw major arcana, a relic is found.  Contact the player attuned to it and ask what it looks like and how to unlock its power.  Draw again for the situation.
+- If you draw a court card (page, knight, queen, or king), an important character appears.  Perhaps a new cultist, perhaps just someone important to the setting.  Figure out who they are.  Draw again for the situation.
+- If you draw an ace, the plan succeeds wildly, and the attackers gain power; give them new aspects reflecting their growth.
+- If you draw any other card, reflect on the image and what it might mean, and then check the table to determine where it falls on the spheres.  The closer to the sphere of conflict it lies, the better for the attackers: exact match is +2, and each step away (wrap from top to bottom; TODO: image) reduces it.  At the exact opposite, it counts as -1.
+
+.Numbered Cards
+|===
+|#  |Wands    |Cups     |Swords   |Coins
+|2  |Mars     |Venus    |Moon     |Jupiter
+|3  |Sun      |Mercury  |Saturn   |Mars
+|4  |Venus    |Moon     |Jupiter  |Sun
+|5  |Saturn   |Mars     |Venus    |Mercury
+|6  |Jupiter  |Sun      |Mercury  |Moon
+|7  |Mars     |Venus    |Moon     |Saturn
+|8  |Mercury  |Saturn   |Jupiter  |Sun
+|9  |Moon     |Jupiter  |Mars     |Venus
+|10 |Saturn   |Mars     |Sun      |Mercury
+|===
+
+Contact the player with the situation from the cultists perspective, and await a response.  Responses come only when the cultist is dreaming -- and might take a while.  Life goes on above.
 
 When you message a player:
 
@@ -84,135 +206,3 @@ When you message a player:
 - Add subtle horrors to the message.
 - Sometimes, ask one player to help detail what happens to another.
 
-=== The Draw
-_Dreams_ is about what happens when plans come into conflict.  Before you draw, you should have a critical moment in mind: the knife coming down, eyes searching the forgotten library, the bargaining table.  Let the card color the outcome.  If you look at the card and immediately see a way it applies to the situation, use that.  Otherwise, there's a list of quick ideas to latch onto below, taken from _The Pictorial Key to the Tarot_ (A.E. Waite, 1910).
-
-TODO: Convert _Tarot_ text into questions (see _The Tower_).  The Conduit chooses who answers these questions -- some will have obvious answers they can give themselves, others might go to the player you're about to contact, still others could be directed at an unrelated player or the audience at large.
-
-==== Major Arcana
-When these are drawn, a powerful magic artifact is _also_ found in the world.
-
-The Fool::
-- "Folly, mania, extravagance, intoxication, delirium, frenzy." (Waite, 1910)
-- An artifact has appeared that can be used to *sow confusion until the next sunrise*.
-  What does it look like?  How does it work?
-
-The Magician::
-- "Skill, diplomacy, address, subtlety; sickness, pain, loss, disaster, snares
-  of enemies; self-confidence, will." (Waite, 1910)
-- An artifact has appeared that can be used for *transmutation*.  What does it look
-  like?  How does it work?
-
-The High Priestess::
-- "Secrets, mystery, the future as yet unrevealed, silence, tenacity; mystery,
-  wisdom, science." (Waite, 1910)
-- An artifact has appeared that gives you a *mysterious vision of the world*.  What
-  does it look like?  How does it work?
-
-The Empress::
-- "Fruitfulness, action, initiative, length of days; the unknown, clandestine;
-  also difficulty, doubt, ignorance." (Waite, 1910)
-- An artifact has appeared that *births something terrible*.  What does it look like?
-  How does it work?
-
-The Emperor::
-- "Stability, power, protection, realization; a great person; aid, reason,
-  conviction; also authority and will." (Waite, 1910)
-- An artifact has appeared that *exerts control over another for a critical moment.*
-  What does it look like?  How does it work?
-
-The Hierophant::
-- "Marriage, alliance, captivity, servitude; by another account, mercy and
-  goodness; inspiration." (Waite, 1910)
-- An artifact has appeared that allows you to *ask for specific advice and recieve it.*
-  What does it look like?  How does it work?
-
-The Lovers::
-- "Attraction, love, beauty, trials overcome." (Waite, 1910)
-- An artifact has appeared that gives you *a moment alone with someone you know.*  What
-  does it look like?  How does it work?
-
-The Chariot::
-- "Succour, providence; also war, triumph, presumption, vengeance, trouble." (Waite, 1910)
-- An artifact has appeared that enables you to *travel quickly until the next sunset.*
-  What does it look like?  How does it work?
-
-Strength::
-- "Power, energy, action, courage, magnanimity; also complete success and
-  honours." (Waite, 1910)
-- An artifact has appeared that gives you *supernatural power until the next sunset.*
-  What does it look like?  How does it work?
-
-The Hermit::
-- "Prudence, circumspection; also and especially treason, dissimulation,
-  roguery, corruption." (Waite, 1910)
-- An artifact has appeared that gives you *vision of a distant location.*  What does it
-  look like?  How does it work?
-
-Wheel of Fortune::
-- "Destiny, fortune, success, elevation, luck, felicity." (Waite, 1910)
-- An artifact has appeared that you can *ask for a boon and Fate will respond.*  What
-  does it look like?  How does it work?
-
-Justice::
-- "Equity, rightness, probity, executive; triumph of the deserving side in
-  law." (Waite, 1910)
-- An artifact has appeared that *weighs yourself and another on the scales of justice.*
-  What does it look like?  How does it work?
-
-The Hanged Man::
-- "Wisdom, circumspection, discernment, trials, sacrifice, intuition,
-  divination, prophecy." (Waite, 1910)
-- An artifact has appeared that helps you to *see clearly until the new moon.*  What
-  does it look like?  How does it work?
-
-Death::
-- "End, mortality, destruction, corruption." (Waite, 1910)
-- An artifact has appeared that gives you the power to *bring something to an end.*
-  What does it look like?  How does it work?
-
-Temperance::
-- "Economy, moderation, frugality, management, accommodation." (Waite, 1910)
-- An artifact has appeared that you can *give something you have in excess to gain
-  something you lack.*  What does it look like?  How does it work?
-
-The Devil::
-- Something that was predicted has come to pass, perhaps a prophecy.  What was
-  it, and who predicted it?
-- An artifact has appeared with which you can *call for aid from powers you do
-  not understand or control.*  What does it look like?  How does it work?
-
-The Tower::
-- What is the worst way this situation could go wrong, and what else could be
-  ruined in the process?
-- An artifact has appeared with which you can *utterly destroy something.*  What does
-  it look like?  How does it work?
-
-The Star::
-- "Loss, theft, privation, abandonment; another reading says -- hope and bright
-  prospects." (Waite, 1910)
-- An artifact has appeared that gives you the power to *restore something mortal at a
-  cost.*  What does it look like?  How does it work?
-
-The Moon::
-- "Hidden enemies, danger, calumny, darkness, terror, deception, occult forces,
-  error." (Waite, 1910)
-- An artifact has appeared that lets you *walk unseen until the next sunrise, or until
-  you draw blood.*  What does it look like?  How does it work?
-
-The Sun::
-- The cultist is content with this outcome.  Why?
-- An artifact has appeared that *gives you the loyalty of all who see you, until the
-  next sunset.*  What does it look like?  How does it work?
-
-Judgement::
-- "Change of position, renewal, outcome. Another account specifies total loss
-  though lawsuit." (Waite, 1910)
-- An artifact has appeared that *raises the dead to do your bidding.*  What does it
-  look like?  How does it work?
-
-The World::
-- "Assured success, recompense, voyage, route, emigration, flight, change of
-  place." (Waite, 1910)
-- An artifact has appeared that *transports you leagues in an instant.*  What does it
-  look like?  How does it work?
