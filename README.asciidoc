@@ -158,7 +158,7 @@ You set the pace and describe the world.  You do this by finding _conflicts,_ fi
 
 Before you draw, you should have a critical moment in mind: the knife coming down, eyes searching the forgotten library, the bargaining table.  Let the card color the outcome.
 
-Anytime the outcome is uncertain is a possible critical moment.  This could be a cultist attempting something interesting and risky, or two cultists wanting different things in the same place.  Divide participants into at most three groups: the attackers, the defenders, and the bystanders.  The first two groups are in opposition, and you'll be drawing for the attackers.
+Anytime the outcome is uncertain is a possible critical moment.  This could be a cultist attempting something interesting and risky, or two cultists wanting different things in the same place.  Divide participants into at most three groups: the attackers, the defenders, and the bystanders.  The first two groups are in opposition, and you'll be drawing for the attackers.  If you don't have anybody for the defender group, create somebody: perhaps a monstrous force, perhaps still human, perhaps traps or just difficult terrain.
 
 Determine the sphere of conflict:
 
@@ -170,11 +170,11 @@ Mars:: A conflict of courage or constitution.
 Saturn:: A conflict of patience or solitude.
 Jupiter:: A conflict of pure luck.
 
-Weigh everything on the scales and come up with an obvious, interesting outcome.  Then draw:
+Weigh everything on the scales (think character traits, equipment and magical effects, the landscape, and so on) and come up with an obvious, interesting outcome.  Then draw:
 
-- If you draw major arcana, a relic is found.  Contact the player attuned to it and ask what it looks like and how to unlock its power.  Someone involved in this conflict finds it, but doesn't know what it is or how it works.
-- If you draw a court card (page, knight, queen, or king), an important character appears.  Perhaps a new cultist, perhaps just someone important to the setting.  Figure out who they are.
-- If you draw an ace, the plan succeeds wildly, and the attackers gain power; give them new aspects reflecting their growth in the sphere of conflict.
+- If you draw major arcana, a relic is unearthed during the conflict.  Contact the player attuned to it and ask what it looks like and how to unlock its power.
+- If you draw a court card (page, knight, queen, or king), an important character appears.  Perhaps a new cultist, perhaps just someone important to the setting.  They're on the attacking side if oriented heads-up, defending side otherwise.
+- If you draw an ace, the plan succeeds wildly, and the attackers gain power; give them a new aspect reflecting their growth in the sphere of conflict.
 
 No matter what you draw, reflect on the image and what it might mean, updating your outcome with that understanding.  Contact the player with the situation from the cultists perspective, and pick another conflict to resolve.  Responses come only when the cultist is dreaming -- and might take a while.  Life goes on above.
 
