@@ -30,87 +30,91 @@ Choose three prophecies.  When they all come true, nothing is stopping you.  Eac
 
 The wine jug must be emptied::
 You are attuned to *The Fool*, which can be used to *sow confusion until the
-next sunrise*.
+next sunrise*.  Your cultists are naïve.
 
 The proper words must be spoken::
 You are attuned to *The Magician*, which can be used to *transmute elements.*
-Your cultists are quick (+Mercury).
+Your cultists are quick.
 
 The seal must be broken::
 You are attuned to *The High Priestess*, which can give you a *mysterious
-vision of the world*
+vision of the world.*  Your cultists are subtle.
 
 The child must be born::
 You are attuned to *The Empress*, which *births something terrible.*  Your
-cultists are persuasive (+Venus).
+cultists are persuasive.
 
 The leader must be overthrown::
 You are attuned to *The Emperor*, which *exerts control over another for a
-critical moment.*  Your cultists are lucky (+Jupiter).
+critical moment.*  Your cultists are political.
 
 The criminal must be given mercy::
 You are attuned to *The Hierophant*, which allows you to *ask for specific
-advice and recieve it.*
+advice and recieve it.*  Your cultists are organized.
 
 The secret society must be eliminated::
 You are attuned to *The Lovers*, which gives you *a moment alone with someone
-you know.*  Your cultists are persuasive (+Venus).
+you know.*  Your cultists come in pairs.
 
 The war must begin::
 You are attuned to *The Chariot*, which enables you to *travel quickly until
-the next sunset.*
+the next sunset.*  Your cultists are soldiers.
 
 The game must be won::
 You are attuned to *Strength*, which gives you *supernatural power until the
-next sunset.*  Your cultists are courageous and steady (+Mars).
+next sunset.*  Your cultists are courageous.
 
 The child must be abandoned::
 You are attuned to *The Hermit*, which gives you *vision of a distant
-location.*
+location.*  Your cultists are wanderers.
 
 The coin must be tossed::
-You are attuned to *Wheel of Fortune*, which you can *ask for a boon: Fate will respond.*
+You are attuned to *Wheel of Fortune*, which you can *ask for a boon: Fate will
+respond.*  Your cultists are lucky.
 
 Justice must be done::
 You are attuned to *Justice*, which *weighs yourself and another on the scales
-of justice.*
+of justice.*  Your cultists are just.
 
 The trials must be overcome::
 You are attuned to *The Hanged Man*, which helps you to *see clearly until the
-new moon.*
+new moon.*  Your cultists are enlightened.
 
 The hero must die::
 You are attuned to *Death*, which gives you the power to *bring something to an
-end.*  Sometimes, the end is only temporary.
+end.*  Your cultists are nihilists.
 
 The path must be followed::
 You are attuned to *Temperance*, which *takes something you have in excess to
-give you something you lack.*
+give you something you lack.*  Your cultists have self-control.
 
 The sacrifice must be made::
 You are attuned to *The Devil*, with which you can *call for aid from powers
-you do not understand or control.*
+you do not understand or control.*  Your cultists cannot escape you.
 
 The tower must fall::
 You are attuned to *The Tower* which can be used to *utterly destroy
-something.*  Your cultists are courageous and steady (+Mars).
+something.*  Your cultists can see through illusions.
 
 The stars must align::
 You are attuned to *The Star* which can *restore something mortal at a cost.*
+Your cultists are peaceful.
 
 The terror must come::
 You are attuned to *The Moon*, which lets you *walk unseen until the next
-sunrise, or until you draw blood.*  Your cultists are secretive (+Moon).
+sunrise, or until you draw blood.*  Your cultists are secretive.
 
 The empire must rise::
 You are attuned to *The Sun*, which *gives you the loyalty of all who see you,
-until the next sunset.*  Your cultists are powerful (+Sun).
+until the next sunset.*  Your cultists are powerful.
 
 The dead must be judged::
 You are attuned to *Judgement*, which *raises the dead to do your bidding.*
+Your cultists are faithful.
 
 The lost must be found::
 You are attuned to *The World*, which *transports you leagues in an instant.*
+Your cultists are scholars.
 
 [verse, The Lost Book of Gideon]
 She laid the three stones below the altar,
@@ -166,35 +170,13 @@ Mars:: A conflict of courage or constitution.
 Saturn:: A conflict of patience or solitude.
 Jupiter:: A conflict of pure luck.
 
-Weigh both sides on the scales.  Count positive when things are in the attacker's favor and negative if they're in the defender's favor:
+Weigh everything on the scales and come up with an obvious, interesting outcome.  Then draw:
 
-- Does a side have more people actively working for it?  Count one for that side.
-- Does a side have the element of surprise?  Count one for it.
-- Does the location help or hurt a side?  Count one for that, too.
-- Does one side's intentions more closely match an ancient's will?  Count one for it.
+- If you draw major arcana, a relic is found.  Contact the player attuned to it and ask what it looks like and how to unlock its power.  Someone involved in this conflict finds it, but doesn't know what it is or how it works.
+- If you draw a court card (page, knight, queen, or king), an important character appears.  Perhaps a new cultist, perhaps just someone important to the setting.  Figure out who they are.
+- If you draw an ace, the plan succeeds wildly, and the attackers gain power; give them new aspects reflecting their growth in the sphere of conflict.
 
-Then draw:
-
-- If you draw major arcana, a relic is found.  Contact the player attuned to it and ask what it looks like and how to unlock its power.  Draw again for the situation.
-- If you draw a court card (page, knight, queen, or king), an important character appears.  Perhaps a new cultist, perhaps just someone important to the setting.  Figure out who they are.  Draw again for the situation.
-- If you draw an ace, the plan succeeds wildly, and the attackers gain power; give them new aspects reflecting their growth.
-- If you draw any other card, reflect on the image and what it might mean, and then check the table to determine where it falls on the spheres.  The closer to the sphere of conflict it lies, the better for the attackers: exact match is +2, and each step away (wrap from top to bottom; TODO: image) reduces it.  At the exact opposite, it counts as -1.
-
-.Numbered Cards
-|===
-|#  |Wands    |Cups     |Swords   |Coins
-|2  |Mars     |Venus    |Moon     |Jupiter
-|3  |Sun      |Mercury  |Saturn   |Mars
-|4  |Venus    |Moon     |Jupiter  |Sun
-|5  |Saturn   |Mars     |Venus    |Mercury
-|6  |Jupiter  |Sun      |Mercury  |Moon
-|7  |Mars     |Venus    |Moon     |Saturn
-|8  |Mercury  |Saturn   |Jupiter  |Sun
-|9  |Moon     |Jupiter  |Mars     |Venus
-|10 |Saturn   |Mars     |Sun      |Mercury
-|===
-
-Contact the player with the situation from the cultists perspective, and await a response.  Responses come only when the cultist is dreaming -- and might take a while.  Life goes on above.
+No matter what you draw, reflect on the image and what it might mean, updating your outcome with that understanding.  Contact the player with the situation from the cultists perspective, and pick another conflict to resolve.  Responses come only when the cultist is dreaming -- and might take a while.  Life goes on above.
 
 When you message a player:
 
