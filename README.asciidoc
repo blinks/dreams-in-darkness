@@ -159,6 +159,8 @@ As they sleep, you may send your cultists any visions you like. Explicit orders 
 [quote, H.P. Lovecraft, The Colour out of Space.]
 It all began, old Ammi said, with the meteorite.
 
+image::flame.jpg[]
+
 == The Conduit
 You set the pace and describe the world.  You do this by finding _conflicts,_ figuring out the possible results, drawing to inject some chaos, and reporting back to the players.
 
