@@ -4,19 +4,32 @@
     <title>Voronoi Map Generator</title>
   </head>
   <body>
-    <svg width='600' height='600'></svg>
+    <svg width='800' height='600'></svg>
 
   <script src='https://d3js.org/d3.v4.min.js'></script>
   <script>
+// Generate a random set of points to seed the diagram.
 var svg = d3.select('svg'),
   width = +svg.attr('width'),
   height = +svg.attr('height'),
-  sites = d3.range(22).map(function(d) {
+  sites = d3.range(21).map(function(d) {
     return [Math.random() * width, Math.random() * height];
   }),
   voronoi = d3.voronoi().extent([[0, 0], [width, height]]),
-  diagram = voronoi(sites), polygons = diagram.polygons(); 
- 
+  polygons = voronoi(sites).polygons();
+
+// Relax each cell to its Voronoi centroid.
+var RELAX_TIMES = 1;
+for (var unused = 0; unused < RELAX_TIMES; unused++) {
+  polygons.forEach(function(poly, i) {
+    var sum = poly.reduce(function(prev, cur) {
+      return [prev[0] + cur[0], prev[1] + cur[1]];
+    }, [0, 0]);
+    sites[i] = [sum[0] / poly.length, sum[1] / poly.length];
+  });
+  polygons = voronoi(sites).polygons();  // regenerate after relaxation.
+}
+
 // Draw the polygons
 polygons.map(function(i) {
   svg.append('path')
