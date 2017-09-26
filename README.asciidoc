@@ -122,6 +122,8 @@ words of power chanted through her.
 The moment arrived, his eyes opened,
 and she brought down the dagger.
 
+image::dusk.jpg[]
+
 == Landscape
 A good map is crucial.  You need to be able to refer to a place or a direction and have everyone understand what you mean.  It doesn't need to be detailed, just provide enough structure that players can say: "the vision goes North over the Broken Teeth" and know what that means.
 
@@ -140,6 +142,8 @@ Oh, and one more thing: North probably needs to be up, or everyone will get conf
 
 [quote, Ammurapi]
 My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us.
+
+image::woods.jpg[]
 
 == Visions
 The bloody membrane between worlds is thin between the ancients; you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.
