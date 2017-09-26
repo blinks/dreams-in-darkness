@@ -10,6 +10,8 @@ Why are you hiding from me?
 We’re in a different kind of thing now
 All night you’re talking to God
 
+image::dark.jpg[]
+
 == Introduction
 _Dreams_ is a play-by-mail game for a facilitator (the *Conduit*) and three to six other players (the *Ancients*).  It's a secrets-filled role-playing game about what happens when plans come into conflict.
 
