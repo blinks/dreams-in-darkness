@@ -20,7 +20,10 @@ To play, you need a good way to communicate and a shuffled Tarot deck for seedin
 === The Social Contract
 To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel.  Make sure you revisit the social contract.
 
-=== The Map
+[quote, A.E. Waite, The Pictorial Key to the Tarot (1910)]
+The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
+
+== The Map
 Grab link:voronoi.html[a copy of a voronoi diagram] with 22 sites, and shuffle up the major arcana.  Choose a site and draw a card.  Repeat for each site -- you should run out of cards.  Give everyone a copy of the map -- having shared place names is essential for coordination.  (North is up, too, or you'll just get confused.)
 
 The Fool:: The White Cliffs
@@ -46,8 +49,10 @@ The Sun:: Tournesol Hills
 Judgement:: The Lost Crypts
 The World:: The City of Gold
 
-[quote, A.E. Waite, The Pictorial Key to the Tarot (1910)]
-The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
+[quote, Ammurapi.]
+My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us.
+
+image::woods.jpg[]
 
 == Ancients
 Players are immortal elder beings whose power is restrained somehow.  Their only connection to the world is through people who seek them out.  The only way they can communicate to the world is through visions.
@@ -149,27 +154,6 @@ The moment arrived, his eyes opened,
 and she brought down the dagger.
 
 image::dusk.jpg[]
-
-== Landscape
-A good map is crucial.  You need to be able to refer to a place or a direction and have everyone understand what you mean.  It doesn't need to be detailed, just provide enough structure that players can say: "the vision goes North over the Broken Teeth" and know what that means.
-
-Your map needs:
-
-- five cities -- three of them ruins, the last two in conflict.
-- two mountain ranges and a volcano.
-- three rivers and a lake.
-- a desert and a forest.
-- whatever your ancients need to destroy.
-- something different, that you must decide yourselves.
-
-Use the https://blinks.github.io/dreams-in-darkness/voronoi.html[voronoi] map generator if you need a starting point, but really just marking out a score of variously-sized areas and labeling them with their borders is enough.  As you come up with names put them on the map too, and let everyone know them.  The map is shared so make sure everyone has an up-to-date copy.
-
-Oh, and one more thing: North probably needs to be up, or everyone will get confused.
-
-[quote, Ammurapi.]
-My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us.
-
-image::woods.jpg[]
 
 == Visions
 The bloody membrane between worlds is thin between the ancients; you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.
