@@ -26,28 +26,71 @@ The pathology of the poet says that "the undevout astronomer is mad"; the pathol
 == The Map
 Grab link:voronoi.html[a copy of a voronoi diagram] with 22 sites, and shuffle up the major arcana.  Choose a site and draw a card.  Repeat for each site -- you should run out of cards.  Give everyone a copy of the map -- having shared place names is essential for coordination.  (North is up, too, or you'll just get confused.)
 
-The Fool:: The White Cliffs
-The Magician:: The Valley of Flowers
-The High Priestess:: The Temple of Solomon
-The Empress:: The Wheat Fields
-The Emperor:: The Lonely Mountain
-The Hierophant:: Great Hall Telesterion
-The Lovers:: The Black River
-The Chariot:: The Broken Wall
-Strength:: The Stone Forest
-The Hermit:: The Wasteland
-Wheel of Fortune:: Loch Frithir
-Justice:: The Lögberg
-The Hanged Man:: The Ceiba Tree
-Death:: The Two Towers
-Temperance:: The Fens
-The Devil:: The Broken Table
-The Tower:: The Ruins of Ugarit
-The Star:: Llyn Llydaw
-The Moon:: The Ring of Brodgar
-The Sun:: Tournesol Hills
-Judgement:: The Lost Crypts
-The World:: The City of Gold
+The Fool::
+  *The White Cliffs*: chalk cliffs, overlooking a body of water.
+
+The Magician::
+  *The Valley of Flowers*: a quiet valley of wildflowers.
+
+The High Priestess::
+  *The Temple of Solomon*: an ancient temple, mostly abandoned by now.
+
+The Empress::
+  *The Wheat Fields*: no longer actively farmed, still useful to some.
+
+The Emperor::
+  *The Lonely Mountain*: a dormant volcano, dominating the landscape.
+
+The Hierophant::
+  *Great Hall Telesterion*: an enormous structure for holding mysterious ceremonies.
+
+The Lovers::
+  *The Black River*: wide and slow-moving, dark and quiet.
+
+The Chariot::
+  *The Broken Wall*: once a symbol of a powerful empire, now only pieces remain.
+
+Strength::
+  *The Stone Forest*: petrified before living memory.
+
+The Hermit::
+  *The Wasteland*: a dangerous place to be for anyone.
+
+Wheel of Fortune::
+  *Loch Frithir*: a deep lake in the forest.
+
+Justice::
+  *The Lögberg*: the stone of law, standing on a low hill.
+
+The Hanged Man::
+  *The Ceiba Tree*: ropes still hang from its branches.
+
+Death::
+  *The Two Towers*: some say the two mages still fight to this day.
+
+Temperance::
+  *The Fens*: many get lost in this misty swamp searching for the old library.
+
+The Devil::
+  *The Broken Table*: sacrifices were made, once.
+
+The Tower::
+  *The Ruins of Ugarit*: the first to burn when the war came.
+
+The Star::
+  *Llyn Llydaw*: this lake holds many secrets, some even tossed in willingly.
+
+The Moon::
+  *The Ring of Brodgar*: these standing stones are still used to track the stars.
+
+The Sun::
+  *Tournesol Hills*: sunflowers grow atop these hills.
+
+Judgement::
+  *The Lost Crypts*: the entrance must be there somewhere.
+
+The World::
+  *The City of Gold*: the center of culture, even now.
 
 [quote, Ammurapi.]
 My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us.
