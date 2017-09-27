@@ -12,7 +12,7 @@
 var svg = d3.select('svg'),
   width = +svg.attr('width'),
   height = +svg.attr('height'),
-  sites = d3.range(21).map(function(d) {
+  sites = d3.range(22).map(function(d) {
     return [Math.random() * width, Math.random() * height];
   }),
   voronoi = d3.voronoi().extent([[0, 0], [width, height]]),
