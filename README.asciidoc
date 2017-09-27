@@ -20,105 +20,129 @@ To play, you need a good way to communicate and a shuffled Tarot deck for seedin
 === The Social Contract
 To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel.  Make sure you revisit the social contract.
 
+=== The Map
+Grab a copy of a voronoi diagram with 22 sites, and shuffle up the major arcana.  Choose a site and draw a card.  Give everyone a copy of the map -- having shared place names is essential for coordination.  (North is up, too, or you'll just get confused.)
+
+The Fool:: The White Cliffs
+The Magician:: The Valley of Flowers
+The High Priestess:: The Temple of Solomon
+The Empress:: The Wheat Fields
+The Emperor:: The Lonely Mountain
+The Hierophant:: Great Hall Telesterion
+The Lovers:: The Black River
+The Chariot:: The Broken Wall
+Strength:: The Stone Forest
+The Hermit:: The Wasteland
+Wheel of Fortune:: Loch Frithir
+Justice:: The Lögberg
+The Hanged Man:: The Ceiba Tree
+Death:: The Two Towers
+Temperance:: The Fens
+The Devil:: The Broken Table
+The Tower:: The Ruins of Ugarit
+The Star:: Llyn Llydaw
+The Moon:: The Ring of Brodgar
+The Sun:: Tournesol Hills
+Judgement:: The Lost Crypts
+The World:: The City of Gold
+
 [quote, A.E. Waite, The Pictorial Key to the Tarot (1910)]
 The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
 
 == Ancients
 Players are immortal elder beings whose power is restrained somehow.  Their only connection to the world is through people who seek them out.  The only way they can communicate to the world is through visions.
 
-To create an ancient, decide what would happen if they had their way with the world.  What does it look like when an all-powerful elder thing arrives and isn't stopped?
-
 The Conduit will give you three secret prophecies, drawn randomly from the major arcana.  When they all come true, nothing is stopping you.  Each is attuned to a powerful artifact, lost for ages.  If they emerge in play, you can decide what they look like and how their power might be accessed, but not who ends up holding them.
 
-The wine jug must be emptied::
+0. The wine jug must be emptied::
 You are attuned to *The Fool*, which can be used to *sow confusion until the
 next sunrise*.  Your cultists are naïve.
 
-The proper words must be spoken::
+I. The proper words must be spoken::
 You are attuned to *The Magician*, which can be used to *transmute elements.*
 Your cultists are quick.
 
-The seal must be broken::
+II. The seal must be broken::
 You are attuned to *The High Priestess*, which can give you a *mysterious
 vision of the world.*  Your cultists are subtle.
 
-The child must be born::
+III. The child must be born::
 You are attuned to *The Empress*, which *births something terrible.*  Your
 cultists are persuasive.
 
-The leader must be overthrown::
+IV. The leader must be overthrown::
 You are attuned to *The Emperor*, which *exerts control over another for a
 critical moment.*  Your cultists are political.
 
-The criminal must be given mercy::
+V. The criminal must be given mercy::
 You are attuned to *The Hierophant*, which allows you to *ask for specific
 advice and recieve it.*  Your cultists are organized.
 
-The secret society must be eliminated::
+VI. The secret society must be eliminated::
 You are attuned to *The Lovers*, which gives you *a moment alone with someone
 you know.*  Your cultists come in pairs.
 
-The war must begin::
+VII. The war must begin::
 You are attuned to *The Chariot*, which enables you to *travel quickly until
 the next sunset.*  Your cultists are soldiers.
 
-The game must be won::
+VIII. The game must be won::
 You are attuned to *Strength*, which gives you *supernatural power until the
 next sunset.*  Your cultists are courageous.
 
-The child must be abandoned::
+IX. The child must be abandoned::
 You are attuned to *The Hermit*, which gives you *vision of a distant
 location.*  Your cultists are wanderers.
 
-The coin must be tossed::
+X. The coin must be tossed::
 You are attuned to *Wheel of Fortune*, which you can *ask for a boon: Fate will
 respond.*  Your cultists are lucky.
 
-Justice must be done::
+XI. Justice must be done::
 You are attuned to *Justice*, which *weighs yourself and another on the scales
 of justice.*  Your cultists are just.
 
-The trials must be overcome::
+XII. The trials must be overcome::
 You are attuned to *The Hanged Man*, which helps you to *see clearly until the
 new moon.*  Your cultists are enlightened.
 
-The hero must die::
+XIII. The hero must die::
 You are attuned to *Death*, which gives you the power to *bring something to an
 end.*  Your cultists are nihilists.
 
-The path must be followed::
+XIV. The path must be followed::
 You are attuned to *Temperance*, which *takes something you have in excess to
 give you something you lack.*  Your cultists have self-control.
 
-The sacrifice must be made::
+XV. The sacrifice must be made::
 You are attuned to *The Devil*, with which you can *call for aid from powers
 you do not understand or control.*  Your cultists cannot escape you.
 
-The tower must fall::
+XVI. The tower must fall::
 You are attuned to *The Tower* which can be used to *utterly destroy
 something.*  Your cultists can see through illusions.
 
-The stars must align::
+XVII. The stars must align::
 You are attuned to *The Star* which can *restore something mortal at a cost.*
 Your cultists are peaceful.
 
-The terror must come::
+XVIII. The terror must come::
 You are attuned to *The Moon*, which lets you *walk unseen until the next
 sunrise, or until you draw blood.*  Your cultists are secretive.
 
-The empire must rise::
+XIX. The empire must rise::
 You are attuned to *The Sun*, which *gives you the loyalty of all who see you,
 until the next sunset.*  Your cultists are powerful.
 
-The dead must be judged::
+XX. The dead must be judged::
 You are attuned to *Judgement*, which *raises the dead to do your bidding.*
 Your cultists are faithful.
 
-The lost must be found::
+XXI. The lost must be found::
 You are attuned to *The World*, which *transports you leagues in an instant.*
 Your cultists are scholars.
 
-[verse, The Lost Book of Gideon]
+[verse, The Lost Book of Gideon.]
 She laid the three stones below the altar,
 words of power chanted through her.
 The moment arrived, his eyes opened,
@@ -142,7 +166,7 @@ Use the https://blinks.github.io/dreams-in-darkness/voronoi.html[voronoi] map ge
 
 Oh, and one more thing: North probably needs to be up, or everyone will get confused.
 
-[quote, Ammurapi]
+[quote, Ammurapi.]
 My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us.
 
 image::woods.jpg[]
