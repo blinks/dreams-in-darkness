@@ -24,7 +24,9 @@ To keep everything going it's helpful to set expectations: how often will you be
 The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
 
 == The Map
-Grab link:voronoi.html[a copy of a voronoi diagram] with 22 sites, and shuffle up the major arcana.  Choose a site and draw a card.  Repeat for each site -- you should run out of cards.  Give everyone a copy of the map -- having shared place names is essential for coordination.  (North is up, too, or you'll just get confused.)
+Grab link:voronoi.html[a copy of a voronoi diagram] with 22 sites, and shuffle up the major arcana.  For each site on the map: draw a card, look up its point of interest, and write it down in the site.  Perhaps draw a little picture.
+
+Give everyone a copy of the map -- having shared place names is essential for coordination.  (North is up, too, or you'll just get confused.)
 
 The Fool::
   *The White Cliffs*: chalk cliffs, overlooking a body of water.
