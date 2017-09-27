@@ -21,7 +21,7 @@ To play, you need a good way to communicate and a shuffled Tarot deck for seedin
 To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel.  Make sure you revisit the social contract.
 
 === The Map
-Grab link:voronoi.html[a copy of a voronoi diagram] with 22 sites, and shuffle up the major arcana.  Choose a site and draw a card.  Give everyone a copy of the map -- having shared place names is essential for coordination.  (North is up, too, or you'll just get confused.)
+Grab link:voronoi.html[a copy of a voronoi diagram] with 22 sites, and shuffle up the major arcana.  Choose a site and draw a card.  Repeat for each site -- you should run out of cards.  Give everyone a copy of the map -- having shared place names is essential for coordination.  (North is up, too, or you'll just get confused.)
 
 The Fool:: The White Cliffs
 The Magician:: The Valley of Flowers
