@@ -54,91 +54,91 @@ Players are immortal elder beings whose power is restrained somehow.  Their only
 
 The Conduit will give you three secret prophecies, drawn randomly from the major arcana.  When they all come true, nothing is stopping you.  Each is attuned to a powerful artifact, lost for ages.  If they emerge in play, you can decide what they look like and how their power might be accessed, but not who ends up holding them.
 
-0. The wine jug must be emptied::
+The wine jug must be emptied::
 You are attuned to *The Fool*, which can be used to *sow confusion until the
 next sunrise*.  Your cultists are naïve.
 
-I. The proper words must be spoken::
+The proper words must be spoken::
 You are attuned to *The Magician*, which can be used to *transmute elements.*
 Your cultists are quick.
 
-II. The seal must be broken::
+The seal must be broken::
 You are attuned to *The High Priestess*, which can give you a *mysterious
 vision of the world.*  Your cultists are subtle.
 
-III. The child must be born::
+The child must be born::
 You are attuned to *The Empress*, which *births something terrible.*  Your
 cultists are persuasive.
 
-IV. The leader must be overthrown::
+The leader must be overthrown::
 You are attuned to *The Emperor*, which *exerts control over another for a
 critical moment.*  Your cultists are political.
 
-V. The criminal must be given mercy::
+The criminal must be given mercy::
 You are attuned to *The Hierophant*, which allows you to *ask for specific
 advice and recieve it.*  Your cultists are organized.
 
-VI. The secret society must be eliminated::
+The secret society must be eliminated::
 You are attuned to *The Lovers*, which gives you *a moment alone with someone
 you know.*  Your cultists come in pairs.
 
-VII. The war must begin::
+The war must begin::
 You are attuned to *The Chariot*, which enables you to *travel quickly until
 the next sunset.*  Your cultists are soldiers.
 
-VIII. The game must be won::
+The game must be won::
 You are attuned to *Strength*, which gives you *supernatural power until the
 next sunset.*  Your cultists are courageous.
 
-IX. The child must be abandoned::
+The child must be abandoned::
 You are attuned to *The Hermit*, which gives you *vision of a distant
 location.*  Your cultists are wanderers.
 
-X. The coin must be tossed::
+The coin must be tossed::
 You are attuned to *Wheel of Fortune*, which you can *ask for a boon: Fate will
 respond.*  Your cultists are lucky.
 
-XI. Justice must be done::
+Justice must be done::
 You are attuned to *Justice*, which *weighs yourself and another on the scales
 of justice.*  Your cultists are just.
 
-XII. The trials must be overcome::
+The trials must be overcome::
 You are attuned to *The Hanged Man*, which helps you to *see clearly until the
 new moon.*  Your cultists are enlightened.
 
-XIII. The hero must die::
+The hero must die::
 You are attuned to *Death*, which gives you the power to *bring something to an
 end.*  Your cultists are nihilists.
 
-XIV. The path must be followed::
+The path must be followed::
 You are attuned to *Temperance*, which *takes something you have in excess to
 give you something you lack.*  Your cultists have self-control.
 
-XV. The sacrifice must be made::
+The sacrifice must be made::
 You are attuned to *The Devil*, with which you can *call for aid from powers
 you do not understand or control.*  Your cultists cannot escape you.
 
-XVI. The tower must fall::
+The tower must fall::
 You are attuned to *The Tower* which can be used to *utterly destroy
 something.*  Your cultists can see through illusions.
 
-XVII. The stars must align::
+The stars must align::
 You are attuned to *The Star* which can *restore something mortal at a cost.*
 Your cultists are peaceful.
 
-XVIII. The terror must come::
+The terror must come::
 You are attuned to *The Moon*, which lets you *walk unseen until the next
 sunrise, or until you draw blood.*  Your cultists are secretive.
 
-XIX. The empire must rise::
+The empire must rise::
 You are attuned to *The Sun*, which *gives you the loyalty of all who see you,
 until the next sunset.*  Your cultists are powerful.
 
-XX. The dead must be judged::
+The dead must be judged::
 You are attuned to *Judgement*, which *raises the dead to do your bidding.*
 Your cultists are faithful.
 
-XXI. The lost must be found::
+The lost must be found::
 You are attuned to *The World*, which *transports you leagues in an instant.*
 Your cultists are scholars.
 
