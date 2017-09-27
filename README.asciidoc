@@ -102,7 +102,11 @@ image::woods.jpg[]
 == Ancients
 Players are immortal elder beings whose power is restrained somehow.  Their only connection to the world is through people who seek them out.  The only way they can communicate to the world is through visions.
 
-The Conduit will give you three secret prophecies, drawn randomly from the major arcana.  When they all come true, nothing is stopping you.  Each is attuned to a powerful artifact, lost for ages.  If they emerge in play, you can decide what they look like and how their power might be accessed, but not who ends up holding them.
+At the start of the game, the Conduit will shuffle up the major arcana, and secretly deal out three cards to each player: each gives a secret prophecy, attuned artifact, and cultist trait.
+
+NOTE: It might be better to write down a list of the players, deal two to each, and then deal one more between each pair (including the first and last).  This means four cards per player, two shared.
+
+Each prophecy is attuned to a powerful artifact, lost for ages.  If they emerge in play, the Conduit will ask you what they look like and how their power might be accessed, but you won't know who ends up holding them.
 
 The wine jug must be emptied::
 You are attuned to *The Fool*, which can be used to *sow confusion until the
@@ -234,7 +238,7 @@ Jupiter:: A conflict of pure luck.
 Weigh everything on the scales (think character traits, equipment and magical effects, the landscape, and so on) and come up with an obvious, interesting outcome.  Then draw:
 
 - If you draw major arcana, a relic is unearthed during the conflict.  Contact the player attuned to it and ask what it looks like and how to unlock its power.
-- If you draw a court card (page, knight, queen, or king), an important character appears.  Perhaps a new cultist, perhaps just someone important to the setting.  They're on the attacking side if oriented heads-up, defending side otherwise.
+- If you draw a court card (page, knight, queen, or king), an important character appears.  Perhaps a new cultist, perhaps just someone important to the setting.  Decide which side they're on, and what they mean to the situation.
 - If you draw an ace, the plan succeeds wildly, and the attackers gain power; give them a new aspect reflecting their growth in the sphere of conflict.
 
 No matter what you draw, reflect on the image and what it might mean, updating your outcome with that understanding.  Record both the card and the outcome you chose in a campaign log.  Contact the player with the situation from the cultists perspective, and pick another conflict to resolve.  Responses come only when the cultist is dreaming -- and might take a while.  Life goes on above.
