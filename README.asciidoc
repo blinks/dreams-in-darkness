@@ -239,12 +239,12 @@ Anytime the outcome is uncertain is a possible critical moment.  This could be s
 
 Divide participants into at most three groups: the attackers, the defenders, and the bystanders.  The first two groups are in opposition, and you'll be drawing for the attackers.  If you don't have anybody for the defender group, create somebody: perhaps a monstrous force, perhaps still human, perhaps traps or just difficult terrain.
 
-Decide on what kind of conflict this is before you draw, and add up stats on either side that match:
+Decide on what kind of conflict this is before you draw, and add up stats on either side that match (and also subtract stats that don't match -- they count against the group in that conflict):
 
 The Sun:: A conflict of raw power or strength (Swords and Pentacles).
 
 Mercury:: A conflict of speed or skill (Wands and Swords).
-  
+
 Venus:: A conflict of persuasion (Wands and Cups).
 
 The Moon:: A conflict of wisdom, secrets, or magic (Cups and Swords).
