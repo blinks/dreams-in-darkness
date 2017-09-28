@@ -114,93 +114,99 @@ The only way for you to interact with the world is through the mortals attuned t
 === The Prophecies
 Each prophecy is attuned to a powerful artifact, lost for ages.  If they emerge in play, the Conduit will ask you what they look like and how their power might be accessed, but you won't know who ends up holding them.
 
-The wine jug must be emptied::
-You are attuned to *The Fool*, which can be used to *sow confusion until the
-next sunrise*.  Mortals attuned to you are naïve (+2 to the first draw).
+.The major arcana, prophecies, and traits.
+[cols="3", options="header"]
+|===
+|Major Arcana |Prophecy |Trait
 
-The proper words must be spoken::
-You are attuned to *The Magician*, which can be used to *transmute elements.*
-Mortals attuned to you are quick (all suits start at minimum 1).
+|0 The Fool
+|The wine jug must be emptied
+|Naïve (double stats in all conflicts)
 
-The seal must be broken::
-You are attuned to *The High Priestess*, which can give you a *mysterious
-vision of the world.*  Mortals attuned to you are subtle (+1 Swords).
+|I The Magician
+|The proper words must be spoken
+|Quick (double trait bonuses)
 
-The child must be born::
-You are attuned to *The Empress*, which *births something terrible.*  Mortals
-attuned to you are persuasive (+1 Wands).
+|II The High Priestess
+|The seal must be broken
+|Subtle (+1 swords)
 
-The leader must be overthrown::
-You are attuned to *The Emperor*, which *exerts control over another for a
-critical moment.*  Mortals attuned to you are political (+1 Cups).
+|III The Empress
+|The child must be born
+|Persuasive (+1 wands)
 
-The criminal must be given mercy::
-You are attuned to *The Hierophant*, which allows you to *ask for specific
-advice and recieve it.*  Mortals attuned to you are organized (+1 Pentacles).
+|IV The Emperor
+|The leader must be overthrown
+|Political (+1 cups)
 
-The secret society must be eliminated::
-You are attuned to *The Lovers*, which gives you *a moment alone with someone
-you know.*  Mortals attuned to you come in pairs (+1 Cups).
+|V The Hierophant
+|The criminal must be shown mercy
+|Organized (+1 pentacles)
 
-The war must begin::
-You are attuned to *The Chariot*, which enables you to *travel quickly until
-the next sunset.*  Mortals attuned to you are soldiers (+1 Pentacles).
+|VI The Lovers
+|The secret society must be eliminated
+|Paired (+1 cups)
 
-The game must be won::
-You are attuned to *Strength*, which gives you *supernatural power until the
-next sunset.*  Mortals attuned to you are courageous (+1 Wands).
+|VII The Chariot
+|The war must begin
+|Soldier (+1 pentacles)
 
-The child must be abandoned::
-You are attuned to *The Hermit*, which gives you *vision of a distant
-location.*  Mortals attuned to you are wanderers (+1 Swords).
+|VIII Strength
+|The game must be won
+|Courageous (+1 wands)
 
-The coin must be tossed::
-You are attuned to *Wheel of Fortune*, which you can *ask for a boon: Fate will
-respond.*  Mortals attuned to you are lucky (+1 Wands).
+|IX The Hermit
+|The child must be abandoned
+|Wanderer (+1 swords)
 
-Justice must be done::
-You are attuned to *Justice*, which *weighs yourself and another on the scales
-of justice.*  Mortals attuned to you are just (+1 Pentacles).
+|X Wheel of Fortune
+|The coin must be tossed
+|Lucky (+1 wands)
 
-The trials must be overcome::
-You are attuned to *The Hanged Man*, which helps you to *see clearly until the
-new moon.*  Mortals attuned to you are enlightened (+1 Cups).
+|XI Justice
+|Justice must be done
+|Just (+1 pentacles)
 
-The hero must die::
-You are attuned to *Death*, which gives you the power to *bring something to an
-end.*  Mortals attuned to you are nihilists (+1 Swords).
+|XII The Hanged Man
+|The trials must be overcome
+|Enlightened (+1 cups)
 
-The path must be followed::
-You are attuned to *Temperance*, which *takes something you have in excess to
-give you something you lack.*  Mortals attuned to you have self-control (+1 Pentacles).
+|XIII Death
+|The hero must die
+|Nihilist (+1 swords)
 
-The sacrifice must be made::
-You are attuned to *The Devil*, with which you can *call for aid from powers
-you do not understand or control.*  Mortals attuned to you cannot escape you (+1 Wands).
+|XIV Temperance
+|The path must be followed
+|Controlled (+1 pentacles)
 
-The tower must fall::
-You are attuned to *The Tower* which can be used to *utterly destroy
-something.*  Mortals attuned to you can see through illusions (+1 Swords).
+|XV The Devil
+|The sacrifice must be made
+|Bloodthirsty (+1 wands)
 
-The stars must align::
-You are attuned to *The Star* which can *restore something mortal at a cost.*
-Mortals attuned to you are peaceful (+1 Cups).
+|XVI The Tower
+|The tower must fall
+|Immune to illusion (+1 swords)
 
-The terror must come::
-You are attuned to *The Moon*, which lets you *walk unseen until the next
-sunrise, or until you draw blood.*  Mortals attuned to you are secretive (+1 Pentacles).
+|XVII The Star
+|The stars must align
+|Peaceful (+1 cups)
 
-The empire must rise::
-You are attuned to *The Sun*, which *gives you the loyalty of all who see you,
-until the next sunset.*  Mortals attuned to you are powerful (+1 Wands).
+|XVIII The Moon
+|The terror must emerge
+|Secretive (+1 pentacles)
 
-The dead must be judged::
-You are attuned to *Judgement*, which *raises the dead to do your bidding.*
-Mortals attuned to you are faithful (+1 Cups).
+|XIX The Sun
+|The empire must rise
+|Powerful (+1 wands)
 
-The lost must be found::
-You are attuned to *The World*, which *transports you leagues in an instant.*
-Mortals attuned to you are scholars (+1 Swords).
+|XX Judgement
+|The dead must be judged
+|Faithful (+1 cups)
+
+|XXI The World
+|The lost must be found
+|Scholar (+1 swords)
+|===
 
 [verse, The Lost Book of Gideon.]
 She laid the three stones below the altar,
@@ -239,7 +245,7 @@ Anytime the outcome is uncertain is a possible critical moment.  This could be s
 
 Divide participants into at most three groups: the attackers, the defenders, and the bystanders.  The first two groups are in opposition, and you'll be drawing for the attackers.  If you don't have anybody for the defender group, create somebody: perhaps a monstrous force, perhaps still human, perhaps traps or just difficult terrain.
 
-Decide on what kind of conflict this is before you draw, and add up stats on either side that match (and also subtract stats that don't match -- they count against the group in that conflict):
+Decide on what kind of conflict this is and add up stats on either side that match (and also subtract stats that don't match -- they count against the group in that conflict):
 
 The Sun:: A conflict of raw power or strength (Cups and Pentacles).
 Mercury:: A conflict of speed or skill (Wands and Swords).
@@ -249,7 +255,11 @@ Mars:: A conflict of courage or constitution (Wands and Pentacles).
 Saturn:: A conflict of patience or solitude (Swords and Pentacles).
 Jupiter:: A conflict of pure luck.  After you draw the card, flip a coin to determine the victor -- or use the card's orientation.  Then use the given questions.
 
-No matter what you draw, reflect on the image and what it might mean, and refer to the card list below to determine bonuses to each side (positive is the attacker, negative is the defender) to determine the victor.  Record both the card and the outcome you chose in a campaign log.
+Draw a card and determine its value in the conflict, often +1 or -1. Add that to the attacker's points to determine a winner (attacker wins ties), and then add it to both sides' stats for that suit.
+
+NOTE: You can have negative stats. In a conflict that doesn't match that stat, it'll be a help. In a matching conflict, it'll be a hindrance.
+
+No matter what you draw, reflect on the image and what it might mean before describing the outcome.  Record both the card and the outcome you chose in a campaign log.
 
 Contact the player with the situation from the dreamer's perspective, and pick another conflict to resolve.  Responses come only when they're dreaming -- and might take a while.  Life goes on above.
 
@@ -264,30 +274,73 @@ When you message a player:
 - Sometimes, ask one player to help detail what happens to another.
 
 === Major Arcana
-When you draw major arcana, a relic is also unearthed during the conflict.  Contact the ancient attuned to it and ask what it looks like and how to unlock its power.
+When you draw major arcana, a relic is also unearthed during the conflict.  Contact the ancient attuned to it and ask what it looks like and how to unlock its power.  The winning side gains the relic.
 
 ==== 0 The Fool
+Relic: Sows confusion until the next sunrise.
+
 ==== I The Magician
+Relic: Transmutes elemental objects and forces.
+
 ==== II The High Priestess
+Relic: Gives you a mysterious vision of the world.
+
 ==== III The Empress
+Relic: Births something terrible.
+
 ==== IV The Emperor
+Relic: Controls another mortal for a critical moment.
+
 ==== V The Hierophant
+Relic: Gives you specific advice on a subject you choose.
+
 ==== VI The Lovers
+Relic: Gives you a moment alone with someone you know.
+
 ==== VII The Chariot
+Relic: Enables you to travel quickly until the next sunset.
+
 ==== VIII Strength
+Relic: Gives you supernatural power until the next sunset.
+
 ==== IX The Hermit
+Relic: Gives you vision of a distant location.
+
 ==== X Wheel of Fortune
+Relic: Calls fate to give you a boon.
+
 ==== XI Justice
+Relic: Weighs yourself and another on the scales.
+
 ==== XII The Hanged Man
+Relic: Clears your sight until the new moon.
+
 ==== XIII Death
+Relic: Ends something.
+
 ==== XIV Temperance
+Relic: Takes something you have in excess to give something you lack.
+
 ==== XV The Devil
+Relic: Calls for aid from powers you do not understand nor control.
+
 ==== XVI The Tower
+Relic: Destroys something utterly.
+
 ==== XVII The Star
+Relic: Restores something mortal at a cost.
+
 ==== XVIII The Moon
+Relic: Veils you from mortal vision until the next sunrise, or until you draw blood.
+
 ==== XIX The Sun
+Relic: Gives you the loyalty of all who see you.
+
 ==== XX Judgement
+Relic: Raises the dead to do your bidding.
+
 ==== XXI The World
+Relic: Transports you leagues in an instant.
 
 === Wands
 When you draw wands, consider how the adventurous but potentially irresponsible nature of these mortals can be good or bad for them.
