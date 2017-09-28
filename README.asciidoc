@@ -247,13 +247,13 @@ Divide participants into at most three groups: the attackers, the defenders, and
 
 Decide on what kind of conflict this is and add up stats on either side that match (and also subtract stats that don't match -- they count against the group in that conflict):
 
-The Sun:: A conflict of raw power or strength (Cups and Pentacles).
-Mercury:: A conflict of speed or skill (Wands and Swords).
-Venus:: A conflict of persuasion (Cups and Swords).
-The Moon:: A conflict of wisdom, secrets, or magic (Wands and Cups).
-Mars:: A conflict of courage or constitution (Wands and Pentacles).
-Saturn:: A conflict of patience or solitude (Swords and Pentacles).
-Jupiter:: A conflict of pure luck.  After you draw the card, flip a coin to determine the victor -- or use the card's orientation.  Then use the given questions.
+The Sun:: A conflict of raw power or strength (Cups and Pentacles). For instance, breaking down a wall or brawling.
+Mercury:: A conflict of speed or skill (Wands and Swords). For instance, sprinting for the exit or dueling.
+Venus:: A conflict of persuasion (Cups and Swords). For instance, convincing a guard to leave their post or recruiting new cultists.
+The Moon:: A conflict of wisdom, secrets, or magic (Wands and Cups). For instance, casting a minor spell or seeking out forbidden lore.
+Mars:: A conflict of courage or constitution (Wands and Pentacles). For instance, resisting poison or standing up to an invading army.
+Saturn:: A conflict of patience or solitude (Swords and Pentacles). For instance, waiting for the critical moment to act or reaching a destination alone.
+Jupiter:: A conflict of pure luck. (After you draw the card, flip a coin to determine the victor -- or use the card's orientation. No stats will change.) This should not be common.
 
 Draw a card and determine its value in the conflict, often +1 or -1. Add that to the attacker's points to determine a winner (attacker wins ties), and then add it to both sides' stats for that suit.
 
