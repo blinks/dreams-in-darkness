@@ -115,7 +115,7 @@ The only way for you to interact with the world is through the mortals attuned t
 Each prophecy is attuned to a powerful artifact, lost for ages.  If they emerge in play, the Conduit will ask you what they look like and how their power might be accessed, but you won't know who ends up holding them.
 
 .The major arcana, prophecies, and traits.
-[cols="3", options="header"]
+[cols="1,2,2", options="header"]
 |===
 |Major Arcana |Prophecy |Trait
 
@@ -248,7 +248,7 @@ Divide participants into at most three groups: the attackers, the defenders, and
 Decide on what kind of conflict this is and add up stats on either side that match (and also subtract stats that don't match -- they count against the group in that conflict):
 
 .Spheres of conflict.
-[cols="4"]
+[cols="1,2,1,2"]
 |===
 |The Sun
 |A conflict of raw power or strength
@@ -282,8 +282,7 @@ Decide on what kind of conflict this is and add up stats on either side that mat
 
 |Jupiter
 |A conflict of pure luck.
-|After you draw the card, flip a coin to determine the victor -- or use the card's orientation. No stats will change.
-|...
+2+|After you draw the card, flip a coin to determine the victor -- or use the card's orientation. No stats will change.
 |===
 
 Draw a card and determine its value in the conflict, often +1 or -1. Add that to the attacker's points to determine a winner (attacker wins ties), and then add it to both sides' stats for that suit.
