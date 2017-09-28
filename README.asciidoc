@@ -241,12 +241,12 @@ Divide participants into at most three groups: the attackers, the defenders, and
 
 Decide on what kind of conflict this is before you draw, and add up stats on either side that match (and also subtract stats that don't match -- they count against the group in that conflict):
 
-The Sun:: A conflict of raw power or strength (Swords and Pentacles).
+The Sun:: A conflict of raw power or strength (Cups and Pentacles).
 Mercury:: A conflict of speed or skill (Wands and Swords).
 Venus:: A conflict of persuasion (Cups and Swords).
 The Moon:: A conflict of wisdom, secrets, or magic (Wands and Cups).
 Mars:: A conflict of courage or constitution (Wands and Pentacles).
-Saturn:: A conflict of patience or solitude (Cups and Pentacles).
+Saturn:: A conflict of patience or solitude (Swords and Pentacles).
 Jupiter:: A conflict of pure luck.  After you draw the card, flip a coin to determine the victor -- or use the card's orientation.  Then use the given questions.
 
 No matter what you draw, reflect on the image and what it might mean, and refer to the card list below to determine bonuses to each side (positive is the attacker, negative is the defender) to determine the victor.  Record both the card and the outcome you chose in a campaign log.
