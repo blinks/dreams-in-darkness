@@ -3,6 +3,10 @@ Adam Blinkinsop <github.com/blinks>
 v0.4: Chaosmos + Eldritch Horror.
 :toc: left
 :homepage: https://blinks.github.io/dreams-in-darkness/
+:wands: &clubs;
+:cups: &hearts;
+:swords: &spades;
+:pentacles: &diams;
 
 [verse, The National, The System Only Dreams in Total Darkness]
 The system only dreams in total darkness
@@ -15,45 +19,50 @@ image::dark.jpg[]
 == Introduction
 _Dreams_ is a play-by-mail game for a facilitator (the *Conduit*) and three to seven other players (the *Ancients*).  It's a secrets-filled role-playing game about the end of a world.
 
+The game ends when the deck runs out.  If enough relics have been gathered at the right place, the people who control them win the game.  Otherwise, you'll have to wait for the next time the stars align.
+
 To play, you need a good way to communicate and a shuffled Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.  You'll also need pencils and paper, and a way to share the map after you've drawn it.
 
 === The Social Contract
-To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel.  Make sure you revisit the social contract.
+To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel, if the world doesn't end.  Make sure you revisit the social contract.
 
 === Followers
 Players can only interact with the world through their followers.  These are mortals who managed to attune themselves to the players through ancient rituals, and can communicate with them.  Both the Conduit _and_ each ancient should keep track of followers -- the Conduit for everyone, the ancient for their own.  Shared spreadsheets can be nice for this.
 
-Followers start at level 0 (The Fool) and each advancement up the Fool's Journey gains them abilities based on their player's playbook.  Followers also have four stats matching the four tarot suits: wands (W), cups (C), swords (S) and pentacles (P).  These correspond to similar characteristics (both positive and negative) as the suits in normal tarot.
+When a mortal is first attuned, they start at level 0 with four core _stats_, matching the four tarot suits: wands ({wands}), cups ({cups}), swords ({swords}) and pentacles ({pentacles}).  In pairs, they determine how that follower likes to act:
 
-Whenever a follower draws a card to resolve a conflict, they could grow in power.
+- Loud (unbridled, powerful) {wands}&times;{cups}
+  / Quiet (patient, solitary) {swords}&times;{pentacles}
+- Light (skilled, sharp, quick) {wands}&times;{swords}
+  / Dark (wise, secretive, magical) {cups}&times;{pentacles}
+- Hot (persuasive, diplomatic) {cups}&times;{swords}
+  / Cold (stoic, solid) {wands}&times;{pentacles}
+  
+TIP: The stats correspond to similar characteristics (both positive and negative) as the suits in normal tarot, so if you're used to those your knowledge should hopefully transfer.  The approaches give a bit more flexibility when resolving visions.
 
-- If they succeeded and the card helped, improve the matching stat(s) by one point.
-- If they failed and the card hurt, advance them on the Fool's journey.
+When a stat changes, its approaches also change. Either don't forget or set up some kind of automation to help keep track.
+
+When the follower's level advances, they gain new abilities.  TODO(playbooks)
 
 === Moves
-Scattered throughout this document are various things the Conduit might want to resolve without resorting to fiat.  In general, these look at the characteristics of the mortal attempting it (the four tarot suits) and draw a card to temporarily alter those characteristics.
+Scattered throughout this document are various things the Conduit might want to resolve without resorting to fiat.  These are phrased as "moves", with a trigger ("when a follower _acts_..."), an approach ("...draw _Hot_...") and several outcomes ("on a hit, ... on a miss, ...").
 
-Read "draw + WC - SP" as:
-
-. Draw a card and apply its bonus (normally, doubling the matching suit).
-. Take the acting mortal's wands x cups, and subtract their swords x pentacles.
-. Zero or better is a hit, negative is a miss.
+. Determine the follower's bias: is the move's approach or its opposite stronger, and by how much?  The difference is the _bias_ -- positive if the approach is stronger, negative if the opposite is.
+. Draw a card and apply its value to the bias: if the card matches the approach, push the bias positive. Otherwise, negative.  Major Arcana _never_ match the approach.
+. If the final bias is negative, it's a miss.  Advance the follower's level.  Otherwise (including zero), it's a hit.  Advance the stat(s) that match the card.  When comparing results, the larger positive bias wins.
 . Use the move results and the card itself to feed back into the fiction.
 
-==== Breaking Stuff
-When a follower attempts to break a physical obstacle, draw + CP - WS.  On a hit, it's no longer an obstacle.  On a miss, something else breaks.
+*When a follower attempts to break a physical obstacle, draw Loud.*  On a hit, it's no longer an obstacle.  On a miss, something else breaks.
 
-When two followers duel, each of them draw + WS - CP and compare.  The loser dies.  On a tie, both lose.
+*When two followers duel, each of them draw Light and compare.*  The loser dies.  On a tie, both lose.
 
-==== Finding Stuff
-When a follower recruits in a populated area, draw + CS - WP.  On a hit, name the new follower.  On a miss, the recruitment draws unwanted attention from the guilds.
+*When a follower recruits in a populated area, draw Hot.*  On a hit, name the new follower.  On a miss, the recruitment draws unwanted attention from the guilds.
 
-When a follower searches for something hidden, draw + WC - SP.  On a hit, they find it, and they can find it again.  On a miss, they find something else.
+*When a follower searches for something hidden, draw Dark.*  On a hit, they find it, and they can find it again.  On a miss, they find something else.
 
-==== Going Places
-When followers travel across the map in a group, move them one area towards their destination and the leader draws + WP - CS.  On a hit, move the group another area if not already there.  On a miss, something delays their travel.
+*When followers travel across the map in a group, move them one area towards their destination and the leader draws Cold.*  On a hit, move the group another area if not already there.  On a miss, something delays their travel.
 
-When a follower travels across the map alone, move them one area towards their destination and draw + WP - CS.  On a hit, move them the rest of the way there.  On a miss, something delays their travel.
+*When a follower travels across the map alone, move them one area towards their destination and draw Quiet.*  On a hit, move them the rest of the way there.  On a miss, something delays their travel.
 
 [quote, A.E. Waite, The Pictorial Key to the Tarot (1910)]
 The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
@@ -63,79 +72,74 @@ Grab link:voronoi.html[a copy of a voronoi diagram] with 22 sites, and shuffle u
 
 Each site starts with one specific point of interest.  If you've got the time, decorate your map to show them.
 
-=== 0 The Fool
-Beautiful high cliffs.
+[cols="1,4"]
+|===
+| 0 The Fool
+|Beautiful high cliffs.
 
-=== I The Magician
-A quiet valley of wildflowers.
+| I The Magician
+|A quiet valley of wildflowers.
 
-=== II The High Priestess
-An ancient temple, mostly abandoned by now.
+| II The High Priestess
+|An ancient temple, mostly abandoned by now.  *When the deck runs out, if eleven artifacts are gathered here under the eye of one ancient,* they return to the world along with everyone in their pact.
 
-When the deck runs out, if eleven artifacts are gathered here under the eye of one ancient, they return to the world along with everyone in their pact.
+| III The Empress
+|Rolling fields of wheat.
 
-=== III The Empress
-Rolling fields of wheat.
+| IV The Emperor
+|A dormant volcano, dominating the landscape.  *When a sacrifice is given,* it erupts; search the deck for a relic to be found in this area.
 
-=== IV The Emperor
-A dormant volcano, dominating the landscape.
+| V The Hierophant
+|An enormous structure for holding mysterious ceremonies.  *When two followers gather together here to form a pact* for their ancients, that pact is almost impossible to break.
 
-When a follower sacrifices themselves to the volcano, draw + WP - CS.  On a hit, they throw themselves in and the volcano erupts; in the ashes a relic will emerge.  On a miss, they can't summon the courage, and skip their next contact time.  The volcano might still erupt.
+| VI The Lovers
+|The black river: wide and slow-moving, dark and quiet.
 
-=== V The Hierophant
-An enormous structure for holding mysterious ceremonies.
+| VII The Chariot
+|A broken wall; once a symbol of a powerful empire, now only pieces remain.
 
-When several followers gather together here to form a pact for their ancients, that pact is almost impossible to break.
+| VIII Strength
+|A forest, petrified before living memory.
 
-=== VI The Lovers
-The black river: wide and slow-moving, dark and quiet.
+| IX The Hermit
+|The wasteland, a dangerous place to be for anyone.
 
-=== VII The Chariot
-A broken wall; once a symbol of a powerful empire, now only pieces remain.
+| X Wheel of Fortune
+|A deep lake in the forest.
 
-=== VIII Strength
-A forest, petrified before living memory.
+| XI Justice
+|The speaking stone of law, standing on a low hill.
 
-=== IX The Hermit
-The wasteland, a dangerous place to be for anyone.
+| XII The Hanged Man
+|A lonely tree, ropes still hanging from its branches.
 
-=== X Wheel of Fortune
-A deep lake in the forest.
+| XIII Death
+|Two stone towers. Some say the two mages still fight to this day.
 
-=== XI Justice
-The speaking stone of law, standing on a low hill.
+| XIV Temperance
+|Many get lost in this misty swamp searching for the old library.
 
-=== XII The Hanged Man
-A lonely tree, ropes still hanging from its branches.
+| XV The Devil
+|The broken table where sacrifices were made, once.
 
-=== XIII Death
-Two stone towers. Some say the two mages still fight to this day.
+| XVI The Tower
+|Ugarit was the first to burn when the war came.
 
-=== XIV Temperance
-Many get lost in this misty swamp searching for the old library.
+| XVII The Star
+|The lake Llyn Llydaw holds many secrets, some even tossed in willingly.
 
-=== XV The Devil
-The broken table where sacrifices were made, once.
+| XVIII The Moon
+|The standing stones at the Ring of Brodgar are still used to track the stars.  *When a follower stands here at night, draw Quiet.*  On a hit, the Conduit will tell you how many cards are left in the deck.  On a miss, you'll find out what else watches the stars.
 
-=== XVI The Tower
-Ugarit was the first to burn when the war came.
+| XIX The Sun
+|Sunflowers grow atop these hills.
 
-=== XVII The Star
-The lake Llyn Llydaw holds many secrets, some even tossed in willingly.
+| XX Judgement
+|The entrance to these crypts has been lost for centuries.
 
-=== XVIII The Moon
-The standing stones at the Ring of Brodgar are still used to track the stars.
-
-When a follower stands here at night, draw + SP - WC.  On a hit, the Conduit will tell you how many cards are left in the deck.  On a miss, you'll find out what else watches the stars.
-
-=== XIX The Sun
-Sunflowers grow atop these hills.
-
-=== XX Judgement
-The entrance to these crypts has been lost for centuries.
-
-=== XXI The World
-The City of Gold is the center of this world's culture -- what little remains of it -- and the most populated area.
+| XXI The World
+|The City of Gold is the center of this world's culture -- what little remains of it -- and the most populated area.
+|===
 
 [quote, Ammurapi.]
 My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us.
@@ -151,6 +155,7 @@ The bloody membrane between worlds is thin between the ancients; you may contact
 The only way for you to interact with the world is through the mortals attuned to you, so be careful with them.
 
 === Playbooks
+TODO
 
 [verse, The Lost Book of Gideon.]
 She laid the three stones below the altar,
@@ -273,8 +278,8 @@ When you draw major arcana, a relic is also unearthed during the conflict.  Cont
 |Transports you leagues in an instant.
 |===
 
-=== Wands
-When you draw wands, consider how the adventurous but potentially irresponsible nature of these mortals can be good or bad for them.  Double the acting follower's wands stat.
+=== Wands ({wands})
+When you draw wands, consider how the adventurous but potentially irresponsible nature of these mortals can be good or bad for them.
 
 |===
 |Card |...
@@ -294,8 +299,8 @@ When you draw wands, consider how the adventurous but potentially irresponsible 
 |King of Wands |
 |===
 
-=== Cups
-When you draw cups, consider how the diplomatic but potentially passive nature of these mortals can be good or bad for them.  Double the acting follower's cups stat.
+=== Cups ({cups})
+When you draw cups, consider how the diplomatic but potentially passive nature of these mortals can be good or bad for them.
 
 |===
 |Card |...
@@ -315,8 +320,8 @@ When you draw cups, consider how the diplomatic but potentially passive nature o
 |King of Cups |
 |===
 
-=== Swords
-When you draw swords, consider how the rational but potentially unfeeling nature of these mortals can be good or bad for them.  Double the acting follower's swords stat.
+=== Swords ({swords})
+When you draw swords, consider how the rational but potentially unfeeling nature of these mortals can be good or bad for them.
 
 |===
 |Card |...
@@ -336,8 +341,8 @@ When you draw swords, consider how the rational but potentially unfeeling nature
 |King of Swords |
 |===
 
-=== Pentacles
-When you draw pentacles, consider how the dependable but potentially stubborn nature of these mortals can be good or bad for them.  Double the acting follower's pentacles stat.
+=== Pentacles ({pentacles})
+When you draw pentacles, consider how the dependable but potentially stubborn nature of these mortals can be good or bad for them.
 
 |===
 |Ace of Pentacles |
