@@ -24,7 +24,11 @@ The game ends when the deck runs out.  If enough relics have been gathered at th
 To play, you need a good way to communicate and a shuffled Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.  You'll also need pencils and paper, and a way to share the map after you've drawn it.
 
 === The Social Contract
-To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel, if the world doesn't end.  Make sure you revisit the social contract.
+To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.
+
+You -- the Conduit -- also need to introduce everyone at the start, so people know how to contact each other, and feel comfortable doing so.  You need to either present the schedule or moderate discussion about it.  You also need to set the tone. 
+
+When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel, if the world doesn't end.  Make sure you revisit the social contract.
 
 === Followers
 Players can only interact with the world through their followers.  These are mortals who managed to attune themselves to the players through ancient rituals, and can communicate with them.  Both the Conduit _and_ each ancient should keep track of followers -- the Conduit for everyone, the ancient for their own.  Shared spreadsheets can be nice for this.
