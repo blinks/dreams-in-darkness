@@ -112,13 +112,33 @@ image::woods.jpg[]
 == Ancients
 Players are immortal elder beings whose power is restrained somehow.  Their only connection to the world is through people who seek them out.  The only way they can communicate to the world is through visions.
 
-=== Communication
 The bloody membrane between worlds is thin between the ancients; you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.
 
 The only way for you to interact with the world is through the mortals attuned to you, so be careful with them.
 
-=== Playbooks
-TODO
+=== The Elder Thing
+You seek a portal to this world from across the stars.
+
+*Space Invaders*: Your followers can draw blood in a ritual to bring some of your people over. You have little control over the chaos they'll wreak, though.
+
+=== The Dreamer
+Sleeping deep beneath the surface, you dream of the world above.
+
+*Restless Sleep*: Your followers can never be caught sleeping by an enemy.
+
+=== The Dead God
+Resurrection is a god thing, right?
+*Keeping the Faith*: Your religion still beats in the hearts of mortals, even if they no longer remember your name. Whenever someone enters a place of worship, you will know.
+
+=== The Lantern
+You've been trapped in this thing for centuries.  The time has come for your escape.
+
+*Home, Sweet Home*: Choose a relic.  Once it's found, you will always know who holds it and where they are.
+
+=== The Forgotten Mage
+Trapped in your tomb, all that is free is your mind.
+
+*Arcane Initiates*: Your followers are starting down the path of magic. With your vision guiding them, they can replicate any relic effect, at a serious cost to the follower's mortal being.
 
 [verse, The Lost Book of Gideon.]
 She laid the three stones below the altar,
