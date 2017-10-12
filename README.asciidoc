@@ -121,25 +121,45 @@ You seek a portal to this world from across the stars.
 
 *Space Invaders*: Your followers can draw blood in a ritual to bring some of your people over. You have little control over the chaos they'll wreak, though.
 
+*The first time you message the Conduit:*
+- Name yourself: "My name shall be Cthulhu, the Elder Thing."
+- Tell them when they can expect your messages, normally.
+
 === The Dreamer
 Sleeping deep beneath the surface, you dream of the world above.
 
 *Restless Sleep*: Your followers can never be caught sleeping by an enemy.
+
+*The first time you message the Conduit:*
+- Name yourself: "My name shall be Dorak, who Dreams."
+- Tell them when they can expect your messages, normally.
 
 === The Dead God
 Resurrection is a god thing, right?
 
 *Keeping the Faith*: Your religion still beats in the hearts of mortals, even if they no longer remember your name. Whenever someone enters a place of worship, you will know.
 
+*The first time you message the Conduit:*
+- Name yourself and your domain: "My name shall be Leif, the Dead God of War."
+- Tell them when they can expect your messages, normally.
+
 === The Lantern
 You've been trapped in this thing for centuries.  The time has come for your escape.
 
 *Home, Sweet Home*: Choose a relic.  Once it's found, you will always know who holds it and where they are.
 
+*The first time you message the Conduit:*
+- Name yourself and describe your relic and how to activate its power: "My name shall be Ariana, trapped in Death.  Death looks like an obsidian spider pendant, with needle legs -- draw blood with a leg to call upon its power."
+- Tell them when they can expect your messages, normally.
+
 === The Forgotten Mage
 Trapped in your tomb, all that is free is your mind.
 
 *Arcane Initiates*: Your followers are starting down the path of magic. With your vision guiding them, they can replicate any relic effect, at a serious cost to the follower's mortal being.
+
+*The first time you message the Conduit:*
+- Name yourself and describe why you were forgotten: "My name shall be Nuranath, the Forgotten Mage.  It was erased from this world when I was burned as a heretic."
+- Tell them when they can expect your messages, normally.
 
 [verse, The Lost Book of Gideon.]
 She laid the three stones below the altar,
@@ -178,15 +198,26 @@ When drawing cards, no matter what you draw, reflect on the image and what it mi
 
 If a follower contacts their ancient, contact the player and speak from the follower's perspective, then continue resolving the day.  Responses come only when a follower is dreaming -- and might take a while.  Life goes on above.
 
-When you message a player:
+*Whenever you message a player:*
 
 - Tell them the truth about what happened.
-- Speak from the mouth of the follower.
+- Speak from the mouth of a follower.
 - Push them into the way of another player.
 - Encourage secrets, don't reveal them lightly.
 - Use the names you've created.  Make new ones, as needed.
 - Add subtle horrors to the message.
 - Sometimes, ask one player to help detail what happens to another.
+
+*The first time you message a player:*
+
+- Use the follower's name.
+- The follower found the relic in their location, tell them.
+- Show how the follower reacts to their power.
+- Show what has happened to the follower recently.
+- Ask three questions:
+  . Choose a relic they don't have. What does it look like, and how does it work?
+  . What visions do you send this follower when next they sleep?
+  . Aside from intoning the words on this relic, how do followers contact you?
 
 === Major Arcana
 
