@@ -3,10 +3,6 @@ Adam Blinkinsop <github.com/blinks>
 v0.4: Chaosmos + Eldritch Horror.
 :toc: left
 :homepage: https://blinks.github.io/dreams-in-darkness/
-:wands: &clubs;
-:cups: &hearts;
-:swords: &spades;
-:pentacles: &diams;
 
 [verse, The National, The System Only Dreams in Total Darkness]
 The system only dreams in total darkness
@@ -19,62 +15,27 @@ image::dark.jpg[]
 == Introduction
 _Dreams_ is a play-by-mail game for a facilitator (the *Conduit*) and three to seven other players (the *Ancients*).  It's a secrets-filled role-playing game about the end of a world.
 
-The game ends when the deck runs out.  If enough relics have been gathered at the right place, the people who control them win the game.  Otherwise, you'll have to wait for the next time the stars align.
+The game ends when enough relics have been gathered at the right place. The people who control them win the game as they return to destroy the world.
 
-To play, you need a good way to communicate and a shuffled Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.  You'll also need pencils and paper, and a way to share the map after you've drawn it.
+To play, you need a good way to communicate and a Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.  You'll also need pencils and paper, and a way to share the map after you've drawn it.
 
 === The Social Contract
 To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.
 
-You -- the Conduit -- also need to introduce everyone at the start, so people know how to contact each other, and feel comfortable doing so.  You need to either present the schedule or moderate discussion about it.  You also need to set the tone.
-
-When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel, if the world doesn't end.  Make sure you revisit the social contract.
+You -- the Conduit -- also need to introduce everyone at the start, so people know how to contact each other, and feel comfortable doing so.  You need to either present the schedule or moderate discussion about it.  You also need to set the tone.  I've found that the simplest way to run the game is to set your own schedule for responses based on how often you'll be able to block off time.  On that schedule, respond to everyone that sent you an update, and leave out anyone who hasn't.
 
 === Followers
-Players can only interact with the world through their followers.  These are mortals who managed to attune themselves to the players through ancient rituals, and can communicate with them.  Both the Conduit _and_ each ancient should keep track of followers -- the Conduit for everyone, the ancient for their own.  Shared spreadsheets can be nice for this.
-
-When a mortal is first attuned, they start at level 0 with four core _stats_, matching the four tarot suits: wands ({wands}), cups ({cups}), swords ({swords}) and pentacles ({pentacles}).  In pairs, they determine how that follower likes to act:
-
-- Loud (unbridled, powerful) {wands}&times;{cups}
-  / Quiet (patient, solitary) {swords}&times;{pentacles}
-- Light (skilled, sharp, quick) {wands}&times;{swords}
-  / Dark (wise, secretive, magical) {cups}&times;{pentacles}
-- Hot (persuasive, diplomatic) {cups}&times;{swords}
-  / Cold (stoic, solid) {wands}&times;{pentacles}
-
-TIP: The stats correspond to similar characteristics (both positive and negative) as the suits in normal tarot, so if you're used to those your knowledge should hopefully transfer.  The approaches give a bit more flexibility when resolving visions.
-
-When a stat changes, its approaches also change. Either don't forget or set up some kind of automation to help keep track.
-
-When the follower's level advances, they gain new abilities.  TODO(playbooks)
-
-=== Moves
-Scattered throughout this document are various things the Conduit might want to resolve without resorting to fiat.  These are phrased as "moves", with a trigger ("when a follower _acts_..."), an approach ("...draw _Hot_...") and several outcomes ("on a hit, ... on a miss, ...").
-
-. Determine the follower's bias: is the move's approach or its opposite stronger, and by how much?  The difference is the _bias_ -- positive if the approach is stronger, negative if the opposite is.
-. Draw a card and apply its value to the bias: if the card matches the approach, push the bias positive. Otherwise, negative.  Major Arcana _never_ match the approach.
-. If the final bias is negative, it's a miss.  Advance the follower's level.  Otherwise (including zero), it's a hit.  Advance the stat(s) that match the card.  When comparing results, the larger positive bias wins.
-. Use the move results and the card itself to feed back into the fiction.
-
-*When a follower attempts to break a physical obstacle, draw Loud.*  On a hit, it's no longer an obstacle.  On a miss, something else breaks.
-
-*When two followers duel, each of them draw Light and compare.*  The loser dies.  On a tie, both lose.
-
-*When a follower manipulates another mortal, draw Hot.*  On a hit, they get what they want.  On a miss, they get what they don't want.
-
-*When a follower searches for something hidden, draw Dark.*  On a hit, they find it, and they can find it again.  On a miss, they find something else.
-
-*When followers travel in a group, move them one area towards their destination and the leader draws Cold.*  On a hit, move the group another area if not already there.  On a miss, something delays their travel.
-
-*When a follower travels alone, move them one area towards their destination and draw Quiet.*  On a hit, move them the rest of the way there.  On a miss, something delays their travel.
-
-*Whenever you use a follower's name to ask questions about them,* the Conduit is bound to answer truthfully to the best of their ability.
+Players can only interact with the world through their followers. These are mortals who managed to attune themselves to the players through ancient rituals, and can communicate with them. As with any character in the game, give these people unique names and evocative one-liner descriptions.
 
 [quote, A.E. Waite, The Pictorial Key to the Tarot (1910)]
 The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
 
 == The Map
 Grab link:voronoi.html[a copy of a voronoi diagram] with 22 sites (North is up), and shuffle up the major arcana.  For each site on the map: draw a card and write it's index (0, I, ... XXI) on that site.  Each site has a corresponding description, so draw in other important features -- like streets and bodies of water and canals -- to match.  Everyone should have a copy of the map.
+
+NOTE: Perhaps there should just be one static map, so it can have great art and be easy to share with everyone. A procedurally-generated map doesn't add much to the game besides a bunch of work.
+
+Each location begins with its associated relic.  The players already know where all the relics are at the start of the game.
 
 NOTE: The current plan is to probably have multiple playsets, of which this is the first.
 
@@ -118,50 +79,7 @@ The bloody membrane between worlds is thin between the ancients; you may contact
 
 The only way for you to interact with the world is through the mortals attuned to you, so be careful with them.
 
-=== The Elder Thing
-You seek a portal to this world from across the stars.
-
-*Space Invaders*: Your followers can draw blood in a ritual to bring some of your people over. You have little control over the chaos they'll wreak, though.
-
-*The first time you message the Conduit:*
-- Name yourself: "My name shall be Cthulhu, the Elder Thing."
-- Tell them when they can expect your messages, normally.
-
-=== The Dreamer
-Sleeping deep beneath the surface, you dream of the world above.
-
-*Restless Sleep*: Your followers can never be caught sleeping by an enemy.
-
-*The first time you message the Conduit:*
-- Name yourself: "My name shall be Dorak, who Dreams."
-- Tell them when they can expect your messages, normally.
-
-=== The Dead God
-Resurrection is a god thing, right?
-
-*Keeping the Faith*: Your religion still beats in the hearts of mortals, even if they no longer remember your name. Whenever someone enters a place of worship, you will know.
-
-*The first time you message the Conduit:*
-- Name yourself and your domain: "My name shall be Leif, the Dead God of War."
-- Tell them when they can expect your messages, normally.
-
-=== The Lantern
-You've been trapped in this thing for centuries.  The time has come for your escape.
-
-*Home, Sweet Home*: Choose a relic.  Once it's found, you will always know who holds it and where they are.
-
-*The first time you message the Conduit:*
-- Name yourself and describe your relic and how to activate its power: "My name shall be Ariana, trapped in Death.  Death looks like an obsidian spider pendant, with needle legs -- draw blood with a leg to call upon its power."
-- Tell them when they can expect your messages, normally.
-
-=== The Forgotten Mage
-Trapped in your tomb, all that is free is your mind.
-
-*Arcane Initiates*: Your followers are starting down the path of magic. With your vision guiding them, they can replicate any relic effect, at a serious cost to the follower's mortal being.
-
-*The first time you message the Conduit:*
-- Name yourself and describe why you were forgotten: "My name shall be Nuranath, the Forgotten Mage.  It was erased from this world when I was burned as a heretic."
-- Tell them when they can expect your messages, normally.
+The Conduit will give you a few specific relics to describe before the game begins. Do so, knowing that you won't necessarily be the one to get hold of them.
 
 [verse, The Lost Book of Gideon.]
 She laid the three stones below the altar,
@@ -174,9 +92,9 @@ image::dusk.jpg[]
 == Visions
 Play is a thread of messages.
 
-The Conduit will contact you -- awakening your ancient -- when a mortal figures out the proper ritual.  They have no idea what they've uncovered, but your infinite power is overwhelming to any mortal will.  In their trance, they'll tell you something interesting and useful about the world above.
+The Conduit will contact you with your dreams, in three parts: something that happened recently that you overheard, something that's happening now, and something that could happen in the future.  They'll ask you a question about each of these.  Respond when you have time.
 
-Whenever you like, you can message the Conduit with a reply.  Always state the vision you send, and the intention.  Sometimes you'll have difficulty knowing where to start: the Conduit is bound to tell you the truth (as far as they know it), and might suggest a course of action.
+In addition to answering the Conduit's questions, you can send visions to any character you can name.  Always describe the vision you send, and your intention.  Sometimes you'll have difficulty knowing where to start: the Conduit is bound to tell you the truth (as far as they know it), and might suggest a course of action.
 
 Your visions will arrive when next the mortals sleep.
 
@@ -192,34 +110,28 @@ It all began, old Ammi said, with the meteorite.
 image::flame.jpg[]
 
 == The Conduit
-You set the pace and describe the world.  You'll need to know what each follower is currently attempting to do, and what else is going on in the world.  Each day in the world you should push the followers towards their goal and possibly draw for them, if a move is triggered.
+You set the pace and describe the world.  You'll need to know where each character and each relic are, and what else is going on in the world.  Use the map -- keep a pawn or a die for each character on it, and move them around as the visions take them.
 
-Use the map -- keep a pawn or a die for each character on it, and move them around as the visions take them.  This is much easier than attempting to match current locations in a spreadsheet.
+On a regular schedule, record what's currently happening as a new chapter in the game log. Each player's descriptions should be in their own section of the chapter, so you can keep the authors straight. Compose a response for each player who sent you a message:
 
-When drawing cards, no matter what you draw, reflect on the image and what it might mean before describing the outcome.  Record what happened (including the card) in a campaign log so you can share it when the game ends.
+. Answer truthfully any questions they've had.  System questions should be answered in public, without pointing towards the one with the question.
+. Ponder the current overall situation (especially the most recent messages from all players) while you shuffle the deck.
+. Draw three cards: past, present, and future.
+  . For the first card, describe something that happened recently, outside their control. They get visions of the entire world, snippets of other events happening far away. Ask a question about what happened.
+  . For the second card, describe the result of their most recent orders. Let the card guide whether the orders succeed or not, but err on the side of success without outside interference. Ask a question about what happened.
+  . For the third card, describe an opportunity, with or without a cost. Ask a question about that opportunity or its cost.
+. Add these questions to the game log, for posterity and so you can keep the thread when responses don't contain enough information to remember the question.
 
-If a follower contacts their ancient, contact the player and speak from the follower's perspective, then continue resolving the day.  Responses come only when a follower is dreaming -- and might take a while.  Life goes on above.
+.Example message.
+====
 
-*Whenever you message a player:*
+(The Magician) You see another man in Rapanu's Library, one heavily-laden with books, climb a bookcase to take one final tome.  He hears footsteps, and runs off into the night. What has escaped its coffin to haunt the library?
 
-- Tell them the truth about what happened.
-- Speak from the mouth of a follower.
-- Push them into the way of another player.
-- Encourage secrets, don't reveal them lightly.
-- Use the names you've created.  Make new ones, as needed.
-- Add subtle horrors to the message.
-- Sometimes, ask one player to help detail what happens to another.
+(6 of Wands) You see Saladin, bearing a stone game piece (the Tower) and a large wooden bowl (Temperance), entering the library at dawn, proud and upright.  He begins searching for the book, but he will not find it. What is the title of the book Saladin thinks will appease you?
 
-*The first time you message a player:*
+(The Wheel) During Saladin's search, he notices a body out a window to the south, across the river in the marketplace.  The crows are avoiding it, though it's certainly dead.  There's something in its outstretched hand... Why is the marketplace normally empty?
 
-- Use the follower's name.
-- The follower found the relic in their location, tell them.
-- Show how the follower reacts to their power.
-- Show what has happened to the follower recently.
-- Ask three questions:
-  . Choose a relic they don't have. What does it look like, and how does it work?
-  . What visions do you send this follower when next they sleep?
-  . Aside from intoning the words on this relic, how do followers contact you?
+====
 
 === Major Arcana
 
@@ -294,85 +206,28 @@ If a follower contacts their ancient, contact the player and speak from the foll
 |Transports you leagues in an instant.
 |===
 
-=== Wands ({wands})
-When you draw wands, consider how the adventurous but potentially irresponsible nature of these mortals can be good or bad for them.
+
 
 |===
-|Card |...
-|Ace of Wands |
-|2 of Wands |
-|3 of Wands |
-|4 of Wands |
-|5 of Wands |
-|6 of Wands |
-|7 of Wands |
-|8 of Wands |
-|9 of Wands |
-|10 of Wands |
-|Page of Wands |
-|Knight of Wands |
-|Queen of Wands |
-|King of Wands |
+|Wands |Passion / Desire / Will.
+|Cups |Emotions / Feelings / Relationships.
+|Swords |Logic / Ideas / Intellect.
+|Pentacles |Earthly / Material / Sensual.
 |===
 
-=== Cups ({cups})
-When you draw cups, consider how the diplomatic but potentially passive nature of these mortals can be good or bad for them.
-
 |===
-|Card |...
-|Ace of Cups |
-|2 of Cups |
-|3 of Cups |
-|4 of Cups |
-|5 of Cups |
-|6 of Cups |
-|7 of Cups |
-|8 of Cups |
-|9 of Cups |
-|10 of Cups |
-|Page of Cups |
-|Knight of Cups |
-|Queen of Cups |
-|King of Cups |
-|===
-
-=== Swords ({swords})
-When you draw swords, consider how the rational but potentially unfeeling nature of these mortals can be good or bad for them.
-
-|===
-|Card |...
-|Ace of Swords |
-|2 of Swords |
-|3 of Swords |
-|4 of Swords |
-|5 of Swords |
-|6 of Swords |
-|7 of Swords |
-|8 of Swords |
-|9 of Swords |
-|10 of Swords |
-|Page of Swords |
-|Knight of Swords |
-|Queen of Swords |
-|King of Swords |
-|===
-
-=== Pentacles ({pentacles})
-When you draw pentacles, consider how the dependable but potentially stubborn nature of these mortals can be good or bad for them.
-
-|===
-|Ace of Pentacles |
-|2 of Pentacles |
-|3 of Pentacles |
-|4 of Pentacles |
-|5 of Pentacles |
-|6 of Pentacles |
-|7 of Pentacles |
-|8 of Pentacles |
-|9 of Pentacles |
-|10 of Pentacles |
-|Page of Pentacles |
-|Knight of Pentacles |
-|Queen of Pentacles |
-|King of Pentacles |
+|Aces |Beginnings / Potential / New Initiatives.
+|Twos |Decisions / Balance / Partnership.
+|Threes |Growth / Creativity / Expression.
+|Fours |Stability / Application / Formation.
+|Fives |Conflict / Change / Expansion.
+|Sixes |Cooperation / Harmony / Compassion.
+|Sevens |Spirituality / Wisdom / Exploration.
+|Eights |Action / Change / Regeneration.
+|Nines |Fulfillment / Idealism / Inspiration.
+|Tens |Completion / Finality / Renewal.
+|Pages |The Child / The New Spark / The holder of energy for his suit.
+|Knights |The Messenger / The Deliverer of News / He brings his suit outward towards the world.
+|Queens |The Keeper / The Influencer / She masters the energy in her suit, and subtly brings them to others.
+|Kings |The Master / The Executor / He controls and reigns supreme over his suit, bringing its power to action.
 |===
