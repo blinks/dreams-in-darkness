@@ -1,6 +1,6 @@
 = Dreams in Darkness
 Adam Blinkinsop <github.com/blinks>
-v0.3: Prophecy.
+v0.5: Basics, Blades in the Dark, Napoleonic 20.
 :toc: left
 :homepage: https://blinks.github.io/dreams-in-darkness/
 
@@ -10,448 +10,71 @@ Why are you hiding from me?
 We’re in a different kind of thing now
 All night you’re talking to God
 
-image::dark.jpg[]
-
-== Introduction
-_Dreams_ is a play-by-mail game for a facilitator (the *Conduit*) and three to six other players (the *Ancients*).  It's a secrets-filled role-playing game about the end of a world.
-
-To play, you need a good way to communicate and a shuffled Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.  You'll also need pencils and paper, and a way to share the map after you've drawn it.
-
-=== The Social Contract
-To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.  When the deck runs out, this tale ends but you may continue with another -- or even a direct sequel.  Make sure you revisit the social contract.
-
-[quote, A.E. Waite, The Pictorial Key to the Tarot (1910)]
-The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
-
-== The Map
-Grab link:voronoi.html[a copy of a voronoi diagram] with 22 sites, and shuffle up the major arcana.  For each site on the map: draw a card, look up its point of interest, and write it down in the site.  Perhaps draw a little picture.
-
-Give everyone a copy of the map -- having shared place names is essential for coordination.  (North is up, too, or you'll just get confused.)
-
-The Fool::
-  *The White Cliffs*: chalk cliffs, overlooking a body of water.
-
-The Magician::
-  *The Valley of Flowers*: a quiet valley of wildflowers.
-
-The High Priestess::
-  *The Temple of Solomon*: an ancient temple, mostly abandoned by now.
-
-The Empress::
-  *The Wheat Fields*: no longer actively farmed, still useful to some.
-
-The Emperor::
-  *The Lonely Mountain*: a dormant volcano, dominating the landscape.
-
-The Hierophant::
-  *Great Hall Telesterion*: an enormous structure for holding mysterious ceremonies.
-
-The Lovers::
-  *The Black River*: wide and slow-moving, dark and quiet.
-
-The Chariot::
-  *The Broken Wall*: once a symbol of a powerful empire, now only pieces remain.
-
-Strength::
-  *The Stone Forest*: petrified before living memory.
-
-The Hermit::
-  *The Wasteland*: a dangerous place to be for anyone.
-
-Wheel of Fortune::
-  *Loch Frithir*: a deep lake in the forest.
-
-Justice::
-  *The Lögberg*: the stone of law, standing on a low hill.
-
-The Hanged Man::
-  *The Ceiba Tree*: ropes still hang from its branches.
-
-Death::
-  *The Two Towers*: some say the two mages still fight to this day.
-
-Temperance::
-  *The Fens*: many get lost in this misty swamp searching for the old library.
-
-The Devil::
-  *The Broken Table*: sacrifices were made, once.
-
-The Tower::
-  *The Ruins of Ugarit*: the first to burn when the war came.
-
-The Star::
-  *Llyn Llydaw*: this lake holds many secrets, some even tossed in willingly.
-
-The Moon::
-  *The Ring of Brodgar*: these standing stones are still used to track the stars.
-
-The Sun::
-  *Tournesol Hills*: sunflowers grow atop these hills.
-
-Judgement::
-  *The Lost Crypts*: the entrance must be there somewhere.
-
-The World::
-  *The City of Gold*: the center of culture, even now.
-
-[quote, Ammurapi.]
-My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us.
-
-image::woods.jpg[]
-
-== Ancients
-Players are immortal elder beings whose power is restrained somehow.  Their only connection to the world is through people who seek them out.  The only way they can communicate to the world is through visions.
-
-At the start of the game, the Conduit will shuffle up the major arcana, and secretly deal out three cards to each player: each gives a secret prophecy, attuned artifact, and character trait.  Mortals have four stats (one for each suit), each starting at 0.  Traits will increase these starting stats.  The GM should name and determine stats for mortals as they first contact the ancients.
-
-NOTE: It might be better to write down a list of the players, deal two to each, and then deal one more between each pair (including the first and last).  This means four cards per player, two shared.
-
-=== Communication
-The bloody membrane between worlds is thin between the ancients; you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.
-
-The only way for you to interact with the world is through the mortals attuned to you, so be careful with them.
-
-=== The Prophecies
-Each prophecy is attuned to a powerful artifact, lost for ages.  If they emerge in play, the Conduit will ask you what they look like and how their power might be accessed, but you won't know who ends up holding them.
-
-.The major arcana, prophecies, and traits.
-[cols="1,2,2", options="header"]
-|===
-|Major Arcana |Prophecy |Trait
-
-|0 The Fool
-|The wine jug must be emptied
-|Naïve (double stats in all conflicts)
-
-|I The Magician
-|The proper words must be spoken
-|Quick (double trait bonuses)
-
-|II The High Priestess
-|The seal must be broken
-|Subtle (+1 swords)
-
-|III The Empress
-|The child must be born
-|Persuasive (+1 wands)
-
-|IV The Emperor
-|The leader must be overthrown
-|Political (+1 cups)
-
-|V The Hierophant
-|The criminal must be shown mercy
-|Organized (+1 pentacles)
-
-|VI The Lovers
-|The secret society must be eliminated
-|Paired (+1 cups)
-
-|VII The Chariot
-|The war must begin
-|Soldier (+1 pentacles)
-
-|VIII Strength
-|The game must be won
-|Courageous (+1 wands)
-
-|IX The Hermit
-|The child must be abandoned
-|Wanderer (+1 swords)
-
-|X Wheel of Fortune
-|The coin must be tossed
-|Lucky (+1 wands)
-
-|XI Justice
-|Justice must be done
-|Just (+1 pentacles)
-
-|XII The Hanged Man
-|The trials must be overcome
-|Enlightened (+1 cups)
-
-|XIII Death
-|The hero must die
-|Nihilist (+1 swords)
-
-|XIV Temperance
-|The path must be followed
-|Controlled (+1 pentacles)
-
-|XV The Devil
-|The sacrifice must be made
-|Bloodthirsty (+1 wands)
-
-|XVI The Tower
-|The tower must fall
-|Immune to illusion (+1 swords)
-
-|XVII The Star
-|The stars must align
-|Peaceful (+1 cups)
-
-|XVIII The Moon
-|The terror must emerge
-|Secretive (+1 pentacles)
-
-|XIX The Sun
-|The empire must rise
-|Powerful (+1 wands)
-
-|XX Judgement
-|The dead must be judged
-|Faithful (+1 cups)
-
-|XXI The World
-|The lost must be found
-|Scholar (+1 swords)
-|===
-
-[verse, The Lost Book of Gideon.]
-She laid the three stones below the altar,
-words of power chanted through her.
-The moment arrived, his eyes opened,
-and she brought down the dagger.
-
-image::dusk.jpg[]
-
-== Visions
-Play is a thread of messages.
-
-The Conduit will contact you -- awakening your ancient -- when a mortal figures out the proper ritual.  They have no idea what they've uncovered, but your infinite power is overwhelming to any mortal will.  In their trance, they'll tell you something interesting and useful about the world above.
-
-Whenever you like, you can message the Conduit with a reply.  Always state the vision you send, and the intention.  Sometimes you'll have difficulty knowing where to start: the Conduit is bound to tell you the truth (as far as they know it), and might suggest a course of action.
-
-Your visions will arrive when next the mortals sleep.
-
-Explicit orders they will follow exactly, to the best of their ability. You may be sure of what they will do, but will not take advantage of their instincts in the moment.
-
-Vague orders they will attempt to interpret, but not in the evil genie sort of way. They will always act in your best interest as they see it and will adapt to the situation they are in, but you cannot be sure exactly what they will do.
-
-Don't bother with contingency plans -- dreamers can't remember that much, nor can visions make them understood.
-
-[quote, H.P. Lovecraft, The Colour out of Space.]
-It all began, old Ammi said, with the meteorite.
-
-image::flame.jpg[]
-
-== The Conduit
-You set the pace and describe the world.  You do this by finding _conflicts,_ figuring out the possible results, drawing to inject some chaos, and reporting back to the players.
-
-Before you draw, you should have a critical moment in mind: the knife coming down, eyes searching the forgotten library, the bargaining table.  Use the map -- keep a pawn or a die for each character on it, and move them around as the visions take them.  A meeting tends to be a critical moment: use their traits to determine what that meeting looks like.  When a plan comes to a head is another -- figure out what could go wrong and draw for it.
-
-Anytime the outcome is uncertain is a possible critical moment.  This could be someone attempting something interesting and risky, or two people wanting different things in the same place.
-
-Divide participants into at most three groups: the attackers, the defenders, and the bystanders.  The first two groups are in opposition, and you'll be drawing for the attackers.  If you don't have anybody for the defender group, create somebody: perhaps a monstrous force, perhaps still human, perhaps traps or just difficult terrain.
-
-Decide on what kind of conflict this is and add up stats on either side that match (and also subtract stats that don't match -- they count against the group in that conflict):
-
-.Spheres of conflict.
-[cols="1,2,1,2"]
-|===
-|The Sun
-|A conflict of raw power or strength
-|Cups and Pentacles
-|Breaking down a wall or brawling.
-
-|Mercury
-|A conflict of speed or skill
-|Wands and Swords
-|Sprinting for the exit or dueling.
-
-|Venus
-|A conflict of persuasion
-|Cups and Swords
-|Convincing a guard to leave their post or recruiting new cultists.
-
-|The Moon
-|A conflict of wisdom, secrets, or magic
-|Wands and Cups
-|Casting a minor spell or seeking out forbidden lore.
-
-|Mars
-|A conflict of courage or constitution
-|Wands and Pentacles
-|Resisting poison or standing up to an invading army.
-
-|Saturn
-|A conflict of patience or solitude
-|Swords and Pentacles
-|Waiting for the critical moment to act or reaching a destination alone.
-
-|Jupiter
-|A conflict of pure luck.
-2+|After you draw the card, flip a coin to determine the victor -- or use the card's orientation. No stats will change.
-|===
-
-Draw a card and determine its value in the conflict, often +1 or -1. Add that to the attacker's points to determine a winner (attacker wins ties), and then add it to both sides' stats for that suit.
-
-NOTE: You can have negative stats. In a conflict that doesn't match that stat, it'll be a help. In a matching conflict, it'll be a hindrance.
-
-No matter what you draw, reflect on the image and what it might mean before describing the outcome.  Record both the card and the outcome you chose in a campaign log.
-
-Contact the player with the situation from the dreamer's perspective, and pick another conflict to resolve.  Responses come only when they're dreaming -- and might take a while.  Life goes on above.
-
-When you message a player:
-
-- Tell them the truth about what happened.
-- Speak from the mouth of the dreamer.
-- Push them into the way of another player.
-- Encourage secrets, don't reveal them lightly.
-- Use the names you've created.  Make new ones, as needed.
-- Add subtle horrors to the message.
-- Sometimes, ask one player to help detail what happens to another.
-
-=== Major Arcana
-When you draw major arcana, a relic is also unearthed during the conflict.  Contact the ancient attuned to it and ask what it looks like and how to unlock its power.  The winning side gains the relic.
-
-==== 0 The Fool
-Relic: Sows confusion until the next sunrise.
-
-==== I The Magician
-Relic: Transmutes elemental objects and forces.
-
-==== II The High Priestess
-Relic: Gives you a mysterious vision of the world.
-
-==== III The Empress
-Relic: Births something terrible.
-
-==== IV The Emperor
-Relic: Controls another mortal for a critical moment.
-
-==== V The Hierophant
-Relic: Gives you specific advice on a subject you choose.
-
-==== VI The Lovers
-Relic: Gives you a moment alone with someone you know.
-
-==== VII The Chariot
-Relic: Enables you to travel quickly until the next sunset.
-
-==== VIII Strength
-Relic: Gives you supernatural power until the next sunset.
-
-==== IX The Hermit
-Relic: Gives you vision of a distant location.
-
-==== X Wheel of Fortune
-Relic: Calls fate to give you a boon.
-
-==== XI Justice
-Relic: Weighs yourself and another on the scales.
-
-==== XII The Hanged Man
-Relic: Clears your sight until the new moon.
-
-==== XIII Death
-Relic: Ends something.
-
-==== XIV Temperance
-Relic: Takes something you have in excess to give something you lack.
-
-==== XV The Devil
-Relic: Calls for aid from powers you do not understand nor control.
-
-==== XVI The Tower
-Relic: Destroys something utterly.
-
-==== XVII The Star
-Relic: Restores something mortal at a cost.
-
-==== XVIII The Moon
-Relic: Veils you from mortal vision until the next sunrise, or until you draw blood.
-
-==== XIX The Sun
-Relic: Gives you the loyalty of all who see you.
-
-==== XX Judgement
-Relic: Raises the dead to do your bidding.
-
-==== XXI The World
-Relic: Transports you leagues in an instant.
-
-=== Wands
-When you draw wands, consider how the adventurous but potentially irresponsible nature of these mortals can be good or bad for them.
-
-- +1 to Mercury, Venus, and Mars
-- -1 to the Sun, the Moon, and Saturn.
-
-==== Ace of Wands
-==== 2 of Wands
-==== 3 of Wands
-==== 4 of Wands
-==== 5 of Wands
-==== 6 of Wands
-==== 7 of Wands
-==== 8 of Wands
-==== 9 of Wands
-==== 10 of Wands
-==== Page of Wands
-==== Knight of Wands
-==== Queen of Wands
-==== King of Wands
-
-=== Cups
-When you draw cups, consider how the diplomatic but potentially passive nature of these mortals can be good or bad for them.
-
-- +1 to Venus, the Moon, and Saturn.
-- -1 to the Sun, Mercury, and Mars.
-
-==== Ace of Cups
-==== 2 of Cups
-==== 3 of Cups
-==== 4 of Cups
-==== 5 of Cups
-==== 6 of Cups
-==== 7 of Cups
-==== 8 of Cups
-==== 9 of Cups
-==== 10 of Cups
-==== Page of Cups
-==== Knight of Cups
-==== Queen of Cups
-==== King of Cups
-
-=== Swords
-When you draw swords, consider how the rational but potentially unfeeling nature of these mortals can be good or bad for them.
-
-- +1 to the Sun, Mercury, and the Moon.
-- -1 to the Venus, Mars, and Saturn.
-
-==== Ace of Swords
-==== 2 of Swords
-==== 3 of Swords
-==== 4 of Swords
-==== 5 of Swords
-==== 6 of Swords
-==== 7 of Swords
-==== 8 of Swords
-==== 9 of Swords
-==== 10 of Swords
-==== Page of Swords
-==== Knight of Swords
-==== Queen of Swords
-==== King of Swords
-
-=== Pentacles
-When you draw pentacles, consider how the dependable but potentially stubborn nature of these mortals can be good or bad for them.
-
-- +1 to the Sun, Mars, and Saturn.
-- -1 to Mercury, Venus, and the Moon.
-
-==== Ace of Pentacles
-==== 2 of Pentacles
-==== 3 of Pentacles
-==== 4 of Pentacles
-==== 5 of Pentacles
-==== 6 of Pentacles
-==== 7 of Pentacles
-==== 8 of Pentacles
-==== 9 of Pentacles
-==== 10 of Pentacles
-==== Page of Pentacles
-==== Knight of Pentacles
-==== Queen of Pentacles
-==== King of Pentacles
+== The Basics
+_Dreams in Darkness_ is a play-by-email game about elder beings fighting to
+manifest in the world. We play to find out who (if anyone) wins that war.
+
+=== Kriegsspiel
+This is an old-fashioned "kriegsspiel" kind of game, where one player (the
+umpire) receives orders from both sides and decides what happens. Information
+and communication is much more difficult than in a normal game -- you won't
+always be able to know what's happening, or where your opponents are, or
+predict exactly when you'll end up in battle.
+
+=== Setting
+A ritual is underway to bring one side's elder into this world. The other side
+must stop it before it completes in the next few days. Everyone should have a
+copy of the map and the understanding that it isn't the territory. Each side
+should keep track of their positions with tokens on their own maps, and the
+umpire needs to track the positions of everyone.
+
+TODO: Area map, two days' ride across at the longest.
+TODO: Weather track. Affects the entire map.
+
+== The Cultists
+Players create a cultist as their primary contact with the world below.
+
+(Cultists for now will have a _Blades in the Dark_ character sheet, complete
+with stress and stats.)
+
+=== The Mage
+You channel powerful rituals through this cultist.
+
+TODO: Three rituals.
+
+=== The Knight
+You lead an army in three parts: the infantry, the cavalry, and the artillery.
+
+TODO: Information about how these move.
+
+== The Orders
+Each day is divided into six (uneven) phases: morning, midday, afternoon, dusk,
+evening, and night.
+
+At the beginning of each part, the umpire sends each other player a request for
+orders from their cultist. Orders determine what they'll be doing for that
+period. There are six types of orders, each with an important detail for the
+player to fill in to complete the order.
+
+. March: Travel across the map. _Detail: The route._
+. Assault: Do violence to a target. _Detail: The point of attack._
+. Stealth: Trespass unseen. _Detail: The point of infiltration._
+. Deception: Lure, trick, or manipulate. _Detail: The method of deception._
+. Social: Negotiate, bargain, or persuade. _Detail: The social connection._
+. Occult: Engage a supernatural power. _Detail: The arcane method._
+
+- Anyone that's fighting will be non-responsive for that part of the day.
+- You can order a cultist to rest, which recovers some of their stress.
+  (Ordering anything other than "rest" for the night phase costs stress.)
+- In addition to an order, you can spend stress on a "flashback", describing
+  preparations your cultist could have made prior to this moment.
+
+== The Scenario
+. Create an eight-clock: "the ritual is completed."
+. Determine which side is the defender and which is the attacker.
+. Ask the attacker, privately, which direction they're coming from.
+. Ask the defender, privately, where the ritual is taking place. If their
+  cultist spends an occult order there, they can push the clock forward.
+. Attacker and defender both create cultists.
+
+TODO: Nice area map, two days' ride across at the longest.
