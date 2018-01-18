@@ -1,6 +1,6 @@
 = Dreams in Darkness
 Adam Blinkinsop <github.com/blinks>
-v0.4: Chaosmos + Eldritch Horror.
+v0.5: Consolidation.
 :toc: left
 :homepage: https://blinks.github.io/dreams-in-darkness/
 
@@ -13,73 +13,71 @@ All night you’re talking to God
 image::dark.jpg[]
 
 == Introduction
-_Dreams_ is a play-by-mail game for a facilitator (the *Conduit*) and three to seven other players (the *Ancients*).  It's a secrets-filled role-playing game about the end of a world.
+_Dreams_ is a play-by-mail game for a facilitator (the *Conduit*) and three to
+seven other players (the *Ancients*).  It's a secrets-filled role-playing game
+about the end of a world.
 
-The game ends when enough relics have been gathered at the right place. The people who control them win the game as they return to destroy the world.
+The game ends when enough relics have been gathered at the right place. The
+people who control them win the game as they return to destroy the world.
 
-To play, you need a good way to communicate and a Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.  You'll also need pencils and paper, and a way to share the map after you've drawn it.
+To play, you need a good way to communicate and a Tarot deck for seeding the
+world with chaos.  You don't need to be sitting in the same room, or even in
+the same side of the planet -- as long as you can communicate somehow, you can
+play.  You'll also need pencils and paper, and a way to share the map after
+you've drawn it.
 
 === The Social Contract
-To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.
+To keep everything going it's helpful to set expectations: how often will you
+be contacting players, how long is acceptable for their response, and what will
+you do when someone drops or needs time off?  Answering these questions at the
+start can help reduce hurt feelings and missed expectations later on.
 
-You -- the Conduit -- also need to introduce everyone at the start, so people know how to contact each other, and feel comfortable doing so.  You need to either present the schedule or moderate discussion about it.  You also need to set the tone.  I've found that the simplest way to run the game is to set your own schedule for responses based on how often you'll be able to block off time.  On that schedule, respond to everyone that sent you an update, and leave out anyone who hasn't.
+You -- the Conduit -- also need to introduce everyone at the start, so people
+know how to contact each other, and feel comfortable doing so.  You need to
+either present the schedule or moderate discussion about it.  You also need to
+set the tone.  I've found that the simplest way to run the game is to set your
+own schedule for responses based on how often you'll be able to block off time.
+On that schedule, respond to everyone that sent you an update, and leave out
+anyone who hasn't.
 
 === Followers
-Players can only interact with the world through their followers. These are mortals who managed to attune themselves to the players through ancient rituals, and can communicate with them. As with any character in the game, give these people unique names and evocative one-liner descriptions.
+Players can only interact with the world through their followers. These are
+mortals who managed to attune themselves to the players through ancient
+rituals, and can communicate with them. As with any character in the game, give
+these people unique names and evocative one-liner descriptions.
 
 [quote, A.E. Waite, The Pictorial Key to the Tarot (1910)]
-The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
+The pathology of the poet says that "the undevout astronomer is mad"; the
+pathology of the very plain man says that genius is mad; and between these
+extremes, which stand for ten thousand analogous excesses, the sovereign reason
+takes the part of a moderator and does what it can.
 
 == The Map
-Grab link:voronoi.html[a copy of a voronoi diagram] with 22 sites (North is up), and shuffle up the major arcana.  For each site on the map: draw a card and write it's index (0, I, ... XXI) on that site.  Each site has a corresponding description, so draw in other important features -- like streets and bodies of water and canals -- to match.  Everyone should have a copy of the map.
-
-NOTE: Perhaps there should just be one static map, so it can have great art and be easy to share with everyone. A procedurally-generated map doesn't add much to the game besides a bunch of work.
-
-Each location begins with its associated relic.  The players already know where all the relics are at the start of the game.
-
-NOTE: The current plan is to probably have multiple playsets, of which this is the first.
-
-=== The Ruins of Ugarit
+In the middle of a sheet of paper, draw a circle and six circles around it.
+These seven areas are the ruins of Ugarit.  Shuffle the deck and draw for each
+location.
 
 [quote, Ammurapi.]
 My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us.
 
-[cols="1,4"]
-|===
-|0 The Fool |Cliffs overlooking the sea.
-|I The Magician |Rapanu's library.
-|II The High Priestess |The temple of Dagon.
-|III The Empress |The royal gardens.
-|IV The Emperor |The royal palace.
-|V The Hierophant |The temple of Baal Hadad.
-|VI The Lovers |A block of once-fine houses.
-|VII The Chariot |A tower on a broken wall.
-|VIII Strength |A section of the wall, still intact.
-|IX The Hermit |A lonely stele.
-|X Wheel of Fortune |A market square.
-|XI Justice |The courthouse.
-|XII The Hanged Man |A great tree emerging from a ruined house.
-|XIII Death |A river running through a ruined house.
-|XIV Temperance |A storage pit.
-|XV The Devil |A black abyss.
-|XVI The Tower |The feet of Ozymandias.
-|XVII The Star |The amphitheatre of Kinnāru.
-|XVIII The Moon |A deep pool.
-|XIX The Sun |The high citadel.
-|XX Judgement |The necropolis.
-|XXI The World |The ports.
-|===
-
 image::woods.jpg[]
 
 == Ancients
-Players are immortal elder beings whose power is restrained somehow.  Their only connection to the world is through people who seek them out.  The only way they can communicate to the world is through visions.
+Players are immortal elder beings whose power is restrained somehow.  Their
+only connection to the world is through people who seek them out.  The only way
+they can communicate to the world is through visions.
 
-The bloody membrane between worlds is thin between the ancients; you may contact them directly whenever you like. The mortal realm is further removed.  You will receive messages only when a mortal makes an effort to contact you, and send them only to mortals attuned to you who are asleep and dreaming.
+The bloody membrane between worlds is thin between the ancients; you may
+contact them directly whenever you like. The mortal realm is further removed.
+You will receive messages only when a mortal makes an effort to contact you,
+and send them only to mortals attuned to you who are asleep and dreaming.
 
-The only way for you to interact with the world is through the mortals attuned to you, so be careful with them.
+The only way for you to interact with the world is through the mortals attuned
+to you, so be careful with them.
 
-The Conduit will give you a few specific relics to describe before the game begins. Do so, knowing that you won't necessarily be the one to get hold of them.
+The Conduit will give you a few specific relics to describe before the game
+begins. Do so, knowing that you won't necessarily be the one to get hold of
+them.
 
 [verse, The Lost Book of Gideon.]
 She laid the three stones below the altar,
@@ -92,17 +90,29 @@ image::dusk.jpg[]
 == Visions
 Play is a thread of messages.
 
-The Conduit will contact you with your dreams, in three parts: something that happened recently that you overheard, something that's happening now, and something that could happen in the future.  They'll ask you a question about each of these.  Respond when you have time.
+The Conduit will contact you with your dreams, in three parts: something that
+happened recently that you overheard (sent to the group), something that's
+happening now, and something that could happen in the future.  They'll ask you
+a question about each of these.  Respond when you have time.
 
-In addition to answering the Conduit's questions, you can send visions to any character you can name.  Always describe the vision you send, and your intention.  Sometimes you'll have difficulty knowing where to start: the Conduit is bound to tell you the truth (as far as they know it), and might suggest a course of action.
+In addition to answering the Conduit's questions, you can send visions to any
+character you can name.  Always describe the vision you send, and your
+intention.  Sometimes you'll have difficulty knowing where to start: the
+Conduit is bound to tell you the truth (as far as they know it), and might
+suggest a course of action.
 
 Your visions will arrive when next the mortals sleep.
 
-Explicit orders they will follow exactly, to the best of their ability. You may be sure of what they will do, but will not take advantage of their instincts in the moment.
+Explicit orders they will follow exactly, to the best of their ability. You may
+be sure of what they will do, but will not take advantage of their instincts in
+the moment.
 
-Vague orders they will attempt to interpret, but not in the evil genie sort of way. They will always act in your best interest as they see it and will adapt to the situation they are in, but you cannot be sure exactly what they will do.
+Vague orders they will attempt to interpret, but not in the evil genie sort of
+way. They will always act in your best interest as they see it and will adapt
+to the situation they are in, but you cannot be sure exactly what they will do.
 
-Don't bother with contingency plans -- dreamers can't remember that much, nor can visions make them understood.
+Don't bother with contingency plans -- dreamers can't remember that much, nor
+can visions make them understood.
 
 [quote, H.P. Lovecraft, The Colour out of Space.]
 It all began, old Ammi said, with the meteorite.
@@ -110,102 +120,143 @@ It all began, old Ammi said, with the meteorite.
 image::flame.jpg[]
 
 == The Conduit
-You set the pace and describe the world.  You'll need to know where each character and each relic are, and what else is going on in the world.  Use the map -- keep a pawn or a die for each character on it, and move them around as the visions take them.
+You set the pace and describe the world.  You'll need to know where each
+character and each relic are, and what else is going on in the world.  Use the
+map -- note where each character is, so you can understand who runs into each
+other.
 
-On a regular schedule, record what's currently happening as a new chapter in the game log. Each player's descriptions should be in their own section of the chapter, so you can keep the authors straight. Compose a response for each player who sent you a message:
+On a regular schedule, record what's currently happening as a new chapter in
+the game log. Each player's descriptions should be in their own section of the
+chapter, so you can keep the authors straight. Compose a response for each
+player who sent you a message:
 
-. Answer truthfully any questions they've had.  System questions should be answered in public, without pointing towards the one with the question.
-. Ponder the current overall situation (especially the most recent messages from all players) while you shuffle the deck.
+. Answer truthfully any questions they've had.  System questions should be
+  answered in public, without pointing towards the one with the question.
+. Ponder the current overall situation (especially the most recent messages
+  from all players) while you shuffle the deck.
 . Draw three cards: past, present, and future.
-  . For the first card, describe something that happened recently, outside their control. They get visions of the entire world, snippets of other events happening far away. Ask a question about what happened.
-  . For the second card, describe the result of their most recent orders. Let the card guide whether the orders succeed or not, but err on the side of success without outside interference. Ask a question about what happened.
-  . For the third card, describe an opportunity, with or without a cost. Ask a question about that opportunity or its cost.
-. Add these questions to the game log, for posterity and so you can keep the thread when responses don't contain enough information to remember the question.
+  . For the first card, describe something that happened recently, outside
+    their control. They get visions of the entire world, snippets of other
+    events happening far away. Send this to the group (in a batch).
+  . For the second card, describe the result of their most recent orders. Let
+    the card guide whether the orders succeed or not, but err on the side of
+    success without outside interference. Ask a question about what happened.
+  . For the third card, describe an opportunity, with or without a cost. Ask a
+    question about that opportunity or its cost.
+. Add these questions to the game log, for posterity and so you can keep the
+  thread when responses don't contain enough information to remember the
+  question.
 
 .Example message.
 ====
 
-(The Magician) You see another man in Rapanu's Library, one heavily-laden with books, climb a bookcase to take one final tome.  He hears footsteps, and runs off into the night. What has escaped its coffin to haunt the library?
+(The Magician) You see another man in Rapanu's Library, one heavily-laden with
+books, climb a bookcase to take one final tome.  He hears footsteps, and runs
+off into the night. (Sent to all.)
 
-(6 of Wands) You see Saladin, bearing a stone game piece (the Tower) and a large wooden bowl (Temperance), entering the library at dawn, proud and upright.  He begins searching for the book, but he will not find it. What is the title of the book Saladin thinks will appease you?
+(6 of Wands) You see Saladin, bearing a stone game piece (the Tower) and a
+large wooden bowl (Temperance), entering the library at dawn, proud and
+upright.  He begins searching for the book, but he will not find it. What is
+the title of the book Saladin thinks will appease you?
 
-(The Wheel) During Saladin's search, he notices a body out a window to the south, across the river in the marketplace.  The crows are avoiding it, though it's certainly dead.  There's something in its outstretched hand... Why is the marketplace normally empty?
+(The Wheel) During Saladin's search, he notices a body out a window to the
+south, across the river in the marketplace.  The crows are avoiding it, though
+it's certainly dead.  There's something in its outstretched hand... Why is the
+marketplace normally empty?
 
 ====
 
+
+== Cards
+
 === Major Arcana
 
-.Relics
-|===
-|Major arcana |Relic power
+==== 0 The Fool
+Relic: Sows confusion until the next sunrise.
+Location: Chalk cliffs, overlooking a body of water.
 
-|0 The Fool
-|Sows confusion until the next sunrise.
+==== I The Magician
+Relic: Transmutes elemental objects and forces.
+Location: A quiet valley of wildflowers.
 
-|I The Magician
-|Transmutes elemental objects and forces.
+==== II The High Priestess
+Relic: Gives you a mysterious vision of the world.
+Location: An ancient temple.
 
-|II The High Priestess
-|Gives you a mysterious vision of the world.
+==== III The Empress
+Relic: Births something terrible.
+Location: Overgrown wheat fields.
 
-|III The Empress
-|Births something terrible.
+==== IV The Emperor
+Relic: Controls another mortal for a critical moment.
+Location: A dormant volcano.
 
-|IV The Emperor
-|Controls another mortal for a critical moment.
+==== V The Hierophant
+Relic: Gives you specific advice on a subject you choose.
 
-|V The Hierophant
-|Gives you specific advice on a subject you choose.
+==== VI The Lovers
+Relic: Gives you a moment alone with someone you know.
+Location: A black river, wide and slow-moving, dark and quiet.
 
-|VI The Lovers
-|Gives you a moment alone with someone you know.
+==== VII The Chariot
+Relic: Enables you to travel quickly until the next sunset.
+Location: A broken wall section.
 
-|VII The Chariot
-|Enables you to travel quickly until the next sunset.
+==== VIII Strength
+Relic: Gives you supernatural power until the next sunset.
+Location: A petrified forest.
 
-|VIII Strength
-|Gives you supernatural power until the next sunset.
+==== IX The Hermit
+Relic: Gives you vision of a distant location.
+Location: A dangerous wasteland.
 
-|IX The Hermit
-|Gives you vision of a distant location.
+==== X Wheel of Fortune
+Relic: Calls fate to give you a boon.
+Location: A deep lake in an old forest.
 
-|X Wheel of Fortune
-|Calls fate to give you a boon.
+==== XI Justice
+Relic: Weighs yourself and another on the scales.
+Location: The stone of law, standing on a low hill.
 
-|XI Justice
-|Weighs yourself and another on the scales.
+==== XII The Hanged Man
+Relic: Clears your sight until the new moon.
+Location: The world tree, with rope-vines hanging down.
 
-|XII The Hanged Man
-|Clears your sight until the new moon.
+==== XIII Death
+Relic: Ends something.
+Location: Two towers with magical auras.
 
-|XIII Death
-|Ends something.
+==== XIV Temperance
+Relic: Takes something you have in excess to give something you lack.
+Location: A misty swamp hiding a sunken library.
 
-|XIV Temperance
-|Takes something you have in excess to give something you lack.
+==== XV The Devil
+Relic: Calls for aid from powers you do not understand nor control.
+Location: A broken table, runes in stone.
 
-|XV The Devil
-|Calls for aid from powers you do not understand nor control.
+==== XVI The Tower
+Relic: Destroys something utterly.
+Location: A stone tower.
 
-|XVI The Tower
-|Destroys something utterly.
+==== XVII The Star
+Relic: Restores something mortal at a cost.
+Location: A clear lake, hiding secrets.
 
-|XVII The Star
-|Restores something mortal at a cost.
+==== XVIII The Moon
+Relic: Veils you from mortal vision until the next sunrise, or until you draw blood.
+Location: Standing stones arranged for astronomy.
 
-|XVIII The Moon
-|Veils you from mortal vision until the next sunrise, or until you draw blood.
+==== XIX The Sun
+Relic: Gives you the loyalty of all who see you.
+Location: Sunflower-covered hilltops.
 
-|XIX The Sun
-|Gives you the loyalty of all who see you.
+==== XX Judgement
+Relic: Raises the dead to do your bidding.
+Location: Extensive crypts.
 
-|XX Judgement
-|Raises the dead to do your bidding.
-
-|XXI The World
-|Transports you leagues in an instant.
-|===
-
+==== XXI The World
+Relic: Transports you leagues in an instant.
+Location: The docks.
 
 
 |===
@@ -226,8 +277,8 @@ On a regular schedule, record what's currently happening as a new chapter in the
 |Eights |Action / Change / Regeneration.
 |Nines |Fulfillment / Idealism / Inspiration.
 |Tens |Completion / Finality / Renewal.
-|Pages |The Child / The New Spark / The holder of energy for his suit.
-|Knights |The Messenger / The Deliverer of News / He brings his suit outward towards the world.
-|Queens |The Keeper / The Influencer / She masters the energy in her suit, and subtly brings them to others.
-|Kings |The Master / The Executor / He controls and reigns supreme over his suit, bringing its power to action.
+|Pages |The Child / The New Spark
+|Knights |The Messenger / The Deliverer of News
+|Queens |The Keeper / The Influencer
+|Kings |The Master / The Executor
 |===
