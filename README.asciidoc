@@ -37,18 +37,35 @@ Players create a cultist as their primary contact with the world below.
 (Cultists for now will have a _Blades in the Dark_ character sheet, complete
 with stress and stats.)
 
+Strategic movement in _Dreams_ is from area to area, depending on a cultist's
+speed. By default, everyone can move two areas in each part of the day, but
+"slow" reduces that to 1 and "fast" increases it to 3. 
+
 === The Mage
 You channel powerful rituals through this cultist.
 
-TODO: Three rituals.
+When you give an Occult order, your Mage can invoke a ritual of your choice:
+
+- Fireball: +2 to Wreck until unleashed, likely in a battle.
+- Flood: a body of water you choose rises dangerously; flooded rivers cannot be
+  forded, flooded lakes fill their area.
+- Stone Golem: You create a slow golem with Skirmish 2 that you can give march,
+  assault, or rest orders. It lasts until destroyed.
+- Flight: You can fly until sundown. Your speed increases to fast for the rest
+  of the day, and you can ignore terrain during movement for that time.
 
 === The Knight
-You lead an army in three parts: the infantry, the cavalry, and the artillery.
+You lead an army of three gangs of (Tier 2) Thugs.
 
-TODO: Information about how these move.
+- Infantry (Loyal)
+- Cavalry (Fast, Unreliable)
+- Artillery (Slow, Elite)
+
+Your orders (sent by raven) take time to reach them, and might be intercepted.
+Your orders will never be entirely lost.
 
 == The Orders
-Each day is divided into six (uneven) phases: morning, midday, afternoon, dusk,
+Each day is divided into six (uneven) parts: morning, midday, afternoon, dusk,
 evening, and night.
 
 At the beginning of each part, the umpire sends each other player a request for
