@@ -129,7 +129,7 @@ image::dusk.jpg[]
 == Visions
 Play is a thread of messages. One thread per day, each day split into turns: morning, mid-day, afternoon, evening, and night.
 
-At the beginning of each turn, the Conduit will contact you. For Ancients, you will get a hand of seven cards drawn at random. If you want to use an ability, you can refuse one of the cards. For Disciples, you will learn about your current situation, including how your plans went last turn, if any.
+At the beginning of each turn, the Conduit will contact you. For Ancients, you will get a hand of seven cards at the start of the game, and one new card each turn from then on. If you want to use an ability, you can refuse the card draw. For Disciples, you will learn about your current situation, including how your plans went last turn, if any.
 
 Disciples can then contact their Ancients in prayer, both for orders and for boons and for information. Ancients may _not_ open contact with their Disciples.
 
