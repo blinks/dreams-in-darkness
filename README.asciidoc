@@ -1,6 +1,6 @@
 = Dreams in Darkness
 Adam Blinkinsop <github.com/blinks>
-v0.4: Prophecy.
+v0.4: Kriegsspiel.
 :toc: left
 :homepage: https://blinks.github.io/dreams-in-darkness/
 
@@ -120,7 +120,7 @@ The rest of the players (aside from the Conduit) are playing Disciples. Split up
 
 - Barbarian: you and your tribe are on horseback, and can move an additional area each turn.
 - Cleric: you can use some of your god's power, if they grant it to you.
-- Fighter: you lead a corps of crusaders, .
+- Fighter: you lead a corps of crusaders, disciplined and hard.
 - Ranger: you lead a small crew of special forces, and get an extra card when you do something sneaky.
 - Wizard: you are bound by geas to the god who granted you power, but have lots of spell choice.
 
@@ -144,7 +144,9 @@ You may move to an adjacent area before your plan, though difficult movement wil
 
 At the appointed time, the Conduit will gather the cards from the Ancients, and the plans of the Disciples, and resolve everything. If you have not responded by that time, you gain nothing. No response from an Ancient means one card drawn at random for each of their Disciples. No response from a Disciple means they make no plan and remain where they are.
 
-In general, plans succeed unless interrupted. This depends on the card (or cards) granted to the Disciple. If uninterrupted in their area, any card but a 5 succeds. If interrupted, only the higher card succeeds (with Major Arcana lower than Minor Arcana, and 5s lowest of all). Major Arcana also grants a powerful artifact to a Disciple who succeeds.
+To resolve a plan, look at the Disciple's strength and their skill. Their strength determines how many 10-sided dice they get to roll, and their skill determines how many they get to count towards the result. Normally, a Disciple's strength is one. Cards from their Ancient can increase this, based on the card's rank.
+
+TODO: Plan specifics, and attack/defend/feint/maneuver stances.
 
 [quote, H.P. Lovecraft, The Colour out of Space.]
 It all began, old Ammi said, with the meteorite.
