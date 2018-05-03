@@ -1,8 +1,9 @@
 = Dreams in Darkness
-Adam Blinkinsop <github.com/blinks>
-v0.4: Kriegsspiel.
-:toc: left
-:homepage: https://blinks.github.io/dreams-in-darkness/
+Adam Blinkinsop <blinks@acm.org>
+include::buildnumber.txt[]
+:doctype: book
+:title-logo-image: image:planetfall-orig.png[]
+:toc:
 
 [verse, The National, The System Only Dreams in Total Darkness]
 The system only dreams in total darkness
@@ -10,224 +11,301 @@ Why are you hiding from me?
 We’re in a different kind of thing now
 All night you’re talking to God
 
-image::dark.jpg[]
+== The basics
+A secrets-filled, competitive role-playing game set in a Napoleonic-era dark
+fantasy for three to fifteen players about the end of a world.
 
-== Introduction
-_Dreams_ is a play-by-mail game for a facilitator (the *Conduit*) and two to fourteen other players (the *Ancients* and *Disciples*).  It's a secrets-filled role-playing game about the end of a world.
+=== Preparations
+Get as many people as you can, divided into two roughly-equal teams and one
+dreamer. Since this is the dreamer's book, that's you.
 
-To play, you need a good way to communicate and a shuffled Tarot deck for seeding the world with chaos.  You don't need to be sitting in the same room, or even in the same side of the planet -- as long as you can communicate somehow, you can play.  You'll also need pencils and paper, and a way to share the map after you've drawn it.
+Dreams in Darkness can be played in one long-ish session locally, or over a
+bunch of messages remotely, you pick. There's a definite end to each game,
+though: try to reach it.
 
-=== The Social Contract
-To keep everything going it's helpful to set expectations: how often will you be contacting players, how long is acceptable for their response, and what will you do when someone drops or needs time off?  Answering these questions at the start can help reduce hurt feelings and missed expectations later on.
+Each game starts with a situation, primed for conflict between the two sides.
+Fill in the details of the situation and let the game begin.
 
-[quote, A.E. Waite, The Pictorial Key to the Tarot (1910)]
-The pathology of the poet says that "the undevout astronomer is mad"; the pathology of the very plain man says that genius is mad; and between these extremes, which stand for ten thousand analogous excesses, the sovereign reason takes the part of a moderator and does what it can.
+=== Kriegsspiel
+Role-playing may be a conversation, but Dreams in Darkness is a kriegsspiel,
+different in two primary ways: fog of war and limited communication.
 
-== The Map
-Grab link:voronoi.html[a copy of a voronoi diagram] with 22 sites, and shuffle up the major arcana.  For each site on the map: draw a card, look up its point of interest, and write it down in the site.  Perhaps draw a little picture.
+Both of these limitations seal players off into their own areas, with knowledge
+only of their immediate surroundings, any communication delayed and potentially
+intercepted. These are essential to the experience, don't play around them!
 
-Give everyone a copy of the map -- having shared place names is essential for coordination.  (North is up, too, or you'll just get confused.)
+These rules mediate how players wander through the fog, so everyone can make
+informed decisions about what could happen.
 
-The Fool::
-  *The White Cliffs*: chalk cliffs, overlooking a body of water.
+=== The Ancients
+Two players can escape these limitations: the Ancients. These are the two
+warring sides, and sit at the same table with the dreamer. All the other
+players are Disciples that follow one of the Ancients, and can commune with
+them in person once each day.
 
-The Magician::
-  *The Valley of Flowers*: a quiet valley of wildflowers.
+=== Orders and cards
+Disciples wander through the fog by giving orders. All the character playbooks
+list the same set of basic orders, plus each playbook lists special orders for
+just that archetype.
 
-The High Priestess::
-  *The Temple of Solomon*: an ancient temple, mostly abandoned by now.
+The rule for orders is that the dreamer will interpret them to the best of
+their ability. Be clear if you want to be understood. No takebacks, no
+contingency plans. Orders must be simple and direct.
 
-The Empress::
-  *The Wheat Fields*: no longer actively farmed, still useful to some.
+The Ancients each hold a small hand of Tarot cards, representing their power.
+Minor Arcana can be granted to disciples to aid them for a turn, increasing the
+spheres that match. Major Arcana are artifacts that can be granted to a
+disciple.
 
-The Emperor::
-  *The Lonely Mountain*: a dormant volcano, dominating the landscape.
+=== The spheres
+The spheres are:
 
-The Hierophant::
-  *Great Hall Telesterion*: an enormous structure for holding mysterious ceremonies.
+The Sun:: A conflict of raw power or strength. When you charge into battle or
+  tear something apart, count Cups and Pentacles in your favor.
 
-The Lovers::
-  *The Black River*: wide and slow-moving, dark and quiet.
+Mercury:: A conflict of speed or skill. When you run to intercept an enemy or
+  carefully explore a ruin, count Wands and Swords in your favor.
 
-The Chariot::
-  *The Broken Wall*: once a symbol of a powerful empire, now only pieces remain.
+Venus:: A conflict of persuasion. When you negotiate with a neutral party or
+  interrogate a deserter, count Cups and Swords in your favor.
 
-Strength::
-  *The Stone Forest*: petrified before living memory.
+The Moon:: A conflict of wisdom, secrets, or magic. When you cast a spell or
+  seek out forbidden knowledge, count Wands and Cups in your favor.
 
-The Hermit::
-  *The Wasteland*: a dangerous place to be for anyone.
+Mars:: A conflict of courage or constitution. When you march without rest or
+	hold steady in the face of a charge, count Wands and Pentacles in your favor.
 
-Wheel of Fortune::
-  *Loch Frithir*: a deep lake in the forest.
+Saturn:: A conflict of patience or solitude. When you depend on critical timing
+  or you travel alone, count Swords and Pentacles in your favor.
 
-Justice::
-  *The Lögberg*: the stone of law, standing on a low hill.
+Jupiter:: A conflict of pure luck. When the fates matter more than anything else,
+  count any Minor Arcana in your favor.
 
-The Hanged Man::
-  *The Ceiba Tree*: ropes still hang from its branches.
+=== Cycle of play
+. The Ancients draw a card.
+. The dreamer presents each Disciple with their current situation.
+. Disciples write orders, optionally communing with their Ancients.
+. The dreamer resolves orders, asking Ancients for cards as necessary.
 
-Death::
-  *The Two Towers*: some say the two mages still fight to this day.
+== The playbooks
+Disciples choose from these six playbooks before play. Within a team, playbooks
+should be unique.
 
-Temperance::
-  *The Fens*: many get lost in this misty swamp searching for the old library.
+=== King
+You sacrificed much to gain arcane power. A little bit more won't hurt.
 
-The Devil::
-  *The Broken Table*: sacrifices were made, once.
+=== Queen
+Sometimes all you need is the right person in the right place with the right
+knife.
 
-The Tower::
-  *The Ruins of Ugarit*: the first to burn when the war came.
+=== Bishop
+You follow willingly, in order to act as a conduit for divine power.
 
-The Star::
-  *Llyn Llydaw*: this lake holds many secrets, some even tossed in willingly.
+=== Knight
+Swords, horses, and courage solve any problem worth solving.
 
-The Moon::
-  *The Ring of Brodgar*: these standing stones are still used to track the stars.
+=== Rook
+Talk softly and carry a big siege weapon.
 
-The Sun::
-  *Tournesol Hills*: sunflowers grow atop these hills.
+=== Pawn
+You know the land better than anyone -- the hidden paths, dark tombs, sacred
+places. Your enemies don't understand what they're walking into.
 
-Judgement::
-  *The Lost Crypts*: the entrance must be there somewhere.
+=== The basic orders
+Every disciple gets all of the basic orders. These are:
 
-The World::
-  *The City of Gold*: the center of culture, even now.
+- Charge into battle
+- Tear something apart
+- Intercept a moving enemy
+- Explore a hidden place
+- Negotiate with a neutral party
+- Interrogate a deserter
+- Invoke arcane power
+- Seek forbidden knowledge
+- March without rest
+- Hold steady
+- Watch and wait
+- Travel alone
 
-[quote, Ammurapi.]
-My father behold, the enemy's ships came; my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us.
+== The map
+Get or draw a 22-area map. Shuffle up the major arcana, and for each area draw a card:
 
-image::woods.jpg[]
+[cols="1,3"]
+|===
+|The card |The area
 
-== Ancients
-Two players are immortal elder beings whose power is constrained.  Their only connection to the world is through people who seek them out.  The only way they can communicate to the world is through visions. The two players acting as Ancients each choose a domain, with an associated power granted if they give up a card draw for that turn.
+|The Fool
+|The White Cliffs: chalk cliffs, overlooking a body of water.
 
-- Knowledge: you can see the true map and all but the last of your opponent's cards.
-- Life: you can heal and raise the dead in one area.
-- Light: you can create and manipulate fire in one area.
-- Nature: you can connect living things in two distant areas.
-- Tempest: you can bring the storm in one area.
-- Trickery: you can hide the result of one of your followers' plans.
-- War: you can grant an additional card to each of your followers in combat this turn. 
+|The Magician
+|The Valley of Flowers: a quiet valley of wildflowers.
 
-=== Communication
-The bloody membrane between worlds is thin between the ancients; they may contact each other directly whenever they like. The mortal realm is further removed.  You will be able to communicate with a disciple only when they make an effort to contact you.
+|The High Priestess
+|The Temple of Solomon: an ancient temple, mostly abandoned by now.
 
-The only way for you to interact with the world is through those mortals attuned to you, so be careful with them.
+|The Empress
+|The Wheat Fields: no longer actively farmed, still useful to some.
 
-== Disciples
-The rest of the players (aside from the Conduit) are playing Disciples. Split up allegiance between the two Ancients, and choose a playbook:
+|The Emperor
+|The Lonely Mountain: a dormant volcano, dominating the landscape.
 
-- Barbarian: you and your tribe are on horseback, and can move an additional area each turn.
-- Cleric: you can use some of your god's power, if they grant it to you.
-- Fighter: you lead a corps of crusaders, disciplined and hard.
-- Ranger: you lead a small crew of special forces, and get an extra card when you do something sneaky.
-- Wizard: you are bound by geas to the god who granted you power, but have lots of spell choice.
+|The Hierophant
+|Great Hall Telesterion: an enormous structure for holding mysterious ceremonies.
 
-image::dusk.jpg[]
+|The Lovers
+|The Black River: wide and slow-moving, dark and quiet.
 
-== Visions
-Play is a thread of messages. One thread per day, each day split into turns: morning, mid-day, afternoon, evening, and night.
+|The Chariot
+|The Broken Wall: once a symbol of a powerful empire, now only pieces remain.
 
-At the beginning of each turn, the Conduit will contact you. For Ancients, you will get a hand of seven cards at the start of the game, and one new card each turn from then on. If you want to use an ability, you can refuse the card draw. For Disciples, you will learn about your current situation, including how your plans went last turn, if any.
+|Strength
+|The Stone Forest: petrified before living memory.
 
-Disciples can then contact their Ancients in prayer, both for orders and for boons and for information. Ancients may _not_ open contact with their Disciples.
+|The Hermit
+|The Wasteland: a dangerous place to be for anyone.
 
-Whenever you like, you can message the Conduit with a reply. For Ancients, your reply should include the cards you're granting to each Disciple, and how you use your power, if available. For Disciples, your reply should include your plan for the turn:
+|Wheel of Fortune
+|Loch Frithir: a deep lake in the forest.
 
-- Adventure (Wands): explore ruins, charge into battle, delve into a tomb.
-- Intrigue (Cups): sow dissent, spy on plans, go unnoticed.
-- Research (Swords): find a hidden path, uncover the map, learn a weakness.
-- Toil (Pentacles): construct siegeworks, ford a river, cross a mountain range.
+|Justice
+|The Lögberg: the stone of law, standing on a low hill.
 
-You may move to an adjacent area before your plan, though difficult movement will take up your plan as well.
+|The Hanged Man
+|The Ceiba Tree: ropes still hang from its branches.
 
-At the appointed time, the Conduit will gather the cards from the Ancients, and the plans of the Disciples, and resolve everything. If you have not responded by that time, you gain nothing. No response from an Ancient means one card drawn at random for each of their Disciples. No response from a Disciple means they make no plan and remain where they are.
+|Death
+|The Two Towers: some say the two mages still fight to this day.
 
-To resolve a plan, look at the Disciple's strength and their skill. Their strength determines how many 10-sided dice they get to roll, and their skill determines how many they get to count towards the result. Normally, a Disciple's strength is one. Cards from their Ancient can increase this, based on the card's rank.
+|Temperance
+|The Fens: many get lost in this misty swamp searching for the old library.
 
-TODO: Plan specifics, and attack/defend/feint/maneuver stances.
+|The Devil
+|The Broken Table: sacrifices were made, once.
 
-[quote, H.P. Lovecraft, The Colour out of Space.]
+|The Tower
+|The Ruins of Ugarit: the first to burn when the war came.
+
+|The Star
+|Llyn Llydaw: this lake holds many secrets, some even tossed in willingly.
+
+|The Moon
+|The Ring of Brodgar: these standing stones are still used to track the stars.
+
+|The Sun
+|Tournesol Hills: sunflowers grow atop these hills.
+
+|Judgement
+|The Lost Crypts: the entrance must be there somewhere.
+
+|The World
+|The City of Gold: the center of culture, even now.
+|===
+
+[verse, Ammurapi]
+My father behold, the enemy’s ships came;
+my cities were burned, and they did evil things in my country.
+Does not my father know that
+all my troops and chariots are in the Land of Hatti,
+and all my ships are in the Land of Lukka? ...
+Thus, the country is abandoned to itself.
+May my father know it:
+the seven ships of the enemy that came here
+inflicted much damage upon us.
+
+== Character creation
+
+[verse,H.P. Lovecraft, The Colour out of Space.]
 It all began, old Ammi said, with the meteorite.
 
-image::flame.jpg[]
+Print out two sets of playbooks and give a set to each ancient. Within each
+team, have everybody choose one, no duplicates. Set the rest aside.
 
-== The Conduit
-You set the pace and describe the world. When you message a player:
+You'll also need enough copies of the map so everyone can get one, some
+pencils, and a deck of tarot cards.
 
-- Tell them the truth about what happened.
-- Push them into the way of another player.
-- Encourage secrets, don't reveal them lightly.
-- Use the names you've created.  Make new ones, as needed.
-- Add subtle horrors.
-- Sometimes, ask one player to help detail what happens to another.
+Then, hold an auction for each sphere in turn (from the outermost to the
+innermost):
 
-=== Major Arcana
-When a player succeeds where Major Arcana was spent, a relic is also granted to that player's Disciple.  Ask the Ancients what it looks like and how to unlock its power.
+. Saturn: patience and solitude.
+. Mars: courage and constitution.
+. The Moon: wisdom, secrets, and magic.
+. Venus: charisma and persuasion.
+. Mercury: speed and skill.
+. The Sun: raw power and strength.
 
-==== 0 The Fool
-Relic: Sows confusion until the next sunrise.
+Players have 150 points to spend in the auction. Bids are irrevocable and
+nonrefundable. The final bid for each player in each sphere is their score in
+that attribute. After all bids are complete, players may spend leftover points
+to increase their score in any sphere, but not past a bid rank.
 
-==== I The Magician
-Relic: Transmutes elemental objects and forces.
+That is, if Alice got 54 in Mars and Bob got 35, he could spend up to 19 points
+getting up to 54. When tied, the score that was initially bid higher always
+wins. (In the case where two players tie in different spheres, TODO.)
 
-==== II The High Priestess
-Relic: Gives you a mysterious vision of the world.
+=== Goals
+To the ancients: play to win creatively.
+To the disciples: play to satisfy your obligations.
+To the dreamer: play to find out.
 
-==== III The Empress
-Relic: Births something terrible.
+=== The situation
+A ritual has begun that will grant one ancient unlimited power. The other
+ancient needs to prevent it from doing so.
 
-==== IV The Emperor
-Relic: Controls another mortal for a critical moment.
+=== The basic orders
+*Charging into battle* means going on the offensive against an enemy you can
+see. The order determines whether your enemy can stand up to your charge, or if
+their morale fails them and they flee.
 
-==== V The Hierophant
-Relic: Gives you specific advice on a subject you choose.
+*Tearing something apart* means destroying a building or a barrier, natural or
+constructed. The order determines how destructive you were and what else happens
+as a consequence.
 
-==== VI The Lovers
-Relic: Gives you a moment alone with someone you know.
+*Intercepting a moving enemy* means catching someone on the move, and stopping
+them from reaching their goal. The order determines if and where you catch
+them, and who's in the best position to take advantage of your meeting.
 
-==== VII The Chariot
-Relic: Enables you to travel quickly until the next sunset.
+*Exploring a hidden place* means delving into a detail the dreamer described.
+The areas on the map are large and the map itself is vague. The order determines
+what you find there and what effect it has on you.
 
-==== VIII Strength
-Relic: Gives you supernatural power until the next sunset.
+*Negotiating with a neutral party* means convincing a non-player character or
+group to act (or avoid acting) in a particular way. You cannot negotiate with
+disciples, they're all fanatics. The order determines whether they agree, and
+what they need from you in return.
 
-==== IX The Hermit
-Relic: Gives you vision of a distant location.
+*Interrogating a deserter* means getting information out of those who were in
+contact with the enemy for a time and then left. The order determines how much
+you learn from your interrogation, and whether it's truthful. (You learn only
+the first from the dreamer.)
 
-==== X Wheel of Fortune
-Relic: Calls fate to give you a boon.
+*Invoking arcane power* means casting a spell or using an artifact's ability.
+The order determines the effect and what it costs you.
 
-==== XI Justice
-Relic: Weighs yourself and another on the scales.
+*Seeking forbidden knowledge* means poring over books, scrolls, or runes to
+learn of secret places, spells, or powers lost to the ages. The order
+determines how much you learn, and what it costs you.
 
-==== XII The Hanged Man
-Relic: Clears your sight until the new moon.
+*Marching without rest* means forcing yourself to travel farther than is
+healthy.  The order determines what it costs you, and how far you make it.
 
-==== XIII Death
-Relic: Ends something.
+*Holding steady* means preparing yourself for something terrible on the
+horizon. The order determines whether you stand your ground or run.
 
-==== XIV Temperance
-Relic: Takes something you have in excess to give something you lack.
+*Watching and waiting* means looking for the point of most leverage and acting
+on it. The order determines how much leverage you managed to get.
 
-==== XV The Devil
-Relic: Calls for aid from powers you do not understand nor control.
+*Traveling alone* means going quietly and stealthily through an area to avoid
+notice. The order determines whether anyone was able to trace your passage.
 
-==== XVI The Tower
-Relic: Destroys something utterly.
+[verse,The Lost Book of Gideon.]
+She laid the three stones below the altar,
+words of power chanted through her.
+The moment arrived, his eyes opened,
+and she brought down the dagger.
 
-==== XVII The Star
-Relic: Restores something mortal at a cost.
-
-==== XVIII The Moon
-Relic: Veils you from mortal vision until the next sunrise, or until you draw blood.
-
-==== XIX The Sun
-Relic: Gives you the loyalty of all who see you.
-
-==== XX Judgement
-Relic: Raises the dead to do your bidding.
-
-==== XXI The World
-Relic: Transports you leagues in an instant.
+== Ludography
+- Apocalypse World
+- Blades in the Dark
+- Le Vol de l'Aigle
+- Napoleonic 20 Series
+- Amber Diceless Roleplaying Game
