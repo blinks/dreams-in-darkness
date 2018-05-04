@@ -92,6 +92,8 @@ evening, and night. Each turn:
 . The dreamer presents each disciple with their current situation.
 . Disciples write orders, optionally communing with their ancients.
 . The dreamer resolves orders, asking ancients for cards as necessary.
+  - If a disciple's only order is to rest during the night turn, they recover
+    two points of morale.
 
 image::dusk.jpg[]
 
@@ -107,13 +109,15 @@ the Moon. On a hit, the dreamer will confirm how much of the effect is
 possible, you can just name it in the future. On a +10, you get the maximum
 effect.
 
+(Damage for a spell should generally max out at the margin of success.)
+
 === Queen
 Sometimes all you need is the right person in the right place with the right
 knife.
 
 From the dark:: When you *strike from the darkness*, name your single target
-and call upon Saturn. On a hit, they're gravely injured. On a +10, nobody
-sees you strike.
+and call upon Saturn. On a hit, they're injured equal to your margin of
+success. On a +10, nobody sees you strike.
 
 === Bishop
 You follow willingly, in order to act as a conduit for divine power.
@@ -127,15 +131,16 @@ Swords, horses, and courage solve any problem worth solving.
 
 Call them out:: When you *seek out your enemy*, describe your insults and call
 upon Mars. On a hit, they lose a morale. On a +10, they rout. An enemy that
-isn't ordered to stay out of a fight is immune to this morale loss, and forced
-to fight instead.
+isn't specifically ordered to stay out of a fight is immune to this morale
+loss, and forced to fight instead.
 
 === Rook
 Talk softly and carry a big siege weapon.
 
 Sound of the guns:: When you *set up an artillery barrage*, name an adjacent
-area and call upon the Sun. On a hit, everything in that area loses a morale.
-On a +10, you also gain a morale.
+area and call upon the Sun. On a hit, everything in that area takes damage
+equal to half your margin of success and loses a morale.  On a +10, you also
+gain a morale.
 
 === Pawn
 You know the land better than anyone -- the hidden paths, dark tombs, sacred
@@ -145,9 +150,14 @@ Entrapment:: When you *lay traps*, name their danger and call upon Mercury. On
 a hit, the area is trapped. On a +10, your friends are safe from the danger.
 You are always safe from your own traps.
 
+Write down their Mercury score next to the trap. When an enemy triggers it,
+determine the margin of success (if any) and deal damage up to half that
+margin.
+
 === Orders
 Every disciple gets all of the basic orders. These are:
 
+- Rest
 - Charge into battle
 - Tear something apart
 - Intercept a moving enemy
@@ -193,8 +203,13 @@ That is, if Alice got 54 in Mars and Bob got 35, he could spend up to 19 points
 getting up to 54. When tied, the score that was initially bid higher always
 wins. (In the case where two players tie in different spheres, TODO.)
 
-Each disciple also starts with six morale, and time to discuss amongst their
-team before the first morning turn.
+Each disciple also starts with six morale. When a disciple's morale hits zero,
+the dreamer routs them back towards where they started. With morale at zero,
+the disciple always runs away from any threat.
+
+The game starts in a pseudo-night turn: time to discuss amongst the teams
+before the first morning turn. Both sides should present an initial set of
+orders for that turn that include where they enter play.
 
 === Goals
 - To the ancients: play to win creatively.
@@ -358,11 +373,15 @@ suit is good for that sphere), or slightly helpful (+10 if it doesn't match), or
 not helpful at all (-X for major arcana based on its rank, but they grant you
 an artifact if you hit anyway).
 
+=== Rest
+When you *rest through the night*, regain two morale points. If something
+interrupts your rest, regain only one.
+
 === Charge
 When you *charge into battle*, name your enemy and call upon the Sun. On a
 miss, your courage fails you and the charge stops short of hand-to-hand combat.
-Otherwise, take a morale point from them. On a +10, they also rout to an
-adjacent area.
+Otherwise, take a morale point from them. On a +10, carry this margin over to
+combat, if it happens.
 
 === Break
 When you *tear something apart* or break something down, name your method and
@@ -371,7 +390,7 @@ your target and call upon the Sun. On a hit, it's gone.
 === Intercept
 When you *intercept a moving enemy*, name the enemy and where you catch them
 and call upon Mercury. On a hit, you catch them. On a +10, you catch them by
-surprise.
+surprise: carry this margin over to a combat.
 
 === Explore
 When you *explore the area*, searching for secrets, describe what you saw that
