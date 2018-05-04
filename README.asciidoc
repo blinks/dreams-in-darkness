@@ -102,22 +102,48 @@ should be unique.
 === King
 You sacrificed much to gain arcane power. A little bit more won't hurt.
 
+Cast a spell:: When you *cast a spell*, name it and its effect and call upon
+the Moon. On a hit, the dreamer will confirm how much of the effect is
+possible, you can just name it in the future. On a +10, you get the maximum
+effect.
+
 === Queen
 Sometimes all you need is the right person in the right place with the right
 knife.
 
+From the dark:: When you *strike from the darkness*, name your single target
+and call upon Saturn. On a hit, they're gravely injured. On a +10, nobody
+sees you strike.
+
 === Bishop
 You follow willingly, in order to act as a conduit for divine power.
+
+Dreamwalk:: When you *meditate near a fire*, name where your dream wanders and
+call upon Venus. The dreamer will tell you something you see. On a hit, it's
+true. On a +10, it's detailed.
 
 === Knight
 Swords, horses, and courage solve any problem worth solving.
 
+Call them out:: When you *seek out your enemy*, describe your insults and call
+upon Mars. On a hit, they lose a morale. On a +10, they rout. An enemy that
+isn't ordered to stay out of a fight is immune to this morale loss, and forced
+to fight instead.
+
 === Rook
 Talk softly and carry a big siege weapon.
+
+Sound of the guns:: When you *set up an artillery barrage*, name an adjacent
+area and call upon the Sun. On a hit, everything in that area loses a morale.
+On a +10, you also gain a morale.
 
 === Pawn
 You know the land better than anyone -- the hidden paths, dark tombs, sacred
 places. Your enemies don't understand what they're walking into.
+
+Entrapment:: When you *lay traps*, name their danger and call upon Mercury. On
+a hit, the area is trapped. On a +10, your friends are safe from the danger.
+You are always safe from your own traps.
 
 === Orders
 Every disciple gets all of the basic orders. These are:
@@ -134,6 +160,101 @@ Every disciple gets all of the basic orders. These are:
 - Hold steady
 - Watch and wait
 - Travel alone
+
+image::flame.jpg[]
+
+== Character creation
+
+[verse,H.P. Lovecraft, The Colour out of Space.]
+It all began, old Ammi said, with the meteorite.
+
+Print out two sets of playbooks and give a set to each ancient. Within each
+team, have everybody choose one, no duplicates. Set the rest aside.
+
+You'll also need enough copies of the map so everyone can get one, some
+pencils, and a deck of tarot cards.
+
+Then, hold an auction for each sphere in turn (from the outermost to the
+innermost):
+
+. Saturn: patience and solitude.
+. Mars: courage and constitution.
+. The Moon: wisdom, secrets, and magic.
+. Venus: charisma and persuasion.
+. Mercury: speed and skill.
+. The Sun: raw power and strength.
+
+Players have 150 points to spend in the auction. Bids are irrevocable and
+nonrefundable. The final bid for each player in each sphere is their score in
+that attribute. After all bids are complete, players may spend leftover points
+to increase their score in any sphere, but not past a bid rank.
+
+That is, if Alice got 54 in Mars and Bob got 35, he could spend up to 19 points
+getting up to 54. When tied, the score that was initially bid higher always
+wins. (In the case where two players tie in different spheres, TODO.)
+
+Each disciple also starts with six morale, and time to discuss amongst their
+team before the first morning turn.
+
+=== Goals
+- To the ancients: play to win creatively.
+- To the disciples: play to satisfy your obligations.
+- To the dreamer: play to find out what happens.
+
+[verse,The Lost Book of Gideon.]
+She laid the three stones below the altar,
+words of power chanted through her.
+The moment arrived, his eyes opened,
+and she brought down the dagger.
+
+== The dreamer
+That's you, the impartial observer and storyteller. You're in control of what
+happens when this book leaves things undecided. Be fair, but also dark.
+
+=== Your moves
+Whenever this book leaves an outcome blank, choose one of these moves and make
+it. Don't let the world be static.
+
+- Grant the opposing ancient a card.
+- Push them off-course.
+- Give an enemy information.
+- Awaken something in the world.
+- Change the weather.
+- Take their morale.
+- Hint about something valuable at a cost.
+
+=== A fair fight
+When neither side wants to engage, there's no combat. When only one side wants
+to engage, the other runs: make a move.
+
+When both sides want to engage, they do so: both sides call upon the Sun and
+deal damage equal to a tenth of their score, rounded up. The side with the
+higher score counts the margin towards their score. The dreamer divides the
+damage for each side as evenly as possible (extra to the leader, generally),
+and then reports on how much each disciple needs to take.
+
+Damage is taken by reducing a sphere one point for each point of damage.
+Spheres cannot go negative.
+
+.Example of a battle
+====
+A (Sun:30) and B (Sun:14) are together, ready to fight C (Sun:28).
+
+A and B made it clear that A's the leader, so only B's sphere is halved, giving
+their side Sun:37. C is unambiguously the leader, and gets their full Sun:28.
+
+The margin is +9 to A and B, so they do 46/10 = 5 damage. C does 28/10 = 3
+damage back. A will take two and B will take one damage, while C takes the full
+five.
+====
+
+== The situation
+A ritual has begun that will grant one ancient unlimited power. The other
+ancient needs to prevent it from doing so.
+
+Ask the defender, secretly: where on the map is the ritual taking place?
+Ask the attacker, secretly: which direction are you approaching from?
+Tell everyone: at sundown on the third day, the ritual will complete.
 
 image::woods.jpg[]
 
@@ -221,57 +342,6 @@ Thus, the country is abandoned to itself.
 May my father know it:
 the seven ships of the enemy that came here
 inflicted much damage upon us.
-
-image::flame.jpg[]
-
-== Character creation
-
-[verse,H.P. Lovecraft, The Colour out of Space.]
-It all began, old Ammi said, with the meteorite.
-
-Print out two sets of playbooks and give a set to each ancient. Within each
-team, have everybody choose one, no duplicates. Set the rest aside.
-
-You'll also need enough copies of the map so everyone can get one, some
-pencils, and a deck of tarot cards.
-
-Then, hold an auction for each sphere in turn (from the outermost to the
-innermost):
-
-. Saturn: patience and solitude.
-. Mars: courage and constitution.
-. The Moon: wisdom, secrets, and magic.
-. Venus: charisma and persuasion.
-. Mercury: speed and skill.
-. The Sun: raw power and strength.
-
-Players have 150 points to spend in the auction. Bids are irrevocable and
-nonrefundable. The final bid for each player in each sphere is their score in
-that attribute. After all bids are complete, players may spend leftover points
-to increase their score in any sphere, but not past a bid rank.
-
-That is, if Alice got 54 in Mars and Bob got 35, he could spend up to 19 points
-getting up to 54. When tied, the score that was initially bid higher always
-wins. (In the case where two players tie in different spheres, TODO.)
-
-=== Goals
-- To the ancients: play to win creatively.
-- To the disciples: play to satisfy your obligations.
-- To the dreamer: play to find out what happens.
-
-[verse,The Lost Book of Gideon.]
-She laid the three stones below the altar,
-words of power chanted through her.
-The moment arrived, his eyes opened,
-and she brought down the dagger.
-
-== The situation
-A ritual has begun that will grant one ancient unlimited power. The other
-ancient needs to prevent it from doing so.
-
-Ask the defender, secretly: where on the map is the ritual taking place?
-Ask the attacker, secretly: which direction are you approaching from?
-Tell everyone: at sundown on the third day, the ritual will complete.
 
 == The basic orders
 The rule for orders is: be clear. The dreamer will interpret your orders to the
