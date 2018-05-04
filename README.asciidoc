@@ -2,7 +2,10 @@
 Adam Blinkinsop <blinks@acm.org>
 include::buildnumber.txt[]
 :doctype: book
-:title-logo-image: image:planetfall-orig.png[]
+:pdf-stylesdir: ./themes
+:pdf-style: theme.yml
+:imagesdir: ./img
+:title-logo-image: image:dark.jpg[]
 :toc:
 
 [verse, The National, The System Only Dreams in Total Darkness]
@@ -87,6 +90,8 @@ Jupiter:: A conflict of pure luck. When the fates matter more than anything else
 . Disciples write orders, optionally communing with their Ancients.
 . The dreamer resolves orders, asking Ancients for cards as necessary.
 
+image::dusk.jpg[]
+
 == The playbooks
 Disciples choose from these six playbooks before play. Within a team, playbooks
 should be unique.
@@ -126,6 +131,8 @@ Every disciple gets all of the basic orders. These are:
 - Hold steady
 - Watch and wait
 - Travel alone
+
+image::woods.jpg[]
 
 == The map
 Get or draw a 22-area map. Shuffle up the major arcana, and for each area draw a card:
@@ -211,6 +218,8 @@ Thus, the country is abandoned to itself.
 May my father know it:
 the seven ships of the enemy that came here
 inflicted much damage upon us.
+
+image::flame.jpg[]
 
 == Character creation
 
