@@ -40,10 +40,10 @@ intercepted. These are essential to the experience, don't play around them!
 These rules mediate how players wander through the fog, so everyone can make
 informed decisions about what could happen.
 
-=== The Ancients
-Two players can escape these limitations: the Ancients. These are the two
+=== The ancients
+Two players can escape these limitations: the ancients. These are the two
 warring sides, and sit at the same table with the dreamer. All the other
-players are Disciples that follow one of the Ancients, and can commune with
+players are disciples that follow one of the ancients, and can commune with
 them in person once each day.
 
 === Orders and cards
@@ -55,7 +55,7 @@ The rule for orders is that the dreamer will interpret them to the best of
 their ability. Be clear if you want to be understood. No takebacks, no
 contingency plans. Orders must be simple and direct.
 
-The Ancients each hold a small hand of Tarot cards, representing their power.
+The ancients each hold a small hand of Tarot cards, representing their power.
 Minor Arcana can be granted to disciples to aid them for a turn, increasing the
 spheres that match. Major Arcana are artifacts that can be granted to a
 disciple.
@@ -85,10 +85,13 @@ Jupiter:: A conflict of pure luck. When the fates matter more than anything else
   count any Minor Arcana in your favor.
 
 === Cycle of play
-. The Ancients draw a card.
-. The dreamer presents each Disciple with their current situation.
-. Disciples write orders, optionally communing with their Ancients.
-. The dreamer resolves orders, asking Ancients for cards as necessary.
+Each day is divided into six (uneven) turns: morning, midday, afternoon, dusk,
+evening, and night. Each turn:
+
+. The ancients get a new tarot card.
+. The dreamer presents each disciple with their current situation.
+. Disciples write orders, optionally communing with their ancients.
+. The dreamer resolves orders, asking ancients for cards as necessary.
 
 image::dusk.jpg[]
 
@@ -252,59 +255,9 @@ getting up to 54. When tied, the score that was initially bid higher always
 wins. (In the case where two players tie in different spheres, TODO.)
 
 === Goals
-To the ancients: play to win creatively.
-To the disciples: play to satisfy your obligations.
-To the dreamer: play to find out.
-
-=== The situation
-A ritual has begun that will grant one ancient unlimited power. The other
-ancient needs to prevent it from doing so.
-
-=== The basic orders
-*Charging into battle* means going on the offensive against an enemy you can
-see. The order determines whether your enemy can stand up to your charge, or if
-their morale fails them and they flee.
-
-*Tearing something apart* means destroying a building or a barrier, natural or
-constructed. The order determines how destructive you were and what else happens
-as a consequence.
-
-*Intercepting a moving enemy* means catching someone on the move, and stopping
-them from reaching their goal. The order determines if and where you catch
-them, and who's in the best position to take advantage of your meeting.
-
-*Exploring a hidden place* means delving into a detail the dreamer described.
-The areas on the map are large and the map itself is vague. The order determines
-what you find there and what effect it has on you.
-
-*Negotiating with a neutral party* means convincing a non-player character or
-group to act (or avoid acting) in a particular way. You cannot negotiate with
-disciples, they're all fanatics. The order determines whether they agree, and
-what they need from you in return.
-
-*Interrogating a deserter* means getting information out of those who were in
-contact with the enemy for a time and then left. The order determines how much
-you learn from your interrogation, and whether it's truthful. (You learn only
-the first from the dreamer.)
-
-*Invoking arcane power* means casting a spell or using an artifact's ability.
-The order determines the effect and what it costs you.
-
-*Seeking forbidden knowledge* means poring over books, scrolls, or runes to
-learn of secret places, spells, or powers lost to the ages. The order
-determines how much you learn, and what it costs you.
-
-*Marching without rest* means forcing yourself to travel farther than is
-healthy.  The order determines what it costs you, and how far you make it.
-
-*Holding steady* means preparing yourself for something terrible on the
-horizon. The order determines whether you stand your ground or run.
-
-*Watching and waiting* means looking for the point of most leverage and acting
-on it. The order determines how much leverage you managed to get.
-
-*Traveling alone* means going quietly and stealthily through an area to avoid
-notice. The order determines whether anyone was able to trace your passage.
+- To the ancients: play to win creatively.
+- To the disciples: play to satisfy your obligations.
+- To the dreamer: play to find out what happens.
 
 [verse,The Lost Book of Gideon.]
 She laid the three stones below the altar,
@@ -312,9 +265,97 @@ words of power chanted through her.
 The moment arrived, his eyes opened,
 and she brought down the dagger.
 
+== The situation
+A ritual has begun that will grant one ancient unlimited power. The other
+ancient needs to prevent it from doing so.
+
+Ask the defender, secretly: where on the map is the ritual taking place?
+Ask the attacker, secretly: which direction are you approaching from?
+Tell everyone: at sundown on the third day, the ritual will complete.
+
+== The basic orders
+The rule for orders is: be clear. The dreamer will interpret your orders to the
+best of their ability, without asking for clarification.
+
+Orders often ask you to call upon a sphere; this is a conflict between you and
+your opposition, where your result is based on the difference between your
+scores. (If there's no opposition, compare to zero.) If you have fewer points
+in the sphere than your opposition, it's a miss.  Otherwise, it's a hit. The
+difference in points is your margin of success (like +10) or failure (like -4).
+
+If your ancient grants you a card, it might be very helpful (+25 if the minor arcana
+suit is good for that sphere), or slightly helpful (+10 if it doesn't match), or
+not helpful at all (-X for major arcana based on its rank, but they grant you
+an artifact if you hit anyway).
+
+=== Charge
+When you *charge into battle*, name your enemy and call upon the Sun. On a
+miss, your courage fails you and the charge stops short of hand-to-hand combat.
+Otherwise, take a morale point from them. On a +10, they also rout to an
+adjacent area.
+
+=== Break
+When you *tear something apart* or break something down, name your method and
+your target and call upon the Sun. On a hit, it's gone.
+
+=== Intercept
+When you *intercept a moving enemy*, name the enemy and where you catch them
+and call upon Mercury. On a hit, you catch them. On a +10, you catch them by
+surprise.
+
+=== Explore
+When you *explore the area*, searching for secrets, describe what you saw that
+made you curious and call upon Mercury. On a hit, the dreamer will tell you
+something interesting about the area. On a +10, the dreamer will tell you how
+it's also useful, otherwise you'll have to make it useful on your own.
+
+=== Negotiate
+When you *negotiate with a neutral party*, name the party and what you want
+from them and call upon Venus. On a hit, they do what you want. On a +10, they
+don't ask for anything in return.
+
+=== Interrogate
+When you *interrogate a deserter*, ask three questions and call upon Venus. The
+dreamer will answer your questions. On a miss, one answer will be true. On a
+hit, two answers. On a +10, they'll all be true.
+
+The dreamer won't tell you which answers are true, nor how many.
+
+=== Invoke
+When you *use an artifact's arcane power*, name how it fulfills your desires
+and call upon the Moon. On a hit, there isn't a catch. On a +10, it works
+better than you expected.
+
+=== Quest
+When you *seek forbidden knowledge* in a safe place, name what you seek and
+call upon the Moon. On a hit, you know how to get it. On a +10, nobody else
+knows it exists.
+
+=== Forced march
+When you *march without rest*, describe your route and intended destination
+and call upon Mars. On a hit, you get there. On a +10, you gain morale. On a
+miss, you stumble across something unexpected.
+
+=== Steady
+When you *steady yourself*, name what you expect and call upon Mars. On a hit,
+what you expect doesn't shake you, you stand firm against it: take a bonus to
+defending against it equal to your margin of success.
+
+=== Watch
+When you *watch and wait patiently*, name two contingency plans and call upon
+Saturn. On a hit, you'll take a plan that matches your situation. On a +10,
+you'll take the best plan.
+
+=== Traverse
+When you *travel quietly across the countryside*, name a neighboring area and
+call upon Saturn. On a hit, you reach it without being noticed. On a +10, you
+find something interesting on the way.
+
 == Ludography
 - Apocalypse World
 - Blades in the Dark
+- Burning Wheel
+- Dungeon World
 - Le Vol de l'Aigle
 - Napoleonic 20 Series
 - Amber Diceless Roleplaying Game
