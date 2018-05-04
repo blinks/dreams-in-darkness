@@ -119,7 +119,7 @@ Talk softly and carry a big siege weapon.
 You know the land better than anyone -- the hidden paths, dark tombs, sacred
 places. Your enemies don't understand what they're walking into.
 
-=== The basic orders
+=== Orders
 Every disciple gets all of the basic orders. These are:
 
 - Charge into battle
