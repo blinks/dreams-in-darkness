@@ -207,6 +207,10 @@ Each disciple also starts with six morale. When a disciple's morale hits zero,
 the dreamer routs them back towards where they started. With morale at zero,
 the disciple always runs away from any threat.
 
+Each ancient starts with three randomly-drawn tarot cards. These can be spent
+to improve a disciple's spheres on any given turn, or to grant them a powerful
+artifact (which distracts them the turn they find it).
+
 The game starts in a pseudo-night turn: time to discuss amongst the teams
 before the first morning turn. Both sides should present an initial set of
 orders for that turn that include where they enter play.
@@ -439,6 +443,84 @@ you'll take the best plan.
 When you *travel quietly across the countryside*, name a neighboring area and
 call upon Saturn. On a hit, you reach it without being noticed. On a +10, you
 find something interesting on the way.
+
+== Artifacts
+Ancients can grant major arcana to their disciples as powerful artifacts.
+Unfortunately, the rank of these cards counts against that disciple on the turn
+it's granted to them.
+
+These powers are meant to be vague, interpreted by the dreamer.
+
+[cols="1,3"]
+|===
+|The card |The artifact
+
+|0 The Fool
+|Sows confusion until the next sunrise.
+
+|I The Magician
+|Transmutes elemental objects and forces.
+
+|II The High Priestess
+|Gives you a mysterious vision of the world.
+
+|III The Empress
+|Births something terrible.
+
+|IV The Emperor
+|Controls another mortal for a critical moment.
+
+|V The Hierophant
+|Gives you specific advice on a subject you choose.
+
+|VI The Lovers
+|Gives you a moment alone with someone you know.
+
+|VII The Chariot
+|Enables you to travel quickly until the next sunset.
+
+|VIII Strength
+|Gives you supernatural power until the next sunset.
+
+|IX The Hermit
+|Gives you vision of a distant location.
+
+|X Wheel of Fortune
+|Calls fate to give you a boon.
+
+|XI Justice
+|Weighs yourself and another on the scales.
+
+|XII The Hanged Man
+|Clears your sight until the night.
+
+|XIII Death
+|Ends something.
+
+|XIV Temperance
+|Takes something you have in excess to give something you lack.
+
+|XV The Devil
+|Calls for aid from powers you do not understand nor control.
+
+|XVI The Tower
+|Destroys something utterly.
+
+|XVII The Star
+|Restores something mortal at a cost.
+
+|XVIII The Moon
+|Veils you from mortal vision until the next dawn, or until you draw blood.
+
+|XIX The Sun
+|Gives you the loyalty of all who see you.
+
+|XX Judgement
+|Raises the dead to do your bidding.
+
+|XXI The World
+|Transports you leagues in an instant.
+|===
 
 == Ludography
 - Apocalypse World
