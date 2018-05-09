@@ -387,6 +387,39 @@ miss, your courage fails you and the charge stops short of hand-to-hand combat.
 Otherwise, take a morale point from them. On a +10, carry this margin over to
 combat, if it happens.
 
+.Battle in the wheat fields
+====
+Joan (Sun:25, Mars:10) and George (Sun:5, Mars:35) both reach the wheat fields
+by midday. The dreamer asks the ancients for cards, but they decide to wait and
+see.
+
+Joan's midday orders: charge into battle for glory and honor. Take no
+prisoners.
+
+George's midday orders: steel ourselves for the inevitable charge; let them
+fall on our spears.
+
+The dreamer looks at these orders and sees that Joan is _charging into battle_
+while it seems like George is _steadying himself_ for the charge.
+
+As the _steady_ move talks about "defending against something expected," George
+is resolved first, and gets +25 when he calls upon Mars. This carries over to
+defending against the expected charge, which flips the result: Joan calls upon
+the Sun and instead of getting +20, she gets -5!
+
+The dreamer sends back results. To George: "Your shields flash in the sun and
+the riot of your enemy stops short in the fields before you." To Joan: "You let
+out a battle cry and surge forward, but your enemy doesn't flinch. Their
+steadiness causes your corps to lose faith in the charge, stopping well short
+of battle."
+
+If George hadn't expected the charge, Joan would have gotten that +20 and
+carried it over to the fight (likely doing serious damage to George's stats).
+
+If Joan's ancient had donated the right card, she could have gotten +10 or even
++25 towards her charge and won the day _even though_ George expected it.
+====
+
 === Break
 When you *tear something apart* or break something down, name your method and
 your target and call upon the Sun. On a hit, it's gone.
