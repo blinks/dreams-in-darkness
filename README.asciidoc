@@ -199,9 +199,21 @@ nonrefundable. The final bid for each player in each sphere is their score in
 that attribute. After all bids are complete, players may spend leftover points
 to increase their score in any sphere, but not past a bid rank.
 
-That is, if Alice got 54 in Mars and Bob got 35, he could spend up to 19 points
-getting up to 54. When tied, the score that was initially bid higher always
-wins. (In the case where two players tie in different spheres, TODO.)
+====
+Athena bids 21 in Saturn to start off. If that's the only bid, everyone else
+can (secretly) spend up to 20 points in Saturn, knowing that Athena's 21 points
+is the maximum.
+
+But instead, Hephaestus bids 30. The other players can still only spend up to
+20, but Athena can now spend up to 8 more (bringing her to 29) secretly if she
+likes.
+
+These secret spends happen at the end, after all six spheres are bid for. In
+the case of a tie, someone whose sphere was bid higher publicly wins.
+
+That is, if Athena and Hephaestus end up waiting each other out and comparing
+Saturn, Athena needs to beat Hephaestus's score outright, not just tie.
+====
 
 Each disciple also starts with six morale. When a disciple's morale hits zero,
 the dreamer routs them back towards where they started. With morale at zero,
