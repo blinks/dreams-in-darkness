@@ -197,8 +197,9 @@ innermost):
 Players have 150 points to spend in the auction. Bids are irrevocable and
 nonrefundable. The final bid for each player in each sphere is their score in
 that attribute. After all bids are complete, players may spend leftover points
-to increase their score in any sphere, but not past a bid rank.
+to increase their score in any sphere, but not past the next bid rank.
 
+.An attribute auction
 ====
 Athena bids 21 in Saturn to start off. If that's the only bid, everyone else
 can (secretly) spend up to 20 points in Saturn, knowing that Athena's 21 points
