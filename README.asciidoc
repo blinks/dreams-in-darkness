@@ -111,6 +111,16 @@ effect.
 
 (Damage for a spell should generally max out at the margin of success.)
 
+Some sample effects:
+- Reflect harm back to the dealer inside a specific area.
+- Summon a horrible monster with one sphere equal to your margin of success.
+- Remotely view another area.
+- Cause a group of people to fall asleep.
+- Fireball an area.
+- Turn yourself invisible.
+- Animate the dead.
+- Teleport yourself to an area.
+
 === Queen
 Sometimes all you need is the right person in the right place with the right
 knife.
