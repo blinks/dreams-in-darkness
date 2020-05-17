@@ -14,365 +14,375 @@ Why are you hiding from me?
 We’re in a different kind of thing now
 All night you’re talking to God
 
-== The basics
-A secrets-filled, competitive role-playing game set in a Napoleonic-era dark
-fantasy for three to fifteen players about the end of a world.
+== The game
 
-=== Preparations
-Get as many people as you can, divided into two roughly-equal teams and one
-dreamer. Since this is the dreamer's book, that's you.
+_Dreams in Darkness_ is a game about forces clashing in the dark, eldritch power
+and its cost, everpresent fog of war, plans and secrets.
 
-Dreams in Darkness can be played in one long-ish session locally, or over a
-bunch of messages remotely, you pick. There's a definite end to each game,
-though: try to reach it.
+We play to find out which players can achieve their objectives and what happens
+to the world as they work towards achieving that goal.
 
-Each game starts with a situation, primed for conflict between the two sides.
-Fill in the details of the situation and let the game begin.
+=== The setting
 
-=== Kriegsspiel
-Role-playing may be a conversation, but Dreams in Darkness is a kriegsspiel,
-different in two primary ways: fog of war and limited communication.
+Dark and quiet fantasy, Sumeria and the sea peoples smashed into Napoleonic-era
+Europe, unknowable eldritch horror.
 
-Both of these limitations seal players off into their own areas, with knowledge
-only of their immediate surroundings, any communication delayed and potentially
-intercepted. These are essential to the experience, don't play around them!
+=== The players
 
-These rules mediate how players wander through the fog, so everyone can make
-informed decisions about what could happen.
+One player will take the role of *the dreamer*, keeping the world stable and
+knowable against the limited vision of the other players. The dreamer should
+tell the truth at all times and read orders in the best possible way for the
+other players, who are fighting against enough ignorance without getting thrown
+more mischief.
 
-=== The ancients
-Two players can escape these limitations: the ancients. These are the two
-warring sides, and sit at the same table with the dreamer. All the other
-players are disciples that follow one of the ancients, and can commune with
-them in person once each day.
+Each other player will create a character and be given an objective, and strives
+to bring the two together to the best of their creative ability.
 
-=== Orders and cards
-Disciples wander through the fog by giving orders. All the character playbooks
-list the same set of basic orders, plus each playbook lists special orders for
-just that archetype.
+These players work together with the dreamer to establish the tone and style of
+the game by communicating in two levels: the secret passing of orders and the
+public communication between everyone.
 
-The rule for orders is that the dreamer will interpret them to the best of
-their ability. Be clear if you want to be understood. No takebacks, no
-contingency plans. Orders must be simple and direct.
+=== Playing a session
 
-The ancients each hold a small hand of Tarot cards, representing their power.
-Minor Arcana can be granted to disciples to aid them for a turn, increasing the
-spheres that match. Major Arcana are artifacts that can be granted to a
-disciple.
+Play is a loop of orders submitted and results announced. The dreamer tells each
+other player what they alone know about the world, and might announce to the
+table things that anyone would notice or rumors that are spreading. The players
+then negotiate and discuss and clarify, eventually sending a few sentences of
+orders to the dreamer to tell them what will be attempted in the next cycle.
+When the dreamer receives orders each turn, they'll roll for each one and write
+down the results as if everything was happening at the same time, and the loop
+continues.
 
-=== The spheres
-The spheres are:
+Each cycle of this loop is a "turn", with days split into morning, midday,
+afternoon, dusk, evening, and night turns. Use the time to help narrate what
+the world looks like, who might be out and about in the villages and towns, and
+remember to describe the weather as it changes.
 
-The Sun:: A conflict of raw power or strength. When you charge into battle or
-  tear something apart, count Cups and Pentacles in your favor.
+Orders are short descriptions of what the player wants to do, and should fit on
+a 3" by 5" index card writ pretty large, or a line or two of an email. For
+clarity, players -- especially those sending emails -- should write the turn
+(day and time), the character, and their location as a header. When mentioning a
+sphere, players should note the number of dice they'll get for it, so the
+dreamer doesn't need any character sheets.
 
-Mercury:: A conflict of speed or skill. When you run to intercept an enemy or
-  carefully explore a ruin, count Wands and Swords in your favor.
+Players will occasionally commune with the dreamer to refresh their hand of
+Tarot cards, which are used to augment orders with bargains for more dice or
+eldritch power. In-person, these cards are passed with the orders publicly,
+while over email you can just mention that you've used it.
 
-Venus:: A conflict of persuasion. When you negotiate with a neutral party or
-  interrogate a deserter, count Cups and Swords in your favor.
+NOTE: A game with this many secrets relies heavily on players being trustworthy,
+helpful, and prompt. We paraphrase the Love Letter rule: if someone needs
+rules to stop them from being a bore, don't invite that player to your game.
 
-The Moon:: A conflict of wisdom, secrets, or magic. When you cast a spell or
-  seek out forbidden knowledge, count Wands and Cups in your favor.
+== The system
 
-Mars:: A conflict of courage or constitution. When you march without rest or
-	hold steady in the face of a charge, count Wands and Pentacles in your favor.
+=== The loop
 
-Saturn:: A conflict of patience or solitude. When you depend on critical timing
-  or you travel alone, count Swords and Pentacles in your favor.
+This game is not a conversation, though a conversation should be taking place
+while you play. Instead, _Dreams_ is a loop: players gain (1) observations of
+the world through the dreamer, then (2) orient themselves with that information
+in order to (3) decide what to do next and record that decision as orders,
+finally (4) submitting the orders to the test of the dreamer.
 
-Jupiter:: A conflict of pure luck. When the fates matter more than anything else,
-  count any Minor Arcana in your favor.
+NOTE: For more on this kind of cycle, take a look at the history of kriegsspiel
+and the "OODA loop".
 
-=== Cycle of play
-Each day is divided into six (uneven) turns: morning, midday, afternoon, dusk,
-evening, and night. Each turn:
+The dreamer is responsible for tracking the state of the world using maps and
+pawns and pencils and paper, keeping this state hidden from the players who
+don't have a way of accessing it.
 
-. The ancients get a new tarot card.
-. The dreamer presents each disciple with their current situation.
-. Disciples write orders, optionally communing with their ancients.
-. The dreamer resolves orders, asking ancients for cards as necessary.
-  - If a disciple's only order is to rest during the night turn, they recover
-    two points of morale.
+The other players are responsible for tracking the state of their character
+using the playbook, hidden hand of Tarot cards, and any other tools they find
+helpful, keeping its state hidden from the other players, leaking to the dreamer
+only the information necessary to resolve their orders.
 
-image::dusk.jpg[]
+This double-blind method of play can make the game a very solitary exercise, so
+conversation is encouraged between all players -- no matter where their
+characters are on the map, players may discuss events openly. Talk about plans,
+make boasts, comment on things the dreamer has publicly announced. If you're in
+the same area of the map, you can have a secret conversation, but keep it quick.
 
-== The playbooks
-Disciples choose from these six playbooks before play. Within a team, playbooks
-should be unique.
+=== Judgment calls
 
-=== King
-You sacrificed much to gain arcane power. A little bit more won't hurt.
+[quote, Alfred Habdank Skarbek Korzybski]
+The map is not the territory.
 
-Cast a spell:: When you *cast a spell*, name it and its effect and call upon
-the Moon. On a hit, the dreamer will confirm how much of the effect is
-possible, you can just name it in the future. On a +10, you get the maximum
-effect.
+Since the game is an abstraction of a fantasy world, you'll need to make the
+occasional judgment call. Everyone can contribute, but one person has final say
+over the outcome:
 
-(Damage for a spell should generally max out at the margin of success.)
+- Which orders are reasonable for a given situation? The player giving the
+  orders has the final say.
+- How dangerous and how effective is a given order in this circumstance? The
+  dreamer has the final say.
+- Which consequences are inflicted to manifest the dangers in a given
+  circumstance? The dreamer has the final say.
+- Does resolving this order call for a dice roll, and which one? The dreamer has
+  the final say.
+- Which events in the story match the experience triggers for character
+  advancement? The players have the final say.
 
-Some sample effects:
-- Reflect harm back to the dealer inside a specific area.
-- Summon a horrible monster with one sphere equal to your margin of success.
-- Remotely view another area.
-- Cause a group of people to fall asleep.
-- Fireball an area.
-- Turn yourself invisible.
-- Animate the dead.
-- Teleport yourself to an area.
+=== Rolling the dice
 
-=== Queen
-Sometimes all you need is the right person in the right place with the right
-knife.
+_Dreams_ uses six-sided dice. The dreamer will roll several at once and read the
+single highest result.
 
-From the dark:: When you *strike from the darkness*, name your single target
-and call upon Saturn. On a hit, they're injured equal to your margin of
-success. On a +10, nobody sees you strike.
+- If the highest die is a 6, it's a full success -- things go well. If there's
+  more than one 6, it's a critical success -- the character gains some
+  additional advantage.
 
-=== Bishop
-You follow willingly, in order to act as a conduit for divine power.
+- If the highest die is a 4 or 5, that's a partial success -- they do what they
+  were trying to do, but there are consequences: trouble, harm, reduced effect,
+  etc.
 
-Dreamwalk:: When you *meditate near a fire*, name where your dream wanders and
-call upon Venus. The dreamer will tell you something you see. On a hit, it's
-true. On a +10, it's detailed.
+- If the highest die is 1-3, it's a bad outcome -- things go poorly. They
+  probably don't achieve their goal and they suffer complications, too. If they
+  passed a card as a bargain, show its downside.
 
-=== Knight
-Swords, horses, and courage solve any problem worth solving.
+If you ever need to roll for an order where the player hasn't been able to
+muster any dice, roll two dice and take the single lowest result. You can't roll
+a critical when they have zero dice.
 
-Call them out:: When you *seek out your enemy*, describe your insults and call
-upon Mars. On a hit, they lose a morale. On a +10, they rout. An enemy that
-isn't specifically ordered to stay out of a fight is immune to this morale
-loss, and forced to fight instead.
+=== Resistance rolls
 
-=== Rook
-Talk softly and carry a big siege weapon.
+Describe consequences in public (but avoid details that the player would already
+know), successes in private. If a player wants to avoid a consequence (for
+themselves or someone else), they should call for a resistance roll in either
+salt (for physical consequences) or sulphur (for intangible consequences).
 
-Sound of the guns:: When you *set up an artillery barrage*, name an adjacent
-area and call upon the Sun. On a hit, everything in that area takes damage
-equal to half your margin of success and loses a morale.  On a +10, you also
-gain a morale.
+Resistance rolls always succeed, at the cost of stress on the resisting player.
+This success might reduce the consequence or eliminate it altogether. Resistance
+results are one of the main ways to establish tone in the game.
 
-=== Pawn
-You know the land better than anyone -- the hidden paths, dark tombs, sacred
-places. Your enemies don't understand what they're walking into.
+== Spheres and alchemicals
 
-Entrapment:: When you *lay traps*, name their danger and call upon Mercury. On
-a hit, the area is trapped. On a +10, your friends are safe from the danger.
-You are always safe from your own traps.
+There are six spheres in the game that cover what the players might do to
+overcome obstacles.
 
-Write down their Mercury score next to the trap. When an enemy triggers it,
-determine the margin of success (if any) and deal damage up to half that
-margin.
+Each sphere has a rating (from zero to four) that tells the dreamer how many
+dice to roll when resolving an order under that sphere. This doesn't just
+represent skill or training -- you're free to describe _how_ your character
+performs that action based on what resources are available to them, what kind of
+person they are, and what their associates are capable of.
 
-=== Orders
-Every disciple gets all of the basic orders. These are:
+Maybe your character is strong under the Moon because they're a vast well of
+secrets through decades of study, while another character travels with an
+entourage of magi that each can tap into a different sense of the worlds beyond.
 
-- Rest
-- Charge into battle
-- Tear something apart
-- Intercept a moving enemy
-- Explore a hidden place
-- Negotiate with a neutral party
-- Interrogate a deserter
-- Invoke arcane power
-- Seek forbidden knowledge
-- March without rest
-- Hold steady
-- Watch and wait
-- Travel alone
+You choose which sphere applies to the orders you give, by describing what your
+character does. Spheres that are poorly suited to the situation may be less
+effective and may put the character and their followers in more danger, but the
+order will still be valid. Usually, when you send your orders, the dreamer will
+make an *orders roll* to see how it turns out, and report back to you.
 
-image::flame.jpg[]
-
-== Character creation
-
-[verse,H.P. Lovecraft, The Colour out of Space.]
+[quote, H.P. Lovecraft, The Colour out of Space]
 It all began, old Ammi said, with the meteorite.
 
-Print out two sets of playbooks and give a set to each ancient. Within each
-team, have everybody choose one, no duplicates. Set the rest aside.
+=== Sun
 
-You'll also need enough copies of the map so everyone can get one, some
-pencils, and a deck of tarot cards.
+image::sun.png[Sun,float=left,height=20]
+The sphere of raw power and strength. It takes gold to push yourself for a die
+under the Sun, while a bargain can be had with cups or pentacles.
 
-Then, hold an auction for each sphere in turn (from the outermost to the
-innermost):
+Call on the Sun to tear something apart or charge into battle. You could use it
+to march towards a better position, but Mars might be better.
 
-. Saturn: patience and solitude.
-. Mars: courage and constitution.
-. The Moon: wisdom, secrets, and magic.
-. Venus: charisma and persuasion.
-. Mercury: speed and skill.
-. The Sun: raw power and strength.
+=== Mercury
 
-Players have 150 points to spend in the auction. Bids are irrevocable and
-nonrefundable. The final bid for each player in each sphere is their score in
-that attribute. After all bids are complete, players may spend leftover points
-to increase their score in any sphere, but not past the next bid rank.
+image::mercury.png[Mercury,float=left,height=20]
+The sphere of speed and skill. It takes quicksilver to push yourself for a die
+under Mercury, while a bargain can be had with wands or swords.
 
-.An attribute auction
-====
-Athena bids 21 in Saturn to start off. If that's the only bid, everyone else
-can (secretly) spend up to 20 points in Saturn, knowing that Athena's 21 points
-is the maximum.
+Call on Mercury to intercept an enemy before they reach their goal, or explore
+an area, searching for secrets. You could use it to rush past their defenses,
+but the Sun might be better.
 
-But instead, Hephaestus bids 30. The other players can still only spend up to
-20, but Athena can now spend up to 8 more (bringing her to 29) secretly if she
-likes.
+=== Venus
 
-These secret spends happen at the end, after all six spheres are bid for. In
-the case of a tie, someone whose sphere was bid higher publicly wins.
+image::venus.png[Venus,float=left,height=20]
+The sphere of persuasion and emotion. It takes copper to push yourself for a
+die under Venus, while a bargain can be had with cups or swords.
 
-That is, if Athena and Hephaestus end up waiting each other out and comparing
-Saturn, Athena needs to beat Hephaestus's score outright, not just tie.
-====
+Call on Venus to negotiate with a neutral party (never another player) or
+interrogate a deserter. You could use it to hold steady against an oncoming
+charge, but Mars might be better.
 
-Each disciple also starts with six morale. When a disciple's morale hits zero,
-the dreamer routs them back towards where they started. With morale at zero,
-the disciple always runs away from any threat.
+=== Moon
 
-Each ancient starts with three randomly-drawn tarot cards. These can be spent
-to improve a disciple's spheres on any given turn, or to grant them a powerful
-artifact (which distracts them the turn they find it).
+image::moon.png[Moon,float=left,height=20]
+The sphere of wisdom and secrets. It takes silver to push yourself for a die
+under the Moon, while a bargain can be had with wands or cups.
 
-The game starts in a pseudo-night turn: time to discuss amongst the teams
-before the first morning turn. Both sides should present an initial set of
-orders for that turn that include where they enter play.
+Call on the Moon to seek forbidden knowledge in a safe place, or to use an
+artifact's arcane power. You could use it to hide yourself for an ambush, but
+Mercury might be better.
 
-=== Goals
-- To the ancients: play to win creatively.
-- To the disciples: play to satisfy your obligations.
-- To the dreamer: play to find out what happens.
+=== Mars
 
-[verse,The Lost Book of Gideon.]
+image::mars.png[Mars,float=left,height=20]
+The sphere of courage and constitution. It takes iron to push yourself for a die
+under Mars, while a bargain can be had with wands or pentacles.
+
+Call on Mars to march without rest over roads and clear countryside, or to
+steady yourself against an approaching danger. You could use it to delve into an
+ancient tomb, but the Moon might be better.
+
+=== Saturn
+
+image::saturn.png[Saturn,float=left,height=20]
+The sphere of patience and solitude. It takes lead to push yourself for a die
+under Saturn, while a bargain can be had with swords or pentacles.
+
+Call on Saturn to watch and wait patiently with plans to react, or to travel
+quietly across hidden paths in small groups. You could use it to go alone to
+negotiate with a village leader, but Venus might be better.
+
+=== Salt
+
+image::salt.png[Salt,float=left,height=20]
+The attribute of the physical body. Used to resist physical consequences.
+
+Salt's associated spheres are the Sun, Mercury, and Mars.
+
+=== Sulphur
+
+image::sulphur.png[Sulphur,float=left,height=20]
+The attribute of the intangible soul. Used to resist spiritual consequences.
+
+Sulphur's associated spheres are Venus, the Moon, and Saturn.
+
+== The playbooks
+
+. Choose a playbook. The dreamer can use chess pieces on a paper map to keep
+  track of where everyone is, but that's simpler if folks coordinate with them
+  about what they want to choose.
+
+. Draw Major Arcana for your secret objective. (Note: For the playtest, the
+  dreamer might give you one specifically.)
+
+. Mark four dots under three different spheres, as you wish. No sphere can have
+  a rating of more than two at the beginning of the game.
+
+. Choose a special ability. (Note: For the playtest, there might only be one
+  available to you.)
+
+. Record your name, alias, and look.
+
+[verse, The Lost Book of Gideon]
 She laid the three stones below the altar,
 words of power chanted through her.
 The moment arrived, his eyes opened,
 and she brought down the dagger.
 
-== The dreamer
-That's you, the impartial observer and storyteller. You're in control of what
-happens when this book leaves things undecided. Be fair, but also dark.
+=== King
 
-=== Your moves
-Whenever this book leaves an outcome blank, choose one of these moves and make
-it. Don't let the world be static.
+You sacrificed much to gain arcane power. A little bit more won’t hurt.
 
-- Grant the opposing ancient a card.
-- Push them off-course.
-- Give an enemy information.
-- Awaken something in the world.
-- Change the weather.
-- Take their morale.
-- Hint about something valuable at a cost.
+[quote, Paulo Coehlo, The Alchemist]
+"What’s the world’s greatest lie?" the boy asked. "It’s this: that at a certain
+point in our lives, we lose control of what’s happening to us, and our lives
+become controlled by fate. That’s the world’s greatest lie."
 
-=== A fair fight
-When neither side wants to engage, there's no combat. When only one side wants
-to engage, the other runs: make a move.
+- Library of Alexandria: When you commune with the dreamer, keep at most two and
+  draw up to seven cards.
 
-When both sides want to engage, they do so: both sides call upon the Sun and
-deal damage equal to a tenth of their score, rounded up. The side with the
-higher score counts the margin towards their score. The dreamer divides the
-damage for each side as evenly as possible (extra to the leader, generally),
-and then reports on how much each disciple needs to take.
+=== Queen
 
-Damage is taken by reducing a sphere one point for each point of damage.
-Spheres cannot go negative.
+Sometimes all you need is the right person in the right place with the right
+blade.
 
-.Example of a battle
-====
-A (Sun:30) and B (Sun:14) are together, ready to fight C (Sun:28).
+[quote, Savielly Tartakower]
+It’s always better to sacrifice your opponent’s men.
 
-A and B made it clear that A's the leader, so only B's sphere is halved, giving
-their side Sun:37. C is unambiguously the leader, and gets their full Sun:28.
+- A little help from my friends: Whenever you use a face card to bargain, the
+  dreamer will give you an ally. Remind them in your orders.
 
-The margin is +9 to A and B, so they do 46/10 = 5 damage. C does 28/10 = 3
-damage back. A will take two and B will take one damage, while C takes the full
-five.
-====
+=== Bishop
 
-== The situation
-A ritual has begun that will grant one ancient unlimited power. The other
-ancient needs to prevent it from doing so.
+You follow willingly, in order to act as a conduit for divine power.
 
-Ask the defender, secretly: where on the map is the ritual taking place?
-Ask the attacker, secretly: which direction are you approaching from?
-Tell everyone: at sundown on the third day, the ritual will complete.
+- Dreamwalk: From dusk until morning, whenever you rest you can ask a yes or no
+  question about the world. The dreamer will answer truthfully.
 
-image::woods.jpg[]
+=== Knight
 
-== The map
-Get or draw a 22-area map. Shuffle up the major arcana, and for each area draw a card:
+Swords, horses, and courage solve any problem worth solving.
 
-[cols="1,3"]
-|===
-|The card |The area
+- Shield of faith: You have one special armor box for resisting something
+  fearful. When you use it, tell everyone how you laugh it off.
 
-|The Fool
-|The White Cliffs: chalk cliffs, overlooking a body of water.
+=== Rook
 
-|The Magician
-|The Valley of Flowers: a quiet valley of wildflowers.
+Talk softly and carry a big siege weapon.
 
-|The High Priestess
-|The Temple of Solomon: an ancient temple, mostly abandoned by now.
+- Sound of the guns: You have artillery. It is frightening to anyone nearby and
+  can also hammer adjacent areas with shells.
 
-|The Empress
-|The Wheat Fields: no longer actively farmed, still useful to some.
+=== Pawn
 
-|The Emperor
-|The Lonely Mountain: a dormant volcano, dominating the landscape.
+You know the land better than anyone — the hidden paths, dark tombs, sacred
+places. Your enemies don’t understand what they’re walking into.
 
-|The Hierophant
-|Great Hall Telesterion: an enormous structure for holding mysterious ceremonies.
+[quote, François-André Danican Philidor]
+Pawns are the soul of the game.
 
-|The Lovers
-|The Black River: wide and slow-moving, dark and quiet.
+- Cover your tracks: If someone meets you in battle, they must first suffer a
+  consequence of the traps you set wherever you go. They will not learn who set
+  these traps in the description. Describe these to the dreamer in your first
+  orders, and change them whenever you like.
 
-|The Chariot
-|The Broken Wall: once a symbol of a powerful empire, now only pieces remain.
+== Cards
 
-|Strength
-|The Stone Forest: petrified before living memory.
+When you commune with the dreamer, keep up to one card in your hand and discard
+the rest, then draw back up to five cards from a Tarot deck.
 
-|The Hermit
-|The Wasteland: a dangerous place to be for anyone.
+These cards may be played with your orders to bargain for more dice or eldritch
+power. Bargains are always a risk. The dreamer will use the card's meaning to
+help them decide what happens on a failure.
 
-|Wheel of Fortune
-|Loch Frithir: a deep lake in the forest.
+=== Minor Arcana
 
-|Justice
-|The Lögberg: the stone of law, standing on a low hill.
+Each suit in the minor arcana is connected to three spheres.
 
-|The Hanged Man
-|The Ceiba Tree: ropes still hang from its branches.
+- Cups bargain with the Sun, the Moon, or Venus.
+- Pentacles bargain with the Sun, Mars, or Saturn.
+- Swords bargain with Mercury, Venus, or Saturn.
+- Wands bargain with Mercury, the Moon, or Mars.
 
-|Death
-|The Two Towers: some say the two mages still fight to this day.
+These bargains will always give you an extra die, and the dreamer will use the
+card's meaning to apply some additional effect. You are encouraged to suggest
+some effect in the orders you submit, based on your feeling about the card.
 
-|Temperance
-|The Fens: many get lost in this misty swamp searching for the old library.
+=== Major Arcana
 
-|The Devil
-|The Broken Table: sacrifices were made, once.
+As part of your orders for the turn, you may play major arcana in your hand to
+trigger its effect. Write a short sentence to tell the dreamer your intention,
+and something will happen.
 
-|The Tower
-|The Ruins of Ugarit: the first to burn when the war came.
+- 0. The Fool sows confusion until the next sunrise.
+- I. The Magician transmutes elemental objects and forces.
+- II. The High Priestess gives you a mysterious vision of the world.
+- III. The Empress births something terrible.
+- IV. The Emperor controls another mortal for a critical moment.
+- V. The Hierophant gives you specific advice on a subject you choose.
+- VI. The Lovers give you a moment alone with someone you know.
+- VII. The Chariot enables you to travel quickly for a full day.
+- VIII. Strength gives you supernatural power until the next sunset.
+- IX. The Hermit gives you vision of a distant location.
+- X. Wheel of Fortune calls fate to give you a boon.
+- XI. Justice weighs yourself and another on the scales.
+- XII. The Hanged Man clears your sight until the next morning.
+- XIII. Death ends something.
+- XIV. Temperance takes something you have in excess to give something you lack.
+- XV. The Devil calls for aid from powers you neither understand nor control.
+- XVI. The Tower destroys something utterly.
+- XVII. The Star restores something mortal at a cost.
+- XVIII. The Moon veils you from mortal vision until you rest or draw blood.
+- XIX. The Sun gives you the loyalty of all who see you.
+- XX. Judgment raises the dead to do your bidding.
+- XXI. The World transports you leagues in an instant.
 
-|The Star
-|Llyn Llydaw: this lake holds many secrets, some even tossed in willingly.
-
-|The Moon
-|The Ring of Brodgar: these standing stones are still used to track the stars.
-
-|The Sun
-|Tournesol Hills: sunflowers grow atop these hills.
-
-|Judgement
-|The Lost Crypts: the entrance must be there somewhere.
-
-|The World
-|The City of Gold: the center of culture, even now.
-|===
+== Ludography
 
 [verse, Ammurapi]
 My father behold, the enemy’s ships came;
@@ -385,202 +395,9 @@ May my father know it:
 the seven ships of the enemy that came here
 inflicted much damage upon us.
 
-== The basic orders
-The rule for orders is: be clear. The dreamer will interpret your orders to the
-best of their ability, without asking for clarification.
-
-Orders often ask you to call upon a sphere; this is a conflict between you and
-your opposition, where your result is based on the difference between your
-scores. (If there's no opposition, compare to zero.) If you have fewer points
-in the sphere than your opposition, it's a miss.  Otherwise, it's a hit. The
-difference in points is your margin of success (like +10) or failure (like -4).
-
-If your ancient grants you a card, it might be very helpful (+25 if the minor arcana
-suit is good for that sphere), or slightly helpful (+10 if it doesn't match), or
-not helpful at all (-X for major arcana based on its rank, but they grant you
-an artifact if you hit anyway).
-
-=== Rest
-When you *rest through the night*, regain two morale points. If something
-interrupts your rest, regain only one.
-
-=== Charge
-When you *charge into battle*, name your enemy and call upon the Sun. On a
-miss, your courage fails you and the charge stops short of hand-to-hand combat.
-Otherwise, take a morale point from them. On a +10, carry this margin over to
-combat, if it happens.
-
-.Battle in the wheat fields
-====
-Joan (Sun:25, Mars:10) and George (Sun:5, Mars:35) both reach the wheat fields
-by midday. The dreamer asks the ancients for cards, but they decide to wait and
-see.
-
-Joan's midday orders: charge into battle for glory and honor. Take no
-prisoners.
-
-George's midday orders: steel ourselves for the inevitable charge; let them
-fall on our spears.
-
-The dreamer looks at these orders and sees that Joan is _charging into battle_
-while it seems like George is _steadying himself_ for the charge.
-
-As the _steady_ move talks about "defending against something expected," George
-is resolved first, and gets +25 when he calls upon Mars. This carries over to
-defending against the expected charge, which flips the result: Joan calls upon
-the Sun and instead of getting +20, she gets -5!
-
-The dreamer sends back results. To George: "Your shields flash in the sun and
-the riot of your enemy stops short in the fields before you." To Joan: "You let
-out a battle cry and surge forward, but your enemy doesn't flinch. Their
-steadiness causes your corps to lose faith in the charge, stopping well short
-of battle."
-
-If George hadn't expected the charge, Joan would have gotten that +20 and
-carried it over to the fight (likely doing serious damage to George's stats).
-
-If Joan's ancient had donated the right card, she could have gotten +10 or even
-+25 towards her charge and won the day _even though_ George expected it.
-====
-
-=== Break
-When you *tear something apart* or break something down, name your method and
-your target and call upon the Sun. On a hit, it's gone.
-
-=== Intercept
-When you *intercept a moving enemy*, name the enemy and where you catch them
-and call upon Mercury. On a hit, you catch them. On a +10, you catch them by
-surprise: carry this margin over to a combat.
-
-=== Explore
-When you *explore the area*, searching for secrets, describe what you saw that
-made you curious and call upon Mercury. On a hit, the dreamer will tell you
-something interesting about the area. On a +10, the dreamer will tell you how
-it's also useful, otherwise you'll have to make it useful on your own.
-
-=== Negotiate
-When you *negotiate with a neutral party*, name the party and what you want
-from them and call upon Venus. On a hit, they do what you want. On a +10, they
-don't ask for anything in return.
-
-=== Interrogate
-When you *interrogate a deserter*, ask three questions and call upon Venus. The
-dreamer will answer your questions. On a miss, one answer will be true. On a
-hit, two answers. On a +10, they'll all be true.
-
-The dreamer won't tell you which answers are true, nor how many.
-
-=== Invoke
-When you *use an artifact's arcane power*, name how it fulfills your desires
-and call upon the Moon. On a hit, there isn't a catch. On a +10, it works
-better than you expected.
-
-=== Quest
-When you *seek forbidden knowledge* in a safe place, name what you seek and
-call upon the Moon. On a hit, you know how to get it. On a +10, nobody else
-knows it exists.
-
-=== Forced march
-When you *march without rest*, describe your route and intended destination
-and call upon Mars. On a hit, you get there. On a +10, you gain morale. On a
-miss, you stumble across something unexpected.
-
-=== Steady
-When you *steady yourself*, name what you expect and call upon Mars. On a hit,
-what you expect doesn't shake you, you stand firm against it: take a bonus to
-defending against it equal to your margin of success.
-
-=== Watch
-When you *watch and wait patiently*, name two contingency plans and call upon
-Saturn. On a hit, you'll take a plan that matches your situation. On a +10,
-you'll take the best plan.
-
-=== Traverse
-When you *travel quietly across the countryside*, name a neighboring area and
-call upon Saturn. On a hit, you reach it without being noticed. On a +10, you
-find something interesting on the way.
-
-== Artifacts
-Ancients can grant major arcana to their disciples as powerful artifacts.
-Unfortunately, the rank of these cards counts against that disciple on the turn
-it's granted to them.
-
-These powers are meant to be vague, interpreted by the dreamer.
-
-[cols="1,3"]
-|===
-|The card |The artifact
-
-|0 The Fool
-|Sows confusion until the next sunrise.
-
-|I The Magician
-|Transmutes elemental objects and forces.
-
-|II The High Priestess
-|Gives you a mysterious vision of the world.
-
-|III The Empress
-|Births something terrible.
-
-|IV The Emperor
-|Controls another mortal for a critical moment.
-
-|V The Hierophant
-|Gives you specific advice on a subject you choose.
-
-|VI The Lovers
-|Gives you a moment alone with someone you know.
-
-|VII The Chariot
-|Enables you to travel quickly until the next sunset.
-
-|VIII Strength
-|Gives you supernatural power until the next sunset.
-
-|IX The Hermit
-|Gives you vision of a distant location.
-
-|X Wheel of Fortune
-|Calls fate to give you a boon.
-
-|XI Justice
-|Weighs yourself and another on the scales.
-
-|XII The Hanged Man
-|Clears your sight until the night.
-
-|XIII Death
-|Ends something.
-
-|XIV Temperance
-|Takes something you have in excess to give something you lack.
-
-|XV The Devil
-|Calls for aid from powers you do not understand nor control.
-
-|XVI The Tower
-|Destroys something utterly.
-
-|XVII The Star
-|Restores something mortal at a cost.
-
-|XVIII The Moon
-|Veils you from mortal vision until the next dawn, or until you draw blood.
-
-|XIX The Sun
-|Gives you the loyalty of all who see you.
-
-|XX Judgement
-|Raises the dead to do your bidding.
-
-|XXI The World
-|Transports you leagues in an instant.
-|===
-
-== Ludography
 - Apocalypse World
 - Blades in the Dark
+- Braunstein
 - Burning Wheel
 - Dungeon World
 - Le Vol de l'Aigle
