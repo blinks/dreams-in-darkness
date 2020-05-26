@@ -102,6 +102,24 @@ characters are on the map, players may discuss events openly. Talk about plans,
 make boasts, comment on things the dreamer has publicly announced. If you're in
 the same area of the map, you can have a secret conversation, but keep it quick.
 
+=== Actions and Secrets
+
+When you give your action to the dreamer, it's helpful for it to have four
+specific parts:
+
+- When: What turn is it? This might seem silly from the non-dreamer side, but
+  it's essential when you're handling several secrets at once.
+- Task: What are you doing? Think fictionally. What does it look like, and what
+  kind of roll do you want to make? In particular, include where you're doing
+  these things, as specific as possible. While it might not matter to you, there
+  are other people wandering around.
+- Intent: What do you want to happen? Think like a player.
+- Material: Any bargained card or major arcana ritual attached at the end.
+
+This information helps the dreamer stay organized and also better understand
+what you want to do without needing to do a bunch of back-and-forth. Secrets
+are much more difficult when they need to make several round trips.
+
 === Judgment calls
 
 [quote, Alfred Habdank Skarbek Korzybski]
