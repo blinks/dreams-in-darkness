@@ -172,6 +172,23 @@ Resistance rolls always succeed, at the cost of stress on the resisting player.
 This success might reduce the consequence or eliminate it altogether. Resistance
 results are one of the main ways to establish tone in the game.
 
+=== Movement
+
+One of the most common things players will do during the game is move around.
+
+For the dreamer's sanity, the only real locations on the map are towns (corners
+and crossroads), roads and rivers (edges), and areas. A character exists on one
+of these and that's all the detail you really need to know.
+
+When a character walks, they can make it down two roads/rivers or one normal
+area in a turn. When they ride or sail, they can pass three roads/rivers or two
+areas.
+
+A character really pushing themselves can move one additional road or river or
+area, but it should probably hurt. Complicated areas might take twice as long to
+cross (you enter the area on one turn, and exit it on the next), but you
+shouldn't have to worry about where you are specifically in there.
+
 == Spheres and alchemicals
 
 There are six spheres in the game that cover what the players might do to
