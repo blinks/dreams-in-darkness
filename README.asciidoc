@@ -213,18 +213,19 @@ make an *orders roll* to see how it turns out, and report back to you.
 [quote, H.P. Lovecraft, The Colour out of Space]
 It all began, old Ammi said, with the meteorite.
 
-=== Sun
+=== Salt
+The attribute of the physical body. Used to resist physical consequences.
 
-image::sun.png[Sun,float=left,height=20]
+Salt's associated spheres are the Sun, Mercury, and Mars.
+
+==== Sun
 The sphere of raw power and strength. It takes gold to push yourself for a die
 under the Sun, while a bargain can be had with cups or pentacles.
 
 Call on the Sun to tear something apart or charge into battle. You could use it
 to march towards a better position, but Mars might be better.
 
-=== Mercury
-
-image::mercury.png[Mercury,float=left,height=20]
+==== Mercury
 The sphere of speed and skill. It takes quicksilver to push yourself for a die
 under Mercury, while a bargain can be had with wands or swords.
 
@@ -232,29 +233,7 @@ Call on Mercury to intercept an enemy before they reach their goal, or explore
 an area, searching for secrets. You could use it to rush past their defenses,
 but the Sun might be better.
 
-=== Venus
-
-image::venus.png[Venus,float=left,height=20]
-The sphere of persuasion and emotion. It takes copper to push yourself for a
-die under Venus, while a bargain can be had with cups or swords.
-
-Call on Venus to negotiate with a neutral party (never another player) or
-interrogate a deserter. You could use it to hold steady against an oncoming
-charge, but Mars might be better.
-
-=== Moon
-
-image::moon.png[Moon,float=left,height=20]
-The sphere of wisdom and secrets. It takes silver to push yourself for a die
-under the Moon, while a bargain can be had with wands or cups.
-
-Call on the Moon to seek forbidden knowledge in a safe place, or to use an
-artifact's arcane power. You could use it to hide yourself for an ambush, but
-Mercury might be better.
-
-=== Mars
-
-image::mars.png[Mars,float=left,height=20]
+==== Mars
 The sphere of courage and constitution. It takes iron to push yourself for a die
 under Mars, while a bargain can be had with wands or pentacles.
 
@@ -262,29 +241,34 @@ Call on Mars to march without rest over roads and clear countryside, or to
 steady yourself against an approaching danger. You could use it to delve into an
 ancient tomb, but the Moon might be better.
 
-=== Saturn
+=== Sulphur
+The attribute of the intangible soul. Used to resist spiritual consequences.
 
-image::saturn.png[Saturn,float=left,height=20]
+Sulphur's associated spheres are Venus, the Moon, and Saturn.
+
+==== Venus
+The sphere of persuasion and emotion. It takes copper to push yourself for a
+die under Venus, while a bargain can be had with cups or swords.
+
+Call on Venus to negotiate with a neutral party (never another player) or
+interrogate a deserter. You could use it to hold steady against an oncoming
+charge, but Mars might be better.
+
+==== Moon
+The sphere of wisdom and secrets. It takes silver to push yourself for a die
+under the Moon, while a bargain can be had with wands or cups.
+
+Call on the Moon to seek forbidden knowledge in a safe place, or to use an
+artifact's arcane power. You could use it to hide yourself for an ambush, but
+Mercury might be better.
+
+==== Saturn
 The sphere of patience and solitude. It takes lead to push yourself for a die
 under Saturn, while a bargain can be had with swords or pentacles.
 
 Call on Saturn to watch and wait patiently with plans to react, or to travel
 quietly across hidden paths in small groups. You could use it to go alone to
 negotiate with a village leader, but Venus might be better.
-
-=== Salt
-
-image::salt.png[Salt,float=left,height=20]
-The attribute of the physical body. Used to resist physical consequences.
-
-Salt's associated spheres are the Sun, Mercury, and Mars.
-
-=== Sulphur
-
-image::sulphur.png[Sulphur,float=left,height=20]
-The attribute of the intangible soul. Used to resist spiritual consequences.
-
-Sulphur's associated spheres are Venus, the Moon, and Saturn.
 
 == The playbooks
 
