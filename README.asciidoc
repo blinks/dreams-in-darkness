@@ -400,6 +400,22 @@ and something will happen.
 - XX. Judgment raises the dead to do your bidding.
 - XXI. The World transports you leagues in an instant.
 
+== Maps
+
+When building the map, the dreamer should find or make a diagram of twenty-two
+areas. It should fit on a single sheet of paper.
+
+Each area has one major point of interest. Edges around the area are roads or
+waterways. Corners around the area are houses, villages, towns, or cities.
+Stopping places, at the crossroads. This helps build a realistic-feeling map
+while also making it easy to talk about locations on it.
+
+To decide on the points of interest, shuffle up the major arcana of a tarot deck
+and do a reading for the map. For each area, draw a card and decide what it
+might mean as a place. Maybe the Tower is a giant sinkhole into which a powerful
+people fell. Maybe the Emperor is a mountain fortress from which someone
+commands. Use your own intuition, and set the tone of your game through the map.
+
 == Ludography
 
 [verse, Ammurapi]
